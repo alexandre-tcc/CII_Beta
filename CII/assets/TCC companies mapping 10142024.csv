@@ -1,0 +1,1439 @@
+name,ticker,Bloomberg ticker,S&P rating,Moody rating,country,cik,isin,cusip,Sector,-,Industry
+Walmart Inc.,WMT,WMT US equity,AA,Aa2,US,104169.0,US9311421039,931142103,Consumer Defensive,Discount Stores,Discount Stores
+"Amazon.com, Inc.",AMZN,AMZN US equity,AA,A1,US,1018724.0,US0231351067,023135106,Consumer Cyclical,Internet Retail,Specialty Retail
+,386,386 HK equity,A+,,,,,,,,
+Apple Inc.,AAPL,AAPL US equity,AA+,Aaa,US,320193.0,US0378331005,037833100,Technology,Consumer Electronics,Consumer Electronics
+CVS Health Corporation,CVS,CVS US equity,BBB,Baa2,US,64803.0,US1266501006,126650100,Healthcare,Healthcare Plans,Medical - Healthcare Plans
+,7203,7203 JP equity,A+,A1,,,,,,,
+,BRK/A,BRK/A US equity,AA,Aa2,,,,,,,
+McKesson Corporation,MCK,MCK US equity,BBB+,Baa1,US,927653.0,US58155Q1031,58155Q103,Healthcare,Medical Distribution,Medical - Distribution
+Exxon Mobil Corporation,XOM,XOM US equity,AA-,Aa2,US,34088.0,US30231G1022,30231G102,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+Alphabet Inc.,GOOG,GOOG US equity,AA+,Aa2,US,1652044.0,US02079K1079,02079K107,Communication Services,Internet Content & Information,Internet Content & Information
+AmerisourceBergen Corporation,ABC,ABC US equity,BBB+,Baa2,US,1140859.0,US03073E1055,03073E105,Healthcare,Medical Distribution,Medical - Distribution
+,BP.,BP. US equity,A-,,,,,,,,
+Costco Wholesale Corporation,COST,COST US equity,A+,Aa3,US,909832.0,US22160K1051,22160K105,Consumer Defensive,Discount Stores,Discount Stores
+Microsoft Corporation,MSFT,MSFT US equity,AAA,Aaa,US,789019.0,US5949181045,594918104,Technology,Software—Infrastructure,Software - Infrastructure
+AT&T Inc.,T,T US equity,BBB,Baa2,US,732717.0,US00206R1023,00206R102,Communication Services,Telecom Services,Telecommunications Services
+"Cardinal Health, Inc.",CAH,CAH US equity,BBB,Baa2,US,721371.0,US14149Y1082,14149Y108,Healthcare,Medical Distribution,Medical - Distribution
+TotalEnergies SE,TTE,TTE US equity,A+,A1,FR,879764.0,US89151E1091,89151E109,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+"The Home Depot, Inc.",HD,HD US equity,A,A2,US,354950.0,US4370761029,437076102,Consumer Cyclical,Home Improvement Retail,Home Improvement
+The Kroger Co.,KR,KR US equity,BBB,Baa1,US,56873.0,US5010441013,501044101,Consumer Defensive,Grocery Stores,Grocery Stores
+"Walgreens Boots Alliance, Inc.",WBA,WBA US equity,BBB,Baa3,US,1618921.0,US9314271084,931427108,Healthcare,Pharmaceutical Retailers,Medical - Pharmaceuticals
+Ford Motor Company,F,F US equity,BB+,Ba2,US,37996.0,US3453708600,345370860,Consumer Cyclical,Auto Manufacturers,Auto - Manufacturers
+Chevron Corporation,CVX,CVX US equity,AA-,Aa2,US,93410.0,US1667641005,166764100,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+Verizon Communications Inc.,VZ,VZ US equity,BBB+,Baa1,US,732712.0,US92343V1044,92343V104,Communication Services,Telecom Services,Telecommunications Services
+JPMorgan Chase & Co.,JPM,JPM US equity,A-,A1,US,19617.0,US46625H1005,46625H100,Financial Services,Banks—Diversified,Banks - Diversified
+General Motors Company,GM,GM US equity,BBB,Baa2,US,1467858.0,US37045V1008,37045V100,Consumer Cyclical,Auto Manufacturers,Auto - Manufacturers
+Alibaba Group Holding Limited,BABA,BABA US equity,A+,A1,CN,1577552.0,US01609W1027,01609W102,Consumer Cyclical,Internet Retail,Specialty Retail
+Comcast Corporation,CMCSA,CMCSA US equity,A-,A3,US,1166691.0,US20030N1019,20030N101,Communication Services,Telecom Services,Telecommunications Services
+Dell Technologies Inc.,DELL,DELL US equity,BBB,,US,1571996.0,US24703L2025,24703L202,Technology,Computer Hardware,Computer Hardware
+Target Corporation,TGT,TGT US equity,A,A2,US,27419.0,US87612E1064,87612E106,Consumer Defensive,Discount Stores,Discount Stores
+Marathon Petroleum Corporation,MPC,MPC US equity,BBB,Baa2,US,1510295.0,US56585A1025,56585A102,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+Phillips 66,PSX,PSX US equity,BBB+,A3,US,1534701.0,US7185461040,718546104,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+"Lowe's Companies, Inc.",LOW,LOW US equity,BBB+,Baa1,US,60667.0,US5486611073,548661107,Consumer Cyclical,Home Improvement Retail,Home Improvement
+Valero Energy Corporation,VLO,VLO US equity,BBB,Baa2,US,1035002.0,US91913Y1001,91913Y100,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+"United Parcel Service, Inc.",UPS,UPS US equity,A,A2,US,1090727.0,US9113121068,911312106,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+Johnson & Johnson,JNJ,JNJ US equity,AAA,Aaa,US,200406.0,US4781601046,478160104,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+Bank of America Corporation,BAC,BAC US equity,A-,A1,US,70858.0,US0605051046,060505104,Financial Services,Banks—Diversified,Banks - Diversified
+FedEx Corporation,FDX,FDX US equity,BBB,Baa2,US,1048911.0,US31428X1063,31428X106,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+,6758,6758 JP equity,A,A3,,,,,,,
+Archer-Daniels-Midland Company,ADM,ADM US equity,A,A2,US,7084.0,US0394831020,039483102,Consumer Defensive,Farm Products,Agricultural Farm Products
+"T-Mobile US, Inc.",TMUS,TMUS US equity,BBB-,,US,1283699.0,US8725901040,872590104,Communication Services,Telecom Services,Telecommunications Services
+General Electric Company,GE,GE US equity,BBB+,Baa1,US,40545.0,US3696041033,369604301,Industrials,Specialty Industrial Machinery,Aerospace & Defense
+Intel Corporation,INTC,INTC US equity,A,A2,US,50863.0,US4581401001,458140100,Technology,Semiconductors,Semiconductors
+Wells Fargo & Company,WFC,WFC US equity,BBB+,A1,US,72971.0,US9497461015,949746101,Financial Services,Banks—Diversified,Banks - Diversified
+The Procter & Gamble Company,PG,PG US equity,AA-,Aa3,US,80424.0,US7427181091,742718109,Consumer Defensive,Household & Personal Products,Household & Personal Products
+"PepsiCo, Inc.",PEP,PEP US equity,A+,A1,US,77476.0,US7134481081,713448108,Consumer Defensive,Beverages—Non-Alcoholic,Beverages - Non-Alcoholic
+International Business Machines Corporation,IBM,IBM US equity,A-,A3,US,51143.0,US4592001014,459200101,Technology,Information Technology Services,Information Technology Services
+Citigroup Inc.,C,C US equity,BBB+,A3,US,831001.0,US1729674242,172967424,Financial Services,Banks—Diversified,Banks - Diversified
+Brookfield Asset Management Inc.,BAM,BAM US equity,,,CA,1001085.0,CA1125851040,112585104,Financial Services,Asset Management,Asset Management
+,PETR4,PETR4 BZ equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+ArcelorMittal S.A.,MT,MT US equity,BBB-,Baa3,LU,1243429.0,US03938L2034,03938L203,Basic Materials,Steel,Steel
+,ENI,ENI US equity,BBB-,Baa2,,,,,,,
+"Albertsons Companies, Inc.",ACI,ACI US equity,BB *+,Ba3 *+,US,1646972.0,US0130911037,013091103,Consumer Defensive,Grocery Stores,Grocery Stores
+Equinor ASA,EQNR,EQNR US equity,AA-,Aa2,NO,1140625.0,US29446M1027,29446M102,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+Pfizer Inc.,PFE,PFE US equity,A+,A1,US,78003.0,US7170811035,717081103,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+The Walt Disney Company,DIS,DIS US equity,BBB+,A2,US,1744489.0,US2546871060,254687106,Communication Services,Entertainment,Entertainment
+Lockheed Martin Corporation,LMT,LMT US equity,A-,A3,US,936468.0,US5398301094,539830109,Industrials,Aerospace & Defense,Aerospace & Defense
+Raytheon Technologies Corporation,RTX,RTX US equity,A-,Baa1,US,101829.0,US75513E1010,75513E101,Industrials,Aerospace & Defense,Aerospace & Defense
+HP Inc.,HPQ,HPQ US equity,BBB,Baa2,US,47217.0,US40434L1052,40434L105,Technology,Computer Hardware,Computer Hardware
+The Boeing Company,BA,BA US equity,BBB-,Baa2,US,12927.0,US0970231058,097023105,Industrials,Aerospace & Defense,Aerospace & Defense
+,ULVR,ULVR LN equity,A+,A1,,,,,,,
+Energy Transfer LP,ET,ET US equity,BBB-,Baa3,US,1276187.0,US29273V1008,29273V100,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Morgan Stanley,MS,MS US equity,A-,A1,US,895421.0,US6174464486,617446448,Financial Services,Capital Markets,Financial - Capital Markets
+"The Goldman Sachs Group, Inc.",GS,GS US equity,BBB+,A2,US,886982.0,US38141G1040,38141G104,Financial Services,Capital Markets,Financial - Capital Markets
+"HCA Healthcare, Inc.",HCA,HCA US equity,BBB-,WR,US,860730.0,US40412C1018,40412C101,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Sysco Corporation,SYY,SYY US equity,BBB,Baa1,US,96021.0,US8718291078,871829107,Consumer Defensive,Food Distribution,Food Distribution
+,VALE3,VALE US equity,BBB-,Baa3,,,,,,,
+AbbVie Inc.,ABBV,ABBV US equity,BBB+,Baa1,US,1551152.0,US00287Y1091,00287Y109,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+Bunge Limited,BG,BG US equity,BBB,,US,1144519.0,BMG169621056,G16962105,Consumer Defensive,Farm Products,Agricultural Farm Products
+,2330,2330 TT equity,AA-,,,,,,,,
+Accenture plc,ACN,ACN US equity,AA-,,IE,1467373.0,IE00B4BNMY34,G1151C101,Technology,Information Technology Services,Information Technology Services
+"Telefónica, S.A.",TEF,TEF US equity,BBB-,Baa3,ES,814052.0,US8793822086,879382208,Technology,Telecom Services - Foreign,Telecommunications Services
+"Merck & Co., Inc.",MRK,MRK US equity,A+,A1,US,310158.0,US58933Y1055,58933Y105,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+"Novan, Inc.",NOVN,NOVN US equity,,,US,1467154.0,US66988N2053,66988N205,Healthcare,Biotechnology,Biotechnology
+"Best Buy Co., Inc.",BBY,BBY US equity,BBB+,A3,US,764478.0,US0865161014,086516101,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Prudential Financial, Inc.",PRU,PRU US equity,A,A3,US,1137774.0,US7443201022,744320102,Financial Services,Insurance—Life,Insurance - Life
+Vodafone Group Public Limited Company,VOD,VOD US equity,BBB,Baa2,GB,839923.0,US92857W3088,92857W308,Communication Services,Telecom Services,Telecommunications Services
+"Charter Communications, Inc.",CHTR,CHTR US equity,BB+,Ba2,US,1091667.0,US16119P1084,16119P108,Communication Services,Telecom Services,Telecommunications Services
+"Cisco Systems, Inc.",CSCO,CSCO US equity,AA-,A1,US,858877.0,US17275R1023,17275R102,Technology,Communication Equipment,Communication Equipment
+,A015760,A015760 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+"Ormat Technologies, Inc.",ORA,ORA US equity,,,US,1296445.0,US6866881021,686688102,Utilities,Utilities—Renewable,Renewable Utilities
+,HSBA,HSBA US equity,,,,,,,,,
+,AMX L,AMX L US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Caterpillar Inc.,CAT,CAT US equity,A,A2,US,18230.0,US1491231015,149123101,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+"American International Group, Inc.",AIG,AIG US equity,BBB+,Baa2,US,5272.0,US0268747849,026874784,Financial Services,Insurance—Diversified,Insurance - Diversified
+"Tyson Foods, Inc.",TSN,TSN US equity,BBB+,Baa2,US,100493.0,US9024941034,902494103,Consumer Defensive,Farm Products,Agricultural Farm Products
+"Tesla, Inc.",TSLA,TSLA US equity,BBB,WR,US,1318605.0,US88160R1014,88160R101,Consumer Cyclical,Auto Manufacturers,Auto - Manufacturers
+"NIKE, Inc.",NKE,NKE US equity,AA-,A1,US,320187.0,US6541061031,654106103,Consumer Cyclical,Footwear & Accessories,Apparel - Footwear & Accessories
+Manulife Financial Corporation,MFC,MFC US equity,A,,CA,1086888.0,CA56501R1064,56501R106,Financial Services,Insurance—Life,Insurance - Life
+"The TJX Companies, Inc.",TJX,TJX US equity,A,A2,US,109198.0,US8725401090,872540109,Consumer Cyclical,Apparel Retail,Apparel - Retail
+Bristol-Myers Squibb Company,BMY,BMY US equity,A+,A2,US,14272.0,US1101221083,110122108,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+GSK plc,GSK,GSK US equity,A,(P)A2,GB,1131399.0,,37733W204,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+"Banco Santander, S.A.",SAN,SAN US equity,A+,(P)A2,ES,891478.0,US05964H1059,05964H105,Financial Services,Banks—Diversified,Banks - Diversified
+"Banco Santander, S.A.",SAN,SAN FP equity,AA,A1,ES,891478.0,US05964H1059,05964H105,Financial Services,Banks—Diversified,Banks - Diversified
+Deere & Company,DE,DE US equity,A,A2,US,315189.0,US2441991054,244199105,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+StoneX Group Inc.,SNEX,SNEX US equity,BB-,,US,913760.0,US8618961085,861896108,Financial Services,Capital Markets,Financial - Capital Markets
+Abbott Laboratories,ABT,ABT US equity,AA-,A1,US,1800.0,US0028241000,002824100,Healthcare,Medical Devices,Medical - Devices
+Oracle Corporation,ORCL,ORCL US equity,BBB,Baa2,US,1341439.0,US68389X1054,68389X105,Technology,Software—Infrastructure,Software - Infrastructure
+LyondellBasell Industries N.V.,LYB,LYB US equity,BBB,Baa2,US,1489393.0,NL0009434992,N53745100,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+American Express Company,AXP,AXP US equity,BBB+,A2,US,4962.0,US0258161092,025816109,Financial Services,Credit Services,Financial - Credit Services
+Royal Bank of Canada,RY,RY US equity,AA-,Aa1,CA,1000275.0,CA7800871021,780087102,Financial Services,Banks—Diversified,Banks - Diversified
+Chubb Limited,CB,CB US equity,A,WR,CH,896159.0,CH0044328745,H1467J104,Financial Services,Insurance—Property & Casualty,Insurance - Property & Casualty
+,500570,500570 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Thermo Fisher Scientific Inc.,TMO,TMO US equity,A-,A3,US,97745.0,US8835561023,883556102,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+General Dynamics Corporation,GD,GD US equity,A-,A3,US,40533.0,US3695501086,369550108,Industrials,Aerospace & Defense,Aerospace & Defense
+The Coca-Cola Company,KO,KO US equity,A+,A1,US,21344.0,US1912161007,191216100,Consumer Defensive,Beverages—Non-Alcoholic,Beverages - Non-Alcoholic
+"Mistras Group, Inc.",MG,MG US equity,,,US,1436126.0,US60649T1079,60649T107,Industrials,Security & Protection Services,Security & Protection Services
+Northrop Grumman Corporation,NOC,NOC US equity,BBB+,Baa1,US,1133421.0,US6668071029,666807102,Industrials,Aerospace & Defense,Aerospace & Defense
+ConocoPhillips,COP,COP US equity,A-,A2,US,1163165.0,US20825C1045,20825C104,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Enterprise Products Partners L.P.,EPD,EPD US equity,A-,,US,1061219.0,US2937921078,293792107,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+,BATS,BATS US equity,NR,,,,,,,,
+3M Company,MMM,MMM US equity,A *-,A1,US,66740.0,US88579Y1010,88579Y101,Industrials,Conglomerates,Conglomerates
+Enbridge Inc.,ENB,ENB US equity,BBB+,Baa1,CA,895728.0,CA29250N1050,29250N105,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Plains All American Pipeline, L.P.",PAA,PAA US equity,BBB-,Baa3,US,1070423.0,US7265031051,726503105,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+,UBSG,UBSG US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Exelon Corporation,EXC,EXC US equity,BBB+,Baa2,US,1109357.0,US30161N1019,30161N101,Utilities,Utilities—Regulated Electric,Regulated Electric
+Honeywell International Inc.,HON,HON US equity,A,A2,US,773840.0,US4385161066,438516106,Industrials,Conglomerates,Conglomerates
+The Toronto-Dominion Bank,TD,TD US equity,AA-,Aa2,CA,947263.0,CA8911605092,891160509,Financial Services,Banks—Diversified,Banks - Diversified
+"The Travelers Companies, Inc.",TRV,TRV US equity,A,A2,US,86312.0,US89417E1091,89417E109,Financial Services,Insurance—Property & Casualty,Insurance - Property & Casualty
+Dollar General Corporation,DG,DG US equity,BBB,Baa2,US,29534.0,US2566771059,256677105,Consumer Defensive,Discount Stores,Discount Stores
+"Arrow Electronics, Inc.",ARW,ARW US equity,BBB-,Baa3,US,7536.0,US0427351004,042735100,Technology,Electronics & Computer Distribution,Technology Distributors
+QUALCOMM Incorporated,QCOM,QCOM US equity,A,A2,US,804328.0,US7475251036,747525103,Technology,Semiconductors,Semiconductors
+CNH Industrial N.V.,CNHI,CNHI US equity,BBB,Baa2,GB,1567094.0,NL0010545661,N20944109,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+AstraZeneca PLC,AZN,AZN US equity,A,A3,GB,901832.0,US0463531089,046353108,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+SAP SE,SAP,SAP US equity,A,A2,DE,1000184.0,US8030542042,803054204,Technology,Software—Application,Software - Application
+Medtronic plc,MDT,MDT US equity,A,,IE,1613103.0,IE00BTN1Y115,585055106,Healthcare,Medical Devices,Medical - Devices
+Capital One Financial Corporation,COF,COF US equity,BBB,Baa1,US,927628.0,US14040H1059,14040H105,Financial Services,Credit Services,Financial - Credit Services
+TD SYNNEX Corporation,SNX,SNX US equity,BBB-,Baa3,US,1177394.0,US87162W1009,87162W100,Technology,Electronics & Computer Distribution,Technology Distributors
+,7751,7751 JP equity,A,,,,,,,,
+Nucor Corporation,NUE,NUE US equity,A-,Baa1,US,73309.0,US6703461052,670346105,Basic Materials,Steel,Steel
+,8306,8306 JP equity,A-,(P)A1,,,,,,,
+Philip Morris International Inc.,PM,PM US equity,A-,A2,US,1413329.0,US7181721090,718172109,Consumer Defensive,Tobacco,Tobacco
+,4502,4502 JP equity,BBB+,Baa2,,,,,,,
+Jabil Inc.,JBL,JBL US equity,BBB-,Baa3,US,898293.0,US4663131039,466313103,Technology,Electronic Components,"Hardware, Equipment & Parts"
+Linde plc,LIN,LIN US equity,A,,GB,1707925.0,IE00BZ12WP82,50202M102,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Micron Technology, Inc.",MU,MU US equity,BBB-,Baa3,US,723125.0,US5951121038,595112103,Technology,Semiconductors,Semiconductors
+,BARC,BARC Ln equity,BBB,Baa1,,,,,,,
+,CRG,CRG US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Starbucks Corporation,SBUX,SBUX US equity,BBB+,Baa1,US,829224.0,US8552441094,855244109,Consumer Cyclical,Restaurants,Restaurants
+,DBK,DBK GR equity,A-,A1,,,,,,,
+,AGN,AGN US equity,NR,,,,,,,,
+"Netflix, Inc.",NFLX,NFLX US equity,BBB,Baa3,US,1065280.0,US64110L1061,64110L106,Communication Services,Entertainment,Entertainment
+,ABBN,ABBN SW equity,A-,A3,,,,,,,
+Cenovus Energy Inc.,CVE,CVE US equity,BBB-,Baa2,CA,1475260.0,CA15135U1093,15135U109,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+"Mondelez International, Inc.",MDLZ,MDLZ US equity,BBB,Baa1,US,1103982.0,US6092071058,609207105,Consumer Defensive,Confectioners,Food Confectioners
+Danaher Corporation,DHR,DHR US equity,A-,A3,US,313616.0,US2358511028,235851102,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+Hewlett Packard Enterprise Company,HPE,HPE US equity,BBB,Baa2,US,1645590.0,US42824C1099,42824C109,Technology,Communication Equipment,Communication Equipment
+"D.R. Horton, Inc.",DHI,DHI US equity,BBB,Baa1,US,882184.0,US23331A1097,23331A109,Consumer Cyclical,Residential Construction,Residential Construction
+Eli Lilly and Company,LLY,LLY US equity,A+,A1,US,59478.0,US5324571083,532457108,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+"Gilead Sciences, Inc.",GILD,GILD US equity,BBB+,A3,US,882095.0,US3755581036,375558103,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+Paramount Global,VIAC,VIAC US equity,#N/A Invalid Security,#N/A Invalid Security,US,813828.0,US92556H2067,92556H206,Communication Services,Entertainment,Entertainment
+Broadcom Inc.,AVGO,AVGO US equity,BBB- *+,Baa3,US,1730168.0,US11135F1012,11135F101,Technology,Semiconductors,Semiconductors
+Suncor Energy Inc.,SU,SU US equity,BBB,Baa1,CA,311337.0,CA8672241079,867224107,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+"United Natural Foods, Inc.",UNFI,UNFI US equity,B+,B2,US,1020859.0,US9111631035,911163103,Consumer Defensive,Food Distribution,Food Distribution
+Sun Life Financial Inc.,SLF,SLF US equity,A+,,CA,1097362.0,CA8667961053,866796105,Financial Services,Insurance—Diversified,Insurance - Diversified
+Lennar Corporation,LEN,LEN US equity,BBB-,Baa2,US,920760.0,US5260571048,526057104,Consumer Cyclical,Residential Construction,Residential Construction
+,ERIC B,ERIC US equity,BBB-,Ba1,,,,,,,
+The Kraft Heinz Company,KHC,KHC US equity,BBB,,US,1637459.0,US5007541064,500754106,Consumer Defensive,Packaged Foods,Packaged Foods
+"CBRE Group, Inc.",CBRE,CBRE US equity,BBB+,,US,1138118.0,US12504L1098,12504L109,Real Estate,Real Estate Services,Real Estate - Services
+,FEMSA UBD,FEMSAUBD MM Equity,BBB+,,,,,,,,
+"Dollar Tree, Inc.",DLTR,DLTR US equity,BBB,Baa2,US,935703.0,US2567461080,256746108,Consumer Defensive,Discount Stores,Discount Stores
+,NOKIA,NOKIA US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Amgen Inc.,AMGN,AMGN US equity,BBB+,Baa1,US,318154.0,US0311621009,031162100,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+,8316,8316 JP equity,A-,A1,,,,,,,
+Flex Ltd.,FLEX,FLEX US equity,BBB-,Baa3,SG,866374.0,SG9999000020,Y2573F102,Technology,Electronic Components,"Hardware, Equipment & Parts"
+"Penske Automotive Group, Inc.",PAG,PAG US equity,BB+,,US,1019849.0,US70959W1036,70959W103,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+"AutoNation, Inc.",AN,AN US equity,BBB-,Baa3,US,350698.0,US05329W1027,05329W102,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+"Salesforce, Inc.",CRM,CRM US equity,A+,A2,US,1108524.0,US79466L3024,79466L302,Technology,Software—Application,Software - Application
+Imperial Oil Limited,IMO,IMO US equity,AA-,WR,CA,49938.0,CA4530384086,453038408,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+Duke Energy Corporation,DUK,DUK US equity,BBB+,Baa2,US,1326160.0,US26441C2044,26441C204,Utilities,Utilities—Regulated Electric,Regulated Electric
+"PayPal Holdings, Inc.",PYPL,PYPL US equity,A-,A3,US,1633917.0,US70450Y1038,70450Y103,Financial Services,Credit Services,Financial - Credit Services
+American Airlines Group Inc.,AAL,AAL US equity,B-,Caa1,US,6201.0,US02376R1023,02376R102,Industrials,Airlines,"Airlines, Airports & Air Services"
+Rite Aid Corporation,RAD,RAD US equity,CCC+,Ca,US,84129.0,US7677548726,767754872,Healthcare,Pharmaceutical Retailers,Medical - Pharmaceuticals
+NVIDIA Corporation,NVDA,NVDA US equity,A,A2,US,1045810.0,US67066G1040,67066G104,Technology,Semiconductors,Semiconductors
+Ferguson plc,FERG,FERG US equity,BBB+,Baa2,GB,1832433.0,,G3421J106,Industrials,Industrial Distribution,Industrial - Distribution
+Cummins Inc.,CMI,CMI US equity,A+,A2,US,26172.0,US2310211063,231021106,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+The Bank of Nova Scotia,BNS,BNS US equity,A+,Aa2,CA,9631.0,CA0641491075,064149107,Financial Services,Banks—Diversified,Banks - Diversified
+Johnson Controls International plc,JCI,JCI US equity,BBB+,Baa2,IE,833444.0,IE00BY7QL619,G51502105,Industrials,Building Products & Equipment,Construction
+Nutrien Ltd.,NTR,NTR US equity,BBB,Baa2,CA,1725964.0,CA67077M1086,67077M108,Basic Materials,Agricultural Inputs,Agricultural Inputs
+U.S. Bancorp,USB,USB US equity,A,A3,US,36104.0,US9029733048,902973304,Financial Services,Banks—Regional,Banks - Regional
+"Macy's, Inc.",M,M US equity,BB+,Ba2,US,794367.0,US55616P1049,55616P104,Consumer Cyclical,Department Stores,Department Stores
+"Applied Materials, Inc.",AMAT,AMAT US equity,A,A2,US,6951.0,US0382221051,038222105,Technology,Semiconductor Equipment & Materials,Semiconductors
+Truist Financial Corporation,TFC,TFC US equity,A-,A3,US,92230.0,US89832Q1094,89832Q109,Financial Services,Banks—Regional,Banks - Regional
+,8411,8411 JP equity,A-,A1,,,,,,,
+Aflac Incorporated,AFL,AFL US equity,A-,A3,US,4977.0,US0010551028,001055102,Financial Services,Insurance—Life,Insurance - Life
+McDonald's Corporation,MCD,MCD US equity,BBB+,Baa1,US,63908.0,US5801351017,580135101,Consumer Cyclical,Restaurants,Restaurants
+The Southern Company,SO,SO US equity,BBB+,Baa2,US,92122.0,US8425871071,842587107,Utilities,Utilities—Regulated Electric,Regulated Electric
+PACCAR Inc,PCAR,PCAR US equity,A+,WR,US,75362.0,US6937181088,693718108,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Schlumberger Limited,SLB,SLB US equity,A,WR,US,87347.0,AN8068571086,806857108,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Occidental Petroleum Corporation,OXY,OXY US equity,BB+,Baa3,US,797468.0,US6745991058,674599105,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"DuPont de Nemours, Inc.",DD,DD US equity,BBB+,Baa1,US,1666700.0,US26614N1028,26614N102,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA,BBVA US equity,A,A3,ES,842180.0,US05946K1016,05946K101,Financial Services,Banks—Diversified,Banks - Diversified
+,HDFCBANK,HDFCBANK US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+"NRG Energy, Inc.",NRG,NRG US equity,BB,Ba2,US,1013871.0,US6293775085,629377508,Utilities,Utilities—Independent Power Producers,Independent Power Producers
+Whirlpool Corporation,WHR,WHR US equity,BBB,Baa1,US,106640.0,US9633201069,963320106,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+,8591,8591 JP equity,A- *-,A3,,,,,,,
+International Paper Company,IP,IP US equity,BBB,Baa2,US,51434.0,US4601461035,460146103,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Bank of Montreal,BMO,BMO US equity,A+,Aa2,CA,927971.0,CA0636711016,063671101,Financial Services,Banks—Diversified,Banks - Diversified
+,ICICIBANK,ICICI IN Equity,,,,,,,,,
+,ITUB4,ITUB4 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Union Pacific Corporation,UNP,UNP US equity,A-,A3,US,100885.0,US9078181081,907818108,Industrials,Railroads,Railroads
+Freeport-McMoRan Inc.,FCX,FCX US equity,BB+,Baa3,US,831259.0,US35671D8570,35671D857,Basic Materials,Copper,Copper
+"C.H. Robinson Worldwide, Inc.",CHRW,CHRW US equity,BBB+,Baa2,US,1043277.0,US12541W2098,12541W209,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+,NG.,NG. US equity,,,,,,,,,
+"Altria Group, Inc.",MO,MO US equity,BBB,A3,US,764180.0,US02209S1033,02209S103,Consumer Defensive,Tobacco,Tobacco
+,NOVO B,NOVOB  DC Equity,AA-,,,,,,,,
+,A030200,A030200 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Baker Hughes Company,BKR,BKR US equity,A-,,US,1701605.0,US05722G1004,05722G100,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"Lithia Motors, Inc.",LAD,LAD US equity,BB+,Ba2,US,1023128.0,US5367971034,536797103,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+Canadian Natural Resources Limited,CNQ,CNQ US equity,BBB-,Baa1,CA,1017413.0,CA1363851017,136385101,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Blackstone Inc.,BX,BX US equity,A+,,US,1393818.0,US09260D1072,09260D107,Financial Services,Asset Management,Asset Management
+ManpowerGroup Inc.,MAN,MAN US equity,BBB,Baa1,US,871763.0,US56418H1005,56418H100,Industrials,Staffing & Employment Services,Staffing & Employment Services
+"Avnet, Inc.",AVT,AVT US equity,BBB-,Baa3,US,8858.0,US0538071038,053807103,Technology,Electronics & Computer Distribution,Technology Distributors
+,CSGN,CSGN SW equity,BBB- *+,Baa2 *+,,,,,,,
+"Becton, Dickinson and Company",BDX,BDX US equity,BBB,Baa2,US,10795.0,US0758871091,075887109,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+CDW Corporation,CDW,CDW US equity,BBB-,WR,US,1402057.0,US12514G1085,12514G108,Technology,Information Technology Services,Information Technology Services
+PG&E Corporation,PCG,PCG US equity,BB-,WR,US,1004980.0,US69331C1080,69331C108,Utilities,Utilities—Regulated Electric,Regulated Electric
+,FME,FME GR equity,BBB-,Baa3,,,,,,,
+Carrier Global Corporation,CARR,CARR US equity,BBB,Baa3,US,1783180.0,US14448C1045,14448C104,Industrials,Building Products & Equipment,Construction
+"Lumen Technologies, Inc.",LUMN,LUMN US equity,B,Caa1,US,18926.0,US5502411037,550241103,Communication Services,Telecom Services,Telecommunications Services
+"United Airlines Holdings, Inc.",UAL,UAL US equity,BB-,Ba3,US,100517.0,US9100471096,910047109,Industrials,Airlines,"Airlines, Airports & Air Services"
+,UGPA3,UGPA3 BZ equity,BB+,,,,,,,,
+The Sherwin-Williams Company,SHW,SHW US equity,BBB,Baa2,US,89800.0,US8243481061,824348106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Lear Corporation,LEA,LEA US equity,BBB-,Baa2,US,842162.0,US5218652049,521865204,Consumer Cyclical,Auto Parts,Auto - Parts
+,ECOPETROL,ECOPETL CB Equity,BB+,Baa3,,,,,,,
+Tenet Healthcare Corporation,THC,THC US equity,B+,B3,US,70318.0,US88033G4073,88033G407,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Eaton Corporation plc,ETN,ETN US equity,A-,,IE,1551182.0,IE00B8KQN827,G29183103,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Kimberly-Clark Corporation,KMB,KMB US equity,A,A2,US,55785.0,US4943681035,494368103,Consumer Defensive,Household & Personal Products,Household & Personal Products
+"Marsh & McLennan Companies, Inc.",MMC,MMC US equity,A-,Baa1,US,62709.0,US5717481023,571748102,Financial Services,Insurance Brokers,Insurance - Brokers
+Kohl's Corporation,KSS,KSS US equity,BB,Ba3,US,885639.0,US5002551043,500255104,Consumer Cyclical,Department Stores,Department Stores
+"Kyndryl Holdings, Inc.",KD,KD US equity,BBB-,Baa2,US,1867072.0,US50155Q1004,50155Q100,Technology,Information Technology Services,Information Technology Services
+"The PNC Financial Services Group, Inc.",PNC,PNC US equity,A-,A3,US,713676.0,US6934751057,693475105,Financial Services,Banks—Regional,Banks - Regional
+WestRock Company,WRK,WRK US equity,BBB,Baa2,US,1732845.0,US96145D1054,96145D105,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"General Mills, Inc.",GIS,GIS US equity,BBB,Baa2,US,40704.0,US3703341046,370334104,Consumer Defensive,Packaged Foods,Packaged Foods
+BCE Inc.,BCE,BCE US equity,BBB+,Baa2,CA,718940.0,CA05534B7604,05534B760,Communication Services,Telecom Services,Telecommunications Services
+"XPO Logistics, Inc.",XPO,XPO US equity,BB+,Ba3,US,1166003.0,US9837931008,983793100,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+Genuine Parts Company,GPC,GPC US equity,BBB,Baa1,US,40987.0,US3724601055,372460105,Consumer Cyclical,Specialty Retail,Specialty Retail
+Tenneco Inc.,TEN,TEN US equity,B,Caa1,US,1024725.0,US8803491054,880349105,Consumer Cyclical,Auto Parts,Oil & Gas Midstream
+Emerson Electric Co.,EMR,EMR US equity,A,A2,US,32604.0,US2910111044,291011104,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"Ross Stores, Inc.",ROST,ROST US equity,BBB+,A2,US,745732.0,US7782961038,778296103,Consumer Cyclical,Apparel Retail,Apparel - Retail
+"L3Harris Technologies, Inc.",LHX,LHX US equity,BBB,Baa2,US,202058.0,US5024311095,502431109,Industrials,Aerospace & Defense,Aerospace & Defense
+DISH Network Corporation,DISH,DISH US equity,CCC+,B3,US,1001082.0,US25470M1099,25470M109,Communication Services,Telecom Services,Telecommunications Services
+The Charles Schwab Corporation,SCHW,SCHW US equity,A-,A2,US,316709.0,US8085131055,808513105,Financial Services,Capital Markets,Financial - Capital Markets
+"Builders FirstSource, Inc.",BLDR,BLDR US equity,BB,Ba2,US,1316835.0,US12008R1077,12008R107,Industrials,Building Products & Equipment,Construction
+Mastercard Incorporated,MA,MA US equity,A+,Aa3,US,1141391.0,US57636Q1040,57636Q104,Financial Services,Credit Services,Financial - Credit Services
+,BRKM5,BRKM5 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Texas Instruments Incorporated,TXN,TXN US equity,A+,Aa3,US,97476.0,US8825081040,882508104,Technology,Semiconductors,Semiconductors
+,DGE,DGE US equity,,,,,,,,,
+"WESCO International, Inc.",WCC,WCC US equity,BB,WR,US,929008.0,US95082P1057,95082P105,Industrials,Industrial Distribution,Industrial - Distribution
+Cleveland-Cliffs Inc.,CLF,CLF US equity,BB-,Ba3,US,764065.0,US1858991011,185899101,Basic Materials,Steel,Steel
+Colgate-Palmolive Company,CL,CL US equity,AA-,Aa3,US,21665.0,US1941621039,194162103,Consumer Defensive,Household & Personal Products,Household & Personal Products
+WPP plc,WPP,WPP US equity,BBB,,GB,806968.0,US92937A1025,92937A102,Communication Services,Advertising Agencies,Advertising Agencies
+"Waste Management, Inc.",WM,WM US equity,A-,Baa1,US,823768.0,US94106L1098,94106L109,Industrials,Waste Management,Waste Management
+United States Steel Corporation,X,X US equity,BB-,B1,US,1163302.0,US9129091081,912909108,Basic Materials,Steel,Steel
+"Stanley Black & Decker, Inc.",SWK,SWK US equity,A,Baa2,US,93556.0,US8545021011,854502101,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+Viatris Inc.,VTRS,VTRS US equity,BBB-,Baa3,US,1792044.0,US92556V1061,92556V106,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+The Estée Lauder Companies Inc.,EL,EL US equity,A+,A1,US,1001250.0,US5184391044,518439104,Consumer Defensive,Household & Personal Products,Household & Personal Products
+DXC Technology Company,DXC,DXC US equity,BBB-,Baa2,US,1688568.0,US23355L1061,23355L106,Technology,Information Technology Services,Information Technology Services
+"Block, Inc.",SQ,SQ US equity,BB,Ba2,US,1512673.0,US8522341036,852234103,Technology,Software—Infrastructure,Software - Infrastructure
+"EOG Resources, Inc.",EOG,EOG US equity,A-,A3,US,821189.0,US26875P1012,26875P101,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Stryker Corporation,SYK,SYK US equity,BBB+,Baa1,US,310764.0,US8636671013,863667101,Healthcare,Medical Devices,Medical - Devices
+"The Gap, Inc.",GPS,GPS US equity,BB,B1,US,39911.0,US3647601083,364760108,Consumer Cyclical,Apparel Retail,Apparel - Retail
+Laboratory Corporation of America Holdings,LH,LH US equity,BBB,Baa2,US,920148.0,US50540R4092,50540R409,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+,A017670,A017670 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+"NextEra Energy, Inc.",NEE,NEE US equity,A-,,US,753308.0,US65339F1012,65339F101,Utilities,Utilities—Regulated Electric,Regulated Electric
+"PPG Industries, Inc.",PPG,PPG US equity,BBB+,A3,US,79879.0,US6935061076,693506107,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"American Electric Power Company, Inc.",AEP,AEP US equity,A-,Baa2,US,4904.0,US0255371017,025537101,Utilities,Utilities—Regulated Electric,Regulated Electric
+"BJ's Wholesale Club Holdings, Inc.",BJ,BJ US equity,BB+,,US,1531152.0,US05550J1016,05550J101,Consumer Defensive,Discount Stores,Discount Stores
+Teva Pharmaceutical Industries Limited,TEVA,TEVA US equity,BB-,,IL,818686.0,US8816242098,881624209,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+The Goodyear Tire & Rubber Company,GT,GT US equity,BB-,B2,US,42582.0,US3825501014,382550101,Consumer Cyclical,Auto Parts,Auto - Parts
+Canadian Imperial Bank of Commerce,CM,CM US equity,A+,Aa2,CA,1045520.0,CA1360691010,136069101,Financial Services,Banks—Diversified,Banks - Diversified
+The Bank of New York Mellon Corporation,BK,BK US equity,A,A1,US,1390777.0,US0640581007,064058100,Financial Services,Asset Management,Asset Management
+"Fiserv, Inc.",FISV,FISV US equity,BBB,Baa2,US,798354.0,US3377381088,337738108,Technology,Information Technology Services,Information Technology Services
+,WBC,WBC AU equity,AA-,Aa3,,,,,,,
+Lam Research Corporation,LRCX,LRCX US equity,A-,A2,US,707549.0,US5128071082,512807108,Technology,Semiconductor Equipment & Materials,Semiconductors
+"Steel Dynamics, Inc.",STLD,STLD US equity,BBB-,Baa3,US,1022671.0,US8581191009,858119100,Basic Materials,Steel,Steel
+Aptiv PLC,APTV,APTV US equity,BBB,Baa2,IE,1521332.0,JE00B783TY65,G6095L109,Consumer Cyclical,Auto Parts,Auto - Parts
+HF Sinclair Corporation,HFC,HFC SP equity,,,US,48039.0,US4361061082,436106108,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+Infosys Limited,INFY,INFY US equity,A,,IN,1067491.0,US4567881085,456788108,Technology,Information Technology Services,Information Technology Services
+NatWest Group plc,NWG,NWG US equity,BBB+,A3,GB,844150.0,US6390571080,639057108,Financial Services,Banks—Diversified,Banks - Diversified
+Murphy USA Inc.,MUSA,MUSA US equity,BB+,,US,1573516.0,US6267551025,626755102,Consumer Cyclical,Specialty Retail,Specialty Retail
+Adobe Inc.,ADBE,ADBE US equity,A+,A2,US,796343.0,US00724F1012,00724F101,Technology,Software—Infrastructure,Software - Infrastructure
+"Corteva, Inc.",CTVA,CTVA US equity,A-,,US,1755672.0,US22052L1044,22052L104,Basic Materials,Agricultural Inputs,Agricultural Inputs
+"Automatic Data Processing, Inc.",ADP,ADP US equity,AA-,,US,8670.0,US0530151036,053015103,Industrials,Staffing & Employment Services,Staffing & Employment Services
+"Kinder Morgan, Inc.",KMI,KMI US equity,BBB,Baa2,US,1506307.0,US49456B1017,49456B101,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Sunoco LP,SUN,SUN US equity,BB,Ba3,US,1552275.0,US86765K1097,86765K109,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+,ENELAM,ENELAM CI equity,BBB-,Baa2,,,,,,,
+"AutoZone, Inc.",AZO,AZO US equity,BBB,Baa1,US,866787.0,US0533321024,053332102,Consumer Cyclical,Specialty Retail,Specialty Retail
+BorgWarner Inc.,BWA,BWA US equity,BBB,Baa1,US,908255.0,US0997241064,099724106,Consumer Cyclical,Auto Parts,Auto - Parts
+TE Connectivity Ltd.,TEL,TEL US equity,A-,,CH,1385157.0,CH0102993182,H84989104,Technology,Electronic Components,"Hardware, Equipment & Parts"
+Parker-Hannifin Corporation,PH,PH US equity,BBB+,Baa1,US,76334.0,US7010941042,701094104,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"Advanced Micro Devices, Inc.",AMD,AMD US equity,A-,A3,US,2488.0,US0079031078,007903107,Technology,Semiconductors,Semiconductors
+"Uber Technologies, Inc.",UBER,UBER US equity,B+,B1,US,1543151.0,US90353T1007,90353T100,Technology,Software—Application,Software - Application
+Loews Corporation,L,L US equity,A,A3,US,60086.0,US5404241086,540424108,Financial Services,Insurance—Property & Casualty,Insurance - Property & Casualty
+,CEMEX CPO,CEMEXCPO MM Equity,BB+,WR,,,,,,,
+,QRTE.A,QRTEA US Equity,CCC+,,,,,,,,
+Pioneer Natural Resources Company,PXD,PXD US equity,BBB,Baa1,US,1038357.0,US7237871071,723787107,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Halliburton Company,HAL,HAL US equity,BBB+,Baa1,US,45012.0,US4062161017,406216101,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Illinois Tool Works Inc.,ITW,ITW US equity,A+,A1,US,49826.0,US4523081093,452308109,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Kellogg Company,K,K US equity,BBB,Baa2,US,55067.0,US4878361082,487836108,Consumer Defensive,Packaged Foods,Packaged Foods
+Otis Worldwide Corporation,OTIS,OTIS US equity,BBB,Baa1,US,1781335.0,US68902V1070,68902V107,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Omnicom Group Inc.,OMC,OMC US equity,BBB+,Baa1,US,29989.0,US6819191064,681919106,Communication Services,Advertising Agencies,Advertising Agencies
+DTE Energy Company,DTE,DTE US equity,BBB+,Baa2,US,936340.0,US2333311072,233331107,Utilities,Utilities—Regulated Electric,Regulated Electric
+ReneSola Ltd,SOL,SOL SJ equity,BB+,,US,1417892.0,US75971T3014,75971T301,Technology,Solar,Solar
+Targa Resources Corp.,TRGP,TRGP US equity,BBB-,Baa3,US,1389170.0,US87612G1013,87612G101,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Fluor Corporation,FLR,FLR US equity,BB+,Ba1,US,1124198.0,US3434121022,343412102,Industrials,Engineering & Construction,Engineering & Construction
+Pilgrim's Pride Corporation,PPC,PPC US equity,BBB-,Ba3,US,802481.0,US72147K1088,72147K108,Consumer Defensive,Packaged Foods,Packaged Foods
+"Berry Global Group, Inc.",BERY,BERY US equity,BB+,,US,1378992.0,US08579W1036,08579W103,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Corning Incorporated,GLW,GLW US equity,BBB+,Baa1,US,24741.0,US2193501051,219350105,Technology,Electronic Components,"Hardware, Equipment & Parts"
+Trane Technologies plc,TT,TT US equity,BBB,WR,IE,1466258.0,IE00BK9ZQ967,G8994E103,Industrials,Building Products & Equipment,Construction
+"Thor Industries, Inc.",THO,THO US equity,BB,B1,US,730263.0,US8851601018,885160101,Consumer Cyclical,Recreational Vehicles,Auto - Recreational Vehicles
+"Cheniere Energy, Inc.",LNG,LNG US equity,BBB,Ba1 *+,US,3570.0,US16411R2085,16411R208,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"ONEOK, Inc.",OKE,OKE US equity,BBB,Baa2,US,1039684.0,US6826801036,682680103,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Adient plc,ADNT,ADNT US equity,BB-,,IE,1670541.0,IE00BD845X29,G0084W101,Consumer Cyclical,Auto Parts,Auto - Parts
+"Dominion Energy, Inc.",D,D US equity,BBB+,Baa2,US,715957.0,US25746U1097,25746U109,Utilities,Utilities—Regulated Electric,Regulated Electric
+IQVIA Holdings Inc.,IQV,IQV US equity,BB+,,US,1478242.0,US46266C1053,46266C105,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+"Fidelity National Information Services, Inc.",FIS,FIS US equity,BBB,Baa2,US,1136893.0,US31620M1062,31620M106,Technology,Information Technology Services,Information Technology Services
+"Leidos Holdings, Inc.",LDOS,LDOS US equity,BBB-,Baa2,US,1336920.0,US5253271028,525327102,Technology,Information Technology Services,Information Technology Services
+"Regeneron Pharmaceuticals, Inc.",REGN,REGN US equity,BBB+,Baa2,US,872589.0,US75886F1075,75886F107,Healthcare,Biotechnology,Biotechnology
+AECOM,ACM,ACM US equity,BB,Ba3,US,868857.0,US00766T1007,00766T100,Industrials,Engineering & Construction,Engineering & Construction
+Ball Corporation,BLL,BLL US equity,BB+,Ba1,US,9389.0,US0584981064,058498106,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Fox Corporation,FOXA,FOXA US equity,BBB,Baa2,US,1754301.0,US35137L1052,35137L105,Communication Services,Entertainment,Entertainment
+"Consolidated Edison, Inc.",ED,ED US equity,A-,Baa2,US,1047862.0,US2091151041,209115104,Utilities,Utilities—Regulated Electric,Regulated Electric
+"Group 1 Automotive, Inc.",GPI,GPI US equity,BB+,Ba2,US,1031203.0,US3989051095,398905109,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+"AMC Entertainment Holdings, Inc.",AMC,AMC US equity,CCC+,,US,1411579.0,US00165C1045,00165C104,Communication Services,Entertainment,Entertainment
+Xcel Energy Inc.,XEL,XEL US equity,A-,Baa1,US,72903.0,US98389B1008,98389B100,Utilities,Utilities—Regulated Electric,Regulated Electric
+TechnipFMC plc,FTI,FTI US equity,BB+,Ba2,GB,1681459.0,GB00BDSFG982,G87110105,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"Bath & Body Works, Inc.",BBWI,BBWI US equity,BB,Ba2,US,701985.0,US0708301041,070830104,Consumer Cyclical,Specialty Retail,Specialty Retail
+,GGBR4,GGBR4 BZ equity,BBB-,WR,,,,,,,
+"Crown Holdings, Inc.",CCK,CCK US equity,BB+,WR,US,1219601.0,US2283681060,228368106,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"O'Reilly Automotive, Inc.",ORLY,ORLY US equity,BBB,Baa1,US,898173.0,US67103H1077,67103H107,Consumer Cyclical,Specialty Retail,Specialty Retail
+LKQ Corporation,LKQ,LKQ US equity,BBB-,,US,1065696.0,US5018892084,501889208,Consumer Cyclical,Auto Parts,Auto - Parts
+,ABEV3,ABEV3 BZ equity,BBB,WR,,,,,,,
+"PulteGroup, Inc.",PHM,PHM US equity,BBB-,Baa2,US,822416.0,US7458671010,745867101,Consumer Cyclical,Residential Construction,Residential Construction
+Southwest Airlines Co.,LUV,LUV US equity,BBB,Baa1,US,92380.0,US8447411088,844741108,Industrials,Airlines,"Airlines, Airports & Air Services"
+Textron Inc.,TXT,TXT US equity,BBB,Baa2,US,217346.0,US8832031012,883203101,Industrials,Aerospace & Defense,Aerospace & Defense
+"VMware, Inc.",VMW,VMW US equity,BBB- *+,Baa3,US,1124610.0,US9285634021,928563402,Technology,Software—Infrastructure,Software - Infrastructure
+"W.W. Grainger, Inc.",GWW,GWW US equity,A+,A2,US,277135.0,US3848021040,384802104,Industrials,Industrial Distribution,Industrial - Distribution
+"Universal Health Services, Inc.",UHS,UHS US equity,BB+,WR,US,352915.0,US9139031002,913903100,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Baxter International Inc.,BAX,BAX US equity,BBB,Baa2,US,10456.0,US0718131099,071813109,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+STMicroelectronics N.V.,STM,STM US equity,BBB,WR,CH,932787.0,US8610121027,861012102,Technology,Semiconductors,Semiconductors
+Ecolab Inc.,ECL,ECL US equity,A-,A3,US,31462.0,US2788651006,278865100,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Keurig Dr Pepper Inc.,KDP,KDP US equity,BBB,Baa1,US,1418135.0,US49271V1008,49271V100,Consumer Defensive,Beverages—Non-Alcoholic,Beverages - Non-Alcoholic
+Tractor Supply Company,TSCO,TSCO US equity,BBB,Baa1,US,916365.0,US8923561067,892356106,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Community Health Systems, Inc.",CYH,CYH US equity,CCC+,,US,1108109.0,US2036681086,203668108,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Reliance Steel & Aluminum Co.,RS,RS US equity,BBB,Baa2,US,861884.0,US7595091023,759509102,Basic Materials,Steel,Steel
+Newmont Corporation,NEM,NEM US equity,BBB+,Baa1,US,1164727.0,US6516391066,651639106,Basic Materials,Gold,Gold
+Sempra,SRE,SRE US equity,BBB+,Baa2,US,1032208.0,US8168511090,816851109,Utilities,Utilities—Diversified,Diversified Utilities
+,LBTY.A,LBTYA US Equity,BB-,,,,,,,,
+Aramark,ARMK,ARMK US equity,BB-,WR,US,1584509.0,US03852U1060,03852U106,Industrials,Specialty Business Services,Specialty Business Services
+Aon plc,AON,AON US equity,A-,Baa2,IE,315293.0,IE00BLP1HW54,G0403H108,Financial Services,Insurance Brokers,Insurance - Brokers
+"DICK'S Sporting Goods, Inc.",DKS,DKS US equity,BBB,Baa3,US,1089063.0,US2533931026,253393102,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Sonic Automotive, Inc.",SAH,SAH US equity,BB,B1,US,1043509.0,US83545G1022,83545G102,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+"Quanta Services, Inc.",PWR,PWR US equity,BBB-,Baa3,US,1050915.0,US74762E1029,74762E102,Industrials,Engineering & Construction,Engineering & Construction
+,ABX,ABX CN equity,BBB+,A3,,,,,,,
+CSX Corporation,CSX,CSX US equity,BBB+,Baa1,US,277948.0,US1264081035,126408103,Industrials,Railroads,Railroads
+State Street Corporation,STT,STT US equity,A,A1,US,93751.0,US8574771031,857477103,Financial Services,Asset Management,Asset Management
+,DISC.A,WBD US Equity,BBB-,,,,,,,,
+Icahn Enterprises L.P.,IEP,IEP US equity,BB,Ba3,US,813762.0,US4511001012,451100101,Industrials,Conglomerates,Conglomerates
+eBay Inc.,EBAY,EBAY US equity,BBB+,Baa1,US,1065088.0,US2786421030,278642103,Consumer Cyclical,Internet Retail,Specialty Retail
+DaVita Inc.,DVA,DVA US equity,BB,B1,US,927066.0,US23918K1088,23918K108,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Discover Financial Services,DFS,DFS US equity,BBB-,Baa2,US,1393612.0,US2547091080,254709108,Financial Services,Credit Services,Financial - Credit Services
+Seagate Technology Holdings plc,STX,STX US equity,BB,,IE,1137789.0,IE00BKVD2N49,G7997R103,Technology,Computer Hardware,Computer Hardware
+Boston Scientific Corporation,BSX,BSX US equity,BBB+,Baa1,US,885725.0,US1011371077,101137107,Healthcare,Medical Devices,Medical - Devices
+"J.B. Hunt Transport Services, Inc.",JBHT,JBHT US equity,BBB+,Baa1,US,728535.0,US4456581077,445658107,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+,RCI.B,RCI US Equity,BBB-,Baa3,,,,,,,
+Entergy Corporation,ETR,ETR US equity,BBB+,Baa2,US,65984.0,US29364G1031,29364G103,Utilities,Utilities—Regulated Electric,Regulated Electric
+Hormel Foods Corporation,HRL,HRL US equity,A-,A1,US,48465.0,US4404521001,440452100,Consumer Defensive,Packaged Foods,Packaged Foods
+,SSW,SSW US equity,BB-,,,,,,,,
+"Cornerstone Building Brands, Inc.",CNR,CNR US equity,B,Caa1,US,883902.0,US21925D1090,21925D109,Industrials,Building Products & Equipment,Construction
+Global Partners LP,GLP,GLP US equity,B+,B2,US,1323468.0,US37946R1095,37946R109,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+,A105560,A105560 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Vistra Corp.,VST,VST US equity,BB,,US,1692819.0,US92840M1027,92840M102,Utilities,Utilities—Independent Power Producers,Independent Power Producers
+"Conagra Brands, Inc.",CAG,CAG US equity,BBB-,Baa3,US,23217.0,US2058871029,205887102,Consumer Defensive,Packaged Foods,Packaged Foods
+Alcoa Corporation,AA,AA US equity,BB+,,US,1675149.0,US0138721065,013872106,Basic Materials,Aluminum,Aluminum
+,8604,8604 JP equity,BBB+,Baa1,,,,,,,
+Biogen Inc.,BIIB,BIIB US equity,BBB+,Baa2,US,875045.0,US09062X1037,09062X103,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+"Mohawk Industries, Inc.",MHK,MHK US equity,BBB+,Baa1,US,851968.0,US6081901042,608190104,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+,YPFD,YPFD US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Quest Diagnostics Incorporated,DGX,DGX US equity,BBB+,Baa2,US,1022079.0,US74834L1008,74834L100,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+FirstEnergy Corp.,FE,FE US equity,BBB-,Ba1,US,1031296.0,US3379321074,337932107,Utilities,Utilities—Regulated Electric,Regulated Electric
+The Mosaic Company,MOS,MOS US equity,BBB,Baa2,US,1285785.0,US61945C1036,61945C103,Basic Materials,Agricultural Inputs,Agricultural Inputs
+"Advance Auto Parts, Inc.",AAP,AAP US equity,BBB-,Baa2,US,1158449.0,US00751Y1064,00751Y106,Consumer Cyclical,Specialty Retail,Specialty Retail
+V.F. Corporation,VFC,VFC US equity,BBB+,Baa2,US,103379.0,US9182041080,918204108,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+"Republic Services, Inc.",RSG,RSG US equity,BBB+,Baa2,US,1060391.0,US7607591002,760759100,Industrials,Waste Management,Waste Management
+Carvana Co.,CVNA,CVNA US equity,CC,Ca,US,1690820.0,US1468691027,146869102,Consumer Cyclical,Internet Retail,Specialty Retail
+Norfolk Southern Corporation,NSC,NSC US equity,BBB+,Baa1,US,702165.0,US6558441084,655844108,Industrials,Railroads,Railroads
+Brookfield Infrastructure Partners L.P.,BIP,BIP US equity,BBB+,,BM,1406234.0,BMG162521014,G16252101,Utilities,Utilities—Diversified,Diversified Utilities
+AGCO Corporation,AGCO,AGCO US equity,BBB-,WR,US,880266.0,US0010841023,001084102,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+NXP Semiconductors N.V.,NXPI,NXPI US equity,BBB+,WR,NL,1413447.0,NL0009538784,N6596X109,Technology,Semiconductors,Semiconductors
+Newell Brands Inc.,NWL,NWL US equity,BB+,Ba1,US,814453.0,US6512291062,651229106,Consumer Defensive,Household & Personal Products,Household & Personal Products
+Southern Copper Corporation,SCCO,SCCO US equity,BBB+,Baa1,US,1001838.0,US84265V1052,84265V105,Basic Materials,Copper,Copper
+The AES Corporation,AES,AES US equity,BBB-,Baa3,US,874761.0,US00130H1059,00130H105,Utilities,Utilities—Diversified,Diversified Utilities
+Devon Energy Corporation,DVN,DVN US equity,BBB,Baa2,US,1090012.0,US25179M1036,25179M103,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+TC Energy Corporation,TRP,TRP US equity,BBB+,,CA,1232384.0,CA87807B1076,87807B107,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+,A055550,A055550 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+"Air Products and Chemicals, Inc.",APD,APD US equity,A,A2,US,2969.0,US0091581068,009158106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Intuit Inc.,INTU,INTU US equity,A-,A3,US,896878.0,US4612021034,461202103,Technology,Software—Application,Software - Application
+Amphenol Corporation,APH,APH US equity,BBB+,A3,US,820313.0,US0320951017,032095101,Technology,Electronic Components,"Hardware, Equipment & Parts"
+Westlake Corporation,WLK,WLK US equity,BBB,Baa2,US,1262823.0,US9604131022,960413102,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Jones Lang LaSalle Incorporated,JLL,JLL US equity,BBB+,Baa1,US,1037976.0,US48020Q1076,48020Q107,Real Estate,Real Estate Services,Real Estate - Services
+"Altice USA, Inc.",ATUS,ATUS US equity,B,,US,1702780.0,US02156K1034,02156K103,Communication Services,Telecom Services,Telecommunications Services
+Weyerhaeuser Company,WY,WY US equity,BBB,Baa2,US,106535.0,US9621661043,962166104,Real Estate,REIT—Specialty,REIT - Specialty
+West Fraser Timber Co. Ltd.,WFG,WFG US equity,BBB-,Baa3,CA,1402388.0,CA9528451052,952845105,Basic Materials,Lumber & Wood Production,"Paper, Lumber & Forest Products"
+Eastman Chemical Company,EMN,EMN US equity,BBB,Baa2,US,915389.0,US2774321002,277432100,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Molson Coors Beverage Company,TAP,TAP US equity,BBB-,Baa3,US,24545.0,US60871R2094,60871R209,Consumer Defensive,Beverages—Brewers,Beverages - Alcoholic
+International Flavors & Fragrances Inc.,IFF,IFF US equity,BBB-,Baa3,US,51253.0,US4595061015,459506101,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Raymond James Financial, Inc.",RJF,RJF US equity,A-,A3,US,720005.0,US7547301090,754730109,Financial Services,Capital Markets,Financial - Capital Markets
+News Corporation,NWSA,NWSA US equity,BB+,Ba1,US,1564708.0,US65249B1098,65249B109,Communication Services,Entertainment,Entertainment
+Willis Towers Watson Public Limited Company,WTW,WTW US equity,BBB+,Baa3,GB,1140536.0,IE00BDB6Q211,98262P101,Financial Services,Insurance Brokers,Insurance - Brokers
+"Owens & Minor, Inc.",OMI,OMI US equity,BB-,B2,US,75252.0,US6907321029,690732102,Healthcare,Medical Distribution,Medical - Distribution
+,REL,REL LN equity,BBB+,,,,,,,,
+Eversource Energy,ES,ES US equity,A-,Baa1,US,72741.0,US30040W1080,30040W108,Utilities,Utilities—Regulated Electric,Regulated Electric
+"Huntington Ingalls Industries, Inc.",HII,HII US equity,BBB-,Baa3,US,1501585.0,US4464131063,446413106,Industrials,Aerospace & Defense,Aerospace & Defense
+,GIB.A,GIB/A CN Equity,BBB+,Baa1,,,,,,,
+,SANB4,SANB4 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+"EMCOR Group, Inc.",EME,EME US equity,BBB-,,US,105634.0,US29084Q1004,29084Q100,Industrials,Engineering & Construction,Engineering & Construction
+"The Williams Companies, Inc.",WMB,WMB US equity,BBB,Baa2,US,107263.0,US9694571004,969457100,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Delek US Holdings, Inc.",DK,DK US equity,BB-,,US,1694426.0,US24665A1034,24665A103,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+"Asbury Automotive Group, Inc.",ABG,ABG US equity,BB+,B1,US,1144980.0,US0434361046,043436104,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+Arch Capital Group Ltd.,ACGL,ACGL US equity,A-,Baa1,BM,947484.0,BMG0450A1053,G0450A105,Financial Services,Insurance—Diversified,Insurance - Diversified
+"Ryder System, Inc.",R,R US equity,BBB+,Baa2,US,85961.0,US7835491082,783549108,Industrials,Rental & Leasing Services,Rental & Leasing Services
+"Coca-Cola FEMSA, S.A.B. de C.V.",KOF,KOF US equity,A-,A3,MX,910631.0,US1912411089,191241108,Consumer Defensive,Beverages—Non-Alcoholic,Beverages - Non-Alcoholic
+Synchrony Financial,SYF,SYF US equity,BBB-,,US,1601712.0,US87165B1035,87165B103,Financial Services,Credit Services,Financial - Credit Services
+MPLX LP,MPLX,MPLX US equity,BBB,Baa2,US,1552000.0,US55336V1008,55336V100,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"United Rentals, Inc.",URI,URI US equity,BB+,,US,1067701.0,US9113631090,911363109,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Booking Holdings Inc.,BKNG,BKNG US equity,A-,A3,US,1075531.0,US09857L1089,09857L108,Consumer Cyclical,Travel Services,Travel Services
+,TECK.B,TECK US Equity,BBB-,Baa3,,,,,,,
+"NVR, Inc.",NVR,NVR US equity,BBB+,Baa1,US,906163.0,US62944T1051,62944T105,Consumer Cyclical,Residential Construction,Residential Construction
+Univar Solutions Inc.,UNVR,UNVR US equity,BB+ *-,B1,US,1494319.0,US91336L1070,91336L107,Basic Materials,Chemicals,Chemicals
+Public Service Enterprise Group Incorporated,PEG,PEG US equity,BBB+,Baa2,US,788784.0,US7445731067,744573106,Utilities,Utilities—Regulated Electric,Regulated Electric
+"Activision Blizzard, Inc.",ATVI,ATVI US equity,A- *+,Baa1 *+,US,718877.0,US00507V1098,00507V109,Communication Services,Electronic Gaming & Multimedia,Electronic Gaming & Multimedia
+American Tower Corporation,AMT,AMT US equity,BBB-,Baa3,US,1053507.0,US03027X1000,03027X100,Real Estate,REIT—Specialty,REIT - Specialty
+Ovintiv Inc.,OVV,OVV US equity,BBB-,Baa3,US,1792580.0,US69047Q1022,69047Q102,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Burlington Stores, Inc.",BURL,BURL US equity,BB+,,US,1579298.0,US1220171060,122017106,Consumer Cyclical,Apparel Retail,Apparel - Retail
+"DCP Midstream, LP",DCP,DCP US equity,BBB+,,US,1338065.0,US23311P1003,23311P100,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"The Interpublic Group of Companies, Inc.",IPG,IPG US equity,BBB,Baa2,US,51644.0,US4606901001,460690100,Communication Services,Advertising Agencies,Advertising Agencies
+The Hershey Company,HSY,HSY US equity,A,A1,US,47111.0,US4278661081,427866108,Consumer Defensive,Confectioners,Food Confectioners
+PVH Corp.,PVH,PVH US equity,BBB-,Baa3,US,78239.0,US6936561009,693656100,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+"Foot Locker, Inc.",FL,FL US equity,BB+,Ba2,US,850209.0,US3448491049,344849104,Consumer Cyclical,Apparel Retail,Apparel - Retail
+"Toll Brothers, Inc.",TOL,TOL US equity,BB+,Ba1,US,794170.0,US8894781033,889478103,Consumer Cyclical,Residential Construction,Residential Construction
+Dana Incorporated,DAN,DAN US equity,BB-,B1,US,26780.0,US2358252052,235825205,Consumer Cyclical,Auto Parts,Auto - Parts
+Cushman & Wakefield plc,CWK,CWK US equity,BB,,GB,1628369.0,GB00BFZ4N465,224633107,Real Estate,Real Estate Services,Real Estate - Services
+,CSNA3,CSNA3 BZ equity,BB,WR,,,,,,,
+"Constellation Brands, Inc.",STZ,STZ US equity,BBB,Baa3,US,16918.0,US21036P1084,21036P108,Consumer Defensive,Beverages—Wineries & Distilleries,Beverages - Wineries & Distilleries
+"Autoliv, Inc.",ALV,ALV US equity,BBB,,SE,1034670.0,US0528001094,052800109,Consumer Cyclical,Auto Parts,Auto - Parts
+"Darden Restaurants, Inc.",DRI,DRI US equity,BBB,Baa2,US,940944.0,US2371941053,237194105,Consumer Cyclical,Restaurants,Restaurants
+"CommScope Holding Company, Inc.",COMM,COMM US equity,B-,WR,US,1517228.0,US20337X1090,20337X109,Technology,Communication Equipment,Communication Equipment
+Bausch Health Companies Inc.,BHC,BHC US equity,CCC,Ca,CA,885590.0,CA0717341071,071734107,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+Bed Bath & Beyond Inc.,BBBY,BBBY US equity,D,WR,US,886158.0,US0758961009,075896100,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Franklin Resources, Inc.",BEN,BEN US equity,A,A2,US,38777.0,US3546131018,354613101,Financial Services,Asset Management,Asset Management
+"Caesars Entertainment, Inc.",CZR,CZR US equity,B+,B3,US,1590895.0,US12769G1004,12769G100,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+Campbell Soup Company,CPB,CPB US equity,BBB,Baa2,US,16732.0,US1344291091,134429109,Consumer Defensive,Packaged Foods,Packaged Foods
+The Carlyle Group Inc.,CG,CG US equity,A-,,US,1527166.0,US14316J1088,14316J108,Financial Services,Asset Management,Asset Management
+Owens Corning,OC,OC US equity,BBB,Baa2,US,1370946.0,US6907421019,690742101,Industrials,Building Products & Equipment,Construction
+Global Payments Inc.,GPN,GPN US equity,BBB-,Baa3,US,1123360.0,US37940X1028,37940X102,Industrials,Specialty Business Services,Specialty Business Services
+Avery Dennison Corporation,AVY,AVY US equity,BBB,Baa2,US,8818.0,US0536111091,053611109,Industrials,Business Equipment & Supplies,Business Equipment & Supplies
+Masco Corporation,MAS,MAS US equity,BBB,Baa2,US,62996.0,US5745991068,574599106,Industrials,Building Products & Equipment,Construction
+Fifth Third Bancorp,FITB,FITB US equity,BBB+,Baa1,US,35527.0,US3167731005,316773100,Financial Services,Banks—Regional,Banks - Regional
+Jefferies Financial Group Inc.,JEF,JEF US equity,BBB,Baa2,US,96223.0,US47233W1099,47233W109,Financial Services,Capital Markets,Financial - Capital Markets
+"Cheniere Energy Partners, L.P.",CQP,CQP US equity,BBB,Ba1,US,1383650.0,US16411Q1013,16411Q101,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Olin Corporation,OLN,OLN US equity,BB+,Ba1,US,74303.0,US6806652052,680665205,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Motorola Solutions, Inc.",MSI,MSI US equity,BBB-,Baa3,US,68505.0,US6200763075,620076307,Technology,Communication Equipment,Communication Equipment
+MGM Resorts International,MGM,MGM US equity,B+,B1,US,789570.0,US5529531015,552953101,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"Avis Budget Group, Inc.",CAR,CAR US equity,BB,WR,US,723612.0,US0537741052,053774105,Industrials,Rental & Leasing Services,Rental & Leasing Services
+"CenterPoint Energy, Inc.",CNP,CNP US equity,BBB+,Baa2,US,1130310.0,US15189T1079,15189T107,Utilities,Utilities—Regulated Electric,Regulated Electric
+Alcon Inc.,ALC,ALC US equity,BBB,,CH,1167379.0,CH0432492467,H01301128,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+"WEC Energy Group, Inc.",WEC,WEC US equity,A-,Baa1,US,783325.0,US92939U1060,92939U106,Utilities,Utilities—Regulated Electric,Regulated Electric
+The J. M. Smucker Company,SJM,SJM US equity,BBB,Baa2,US,91419.0,US8326964058,832696405,Consumer Defensive,Packaged Foods,Packaged Foods
+"Zimmer Biomet Holdings, Inc.",ZBH,ZBH US equity,BBB,Baa2,US,1136869.0,US98956P1021,98956P102,Healthcare,Medical Devices,Medical - Devices
+Jackson Financial Inc.,JXN,JXN US equity,BBB,Baa2,US,1822993.0,US46817M1071,46817M107,Financial Services,Insurance—Life,Insurance - Life
+Huntsman Corporation,HUN,HUN US equity,BBB-,,US,1307954.0,US4470111075,447011107,Basic Materials,Chemicals,Chemicals
+PPL Corporation,PPL,PPL US equity,A-,,US,922224.0,US69351T1060,69351T106,Utilities,Utilities—Regulated Electric,Regulated Electric
+"MasTec, Inc.",MTZ,MTZ US equity,BBB-,Baa3,US,15615.0,US5763231090,576323109,Industrials,Engineering & Construction,Engineering & Construction
+Westinghouse Air Brake Technologies Corporation,WAB,WAB US equity,BBB-,Baa3,US,943452.0,US9297401088,929740108,Industrials,Railroads,Railroads
+Oshkosh Corporation,OSK,OSK US equity,BBB,Baa3,US,775158.0,US6882392011,688239201,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Arthur J. Gallagher & Co.,AJG,AJG US equity,BBB,Baa2,US,354190.0,US3635761097,363576109,Financial Services,Insurance Brokers,Insurance - Brokers
+Dover Corporation,DOV,DOV US equity,BBB+,Baa1,US,29905.0,US2600031080,260003108,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Boise Cascade Company,BCC,BCC US equity,BB-,Ba2,US,1328581.0,US09739D1000,09739D100,Basic Materials,Building Materials,Construction Materials
+Zoetis Inc.,ZTS,ZTS US equity,BBB,Baa1,US,1555280.0,US98978V1035,98978V103,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+KeyCorp,KEY,KEY US equity,BBB+,Baa1,US,91576.0,US4932671088,493267108,Financial Services,Banks—Regional,Banks - Regional
+,2412,2412 TT equity,AA,,,,,,,,
+,NTCO3,NTCO US Equity,BB,,,,,,,,
+KLA Corporation,KLAC,KLAC US equity,A-,A2,US,319201.0,US4824801009,482480100,Technology,Semiconductor Equipment & Materials,Semiconductors
+"GXO Logistics, Inc.",GXO,GXO US equity,BBB-,Ba1,US,1852244.0,US36262G1013,36262G101,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+Cintas Corporation,CTAS,CTAS US equity,A-,,US,723254.0,US1729081059,172908105,Industrials,Specialty Business Services,Specialty Business Services
+Packaging Corporation of America,PKG,PKG US equity,BBB,Baa2,US,75677.0,US6951561090,695156109,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"Fortune Brands Home & Security, Inc.",FBHS,FBHS US equity,BBB,Baa3,US,1519751.0,US34964C1062,34964C106,Industrials,Building Products & Equipment,Construction
+Science Applications International Corporation,SAIC,SAIC US equity,BB+,B1,US,1571123.0,US8086251076,808625107,Technology,Information Technology Services,Information Technology Services
+Commercial Metals Company,CMC,CMC US equity,BB+,Ba2,US,22444.0,US2017231034,201723103,Basic Materials,Steel,Steel
+"Analog Devices, Inc.",ADI,ADI US equity,A-,A2,US,6281.0,US0326541051,032654105,Technology,Semiconductors,Semiconductors
+CMS Energy Corporation,CMS,CMS US equity,BBB+,Baa2,US,811156.0,US1258961002,125896100,Utilities,Utilities—Regulated Electric,Regulated Electric
+Fortis Inc.,FTS,FTS US equity,A-,Baa3,CA,1666175.0,CA3495531079,349553107,Utilities,Utilities—Regulated Electric,Regulated Electric
+Hanesbrands Inc.,HBI,HBI US equity,BB-,B1,US,1359841.0,US4103451021,410345102,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+"Avantor, Inc.",AVTR,AVTR US equity,BB+,B2,US,1722482.0,US05352A1007,05352A100,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Expedia Group, Inc.",EXPE,EXPE US equity,BBB,Baa3,US,1324424.0,US30212P3038,30212P303,Consumer Cyclical,Travel Services,Travel Services
+The Clorox Company,CLX,CLX US equity,BBB+,Baa1,US,21076.0,US1890541097,189054109,Consumer Defensive,Household & Personal Products,Household & Personal Products
+Signet Jewelers Limited,SIG,SIG US equity,BB-,,BM,832988.0,BMG812761002,G81276100,Consumer Cyclical,Luxury Goods,Luxury Goods
+Xerox Holdings Corporation,XRX,XRX US equity,BB,Ba2,US,1770450.0,US98421M1062,98421M106,Technology,Information Technology Services,Information Technology Services
+Ally Financial Inc.,ALLY,ALLY US equity,BBB-,Baa3,US,40729.0,US02005N1000,02005N100,Financial Services,Credit Services,Financial - Credit Services
+Regions Financial Corporation,RF,RF US equity,BBB+,Baa1,US,1281761.0,US7591EP1005,7591EP100,Financial Services,Banks—Regional,Banks - Regional
+APA Corporation,APA,APA US equity,,,US,1841666.0,US03743Q1085,03743Q108,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Rockwell Automation, Inc.",ROK,ROK US equity,A,A3,US,1024478.0,US7739031091,773903109,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"Intercontinental Exchange, Inc.",ICE,ICE US equity,A-,A3,US,1571949.0,US45866F1049,45866F104,Financial Services,Financial Data & Stock Exchanges,Financial - Data & Stock Exchanges
+,SUZB3,SUZB3 BZ equity,BBB-,WR,,,,,,,
+"Citizens Financial Group, Inc.",CFG,CFG US equity,BBB+,Baa1,US,759944.0,US1746101054,174610105,Financial Services,Banks—Regional,Banks - Regional
+Arconic Corporation,ARNC,ARNC US equity,BB *-,,US,1790982.0,US03966V1070,03966V107,Industrials,Metal Fabrication,Manufacturing - Metal Fabrication
+Invesco Ltd.,IVZ,IVZ US equity,BBB+,,US,914208.0,BMG491BT1088,G491BT108,Financial Services,Asset Management,Asset Management
+Sanmina Corporation,SANM,SANM US equity,BB+,WR,US,897723.0,US8010561020,801056102,Technology,Electronic Components,"Hardware, Equipment & Parts"
+NCR Corporation,NCR,NCR US equity,B+ *,B3 *,US,70866.0,US62886E1082,62886E108,Technology,Information Technology Services,Information Technology Services
+Ingredion Incorporated,INGR,INGR US equity,BBB,Baa1,US,1046257.0,US4571871023,457187102,Consumer Defensive,Packaged Foods,Packaged Foods
+"Avangrid, Inc.",AGR,AGR US equity,BBB+,,US,1634997.0,US05351W1036,05351W103,Utilities,Utilities—Regulated Electric,Regulated Electric
+Victoria's Secret & Co.,VSCO,VSCO US equity,BB-,B1,US,1856437.0,US9264001028,926400102,Consumer Cyclical,Apparel Retail,Apparel - Retail
+Arko Corp.,ARKO,ARKO US equity,B+,B3,US,1823794.0,US0412421085,041242108,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Beacon Roofing Supply, Inc.",BECN,BECN US equity,BB-,B2,US,1124941.0,US0736851090,073685109,Industrials,Building Products & Equipment,Construction
+Constellium SE,CSTM,CSTM US equity,B+,B1,FR,1563411.0,FR0013467479,F21107101,Basic Materials,Aluminum,Aluminum
+"Hertz Global Holdings, Inc.",HTZ,HTZ US equity,BB-,,US,1657853.0,US42806J7000,42806J700,Industrials,Rental & Leasing Services,Rental & Leasing Services
+,ELET6,ELET6 BZ equity,BB-,Ba2,,,,,,,
+Hess Corporation,HES,HES US equity,BBB-,Baa3,US,4447.0,US42809H1077,42809H107,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Taylor Morrison Home Corporation,TMHC,TMHC US equity,BB,,US,1562476.0,US87724P1066,87724P106,Consumer Cyclical,Residential Construction,Residential Construction
+"Equinix, Inc.",EQIX,EQIX US equity,BBB,Baa2,US,1101239.0,US29444U7000,29444U700,Real Estate,REIT—Specialty,REIT - Specialty
+NGL Energy Partners LP,NGL,NGL US equity,B-,Caa1,US,1504461.0,US62913M1071,62913M107,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Chesapeake Energy Corporation,CHK,CHK US equity,BB,Ba3,US,895126.0,US1651671075,165167735,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Yum! Brands, Inc.",YUM,YUM US equity,BB+,Ba3,US,1041061.0,US9884981013,988498101,Consumer Cyclical,Restaurants,Restaurants
+Nielsen Holdings plc,NLSN,NLSN US equity,NR,,US,1492633.0,GB00BWFY5505,,Industrials,Consulting Services,Consulting Services
+Electronic Arts Inc.,EA,EA US equity,BBB+,Baa1,US,712515.0,US2855121099,285512109,Communication Services,Electronic Gaming & Multimedia,Electronic Gaming & Multimedia
+Northern Trust Corporation,NTRS,NTRS US equity,A+,A2,US,73124.0,US6658591044,665859104,Financial Services,Asset Management,Asset Management
+ON Semiconductor Corporation,ON,ON US equity,BB+,Ba2,US,1097864.0,US6821891057,682189105,Technology,Semiconductors,Semiconductors
+"Agilent Technologies, Inc.",A,A US equity,BBB+,Baa1,US,1090872.0,US00846U1016,00846U101,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+"KBR, Inc.",KBR,KBR US equity,BB,Ba3,US,1357615.0,US48242W1062,48242W106,Industrials,Engineering & Construction,Engineering & Construction
+RPM International Inc.,RPM,RPM US equity,BBB,Baa3,US,110621.0,US7496851038,749685103,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Canadian Pacific Railway Limited,CP,CP US equity,BBB+,,CA,16875.0,CA13645T1003,13645T100,Industrials,Railroads,Railroads
+"Roper Technologies, Inc.",ROP,ROP US equity,BBB+,Baa2,US,882835.0,US7766961061,776696106,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"O-I Glass, Inc.",OI,OI US equity,BB-,,US,812074.0,US67098H1041,67098H104,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"MercadoLibre, Inc.",MELI,MELI US equity,BB+,Ba1,UY,1099590.0,US58733R1023,58733R102,Consumer Cyclical,Internet Retail,Specialty Retail
+Thomson Reuters Corporation,TRI,TRI US equity,BBB,Baa2,CA,1075124.0,CA8849037095,884903709,Industrials,Specialty Business Services,Specialty Business Services
+"CVR Energy, Inc.",CVI,CVI US equity,B+,B1,US,1376139.0,US12662P1084,12662P108,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+ICL Group Ltd,ICL,ICL TT equity,#N/A Invalid Security,#N/A Invalid Security,IL,941221.0,IL0002810146,M53213100,Basic Materials,Agricultural Inputs,Agricultural Inputs
+"Post Holdings, Inc.",POST,POST US equity,B+,B2,US,1530950.0,US7374461041,737446104,Consumer Defensive,Packaged Foods,Packaged Foods
+Crown Castle Inc.,CCI,CCI US equity,BBB,Baa3,US,1051470.0,US22822V1017,22822V101,Real Estate,REIT—Specialty,REIT - Specialty
+Ameren Corporation,AEE,AEE US equity,BBB+,WR,US,1002910.0,US0236081024,023608102,Utilities,Utilities—Regulated Electric,Regulated Electric
+"Sinclair Broadcast Group, Inc.",SBGI,SBGI US equity,B+,,US,912752.0,US8292261091,829226109,Communication Services,Entertainment,Entertainment
+"Eagle Capital Growth Fund, Inc.",GRF,GRF SM equity,B+,Caa1,US,850027.0,,269451100,Financial Services,Asset Management,Asset Management
+"McCormick & Company, Incorporated",MKC,MKC US equity,BBB,Baa2,US,63754.0,US5797802064,579780206,Consumer Defensive,Packaged Foods,Packaged Foods
+"Hasbro, Inc.",HAS,HAS US equity,BBB,Baa2,US,46080.0,US4180561072,418056107,Consumer Cyclical,Leisure,Leisure
+The Chemours Company,CC,CC US equity,BB,B1,US,1627223.0,US1638511089,163851108,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+CACI International Inc,CACI,CACI US equity,BB+,,US,16058.0,US1271903049,127190304,Technology,Information Technology Services,Information Technology Services
+"Tapestry, Inc.",TPR,TPR US equity,BBB-,Baa2,US,1116132.0,US8760301072,876030107,Consumer Cyclical,Luxury Goods,Luxury Goods
+"Apollo Global Management, Inc.",APO,APO US equity,A-,,US,1858681.0,US03769M1062,03769M106,Financial Services,Asset Management,Asset Management - Global
+Moody's Corporation,MCO,MCO US equity,BBB+,,US,1059556.0,US6153691059,615369105,Financial Services,Financial Data & Stock Exchanges,Financial - Data & Stock Exchanges
+"Dillard's, Inc.",DDS,DDS US equity,BB+,Baa3,US,28917.0,US2540671011,254067101,Consumer Cyclical,Department Stores,Department Stores
+"Waste Connections, Inc.",WCN,WCN US equity,BBB+,Baa2,CA,1318220.0,CA94106B1013,94106B101,Industrials,Waste Management,Waste Management
+"Coinbase Global, Inc.",COIN,COIN US equity,BB-,B1,US,1679788.0,US19260Q1076,19260Q107,Technology,Software—Application,Software - Application
+Herbalife Nutrition Ltd.,HLF,HLF US equity,B+,B1,US,1180262.0,KYG4412G1010,G4412G101,Consumer Defensive,Packaged Foods,Packaged Foods
+"Resideo Technologies, Inc.",REZI,REZI US equity,BB+,,US,1740332.0,US76118Y1047,76118Y104,Industrials,Security & Protection Services,Security & Protection Services
+Ingersoll Rand Inc.,IR,IR US equity,BBB-,,US,1699150.0,US45687V1061,45687V106,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"Nasdaq, Inc.",NDAQ,NDAQ US equity,BBB+,Baa1,US,1120193.0,US6311031081,631103108,Financial Services,Financial Data & Stock Exchanges,Financial - Data & Stock Exchanges
+GameStop Corp.,GME,GME US equity,NR,WR,US,1326380.0,US36467W1099,36467W109,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Amkor Technology, Inc.",AMKR,AMKR US equity,BB,B1,US,1047127.0,US0316521006,031652100,Technology,Semiconductors,Semiconductors
+,CMIG4,CMIG4 BZ equity,BB-,WR,,,,,,,
+KB Home,KBH,KBH US equity,BB,Ba2,US,795266.0,US48666K1097,48666K109,Consumer Cyclical,Residential Construction,Residential Construction
+"EnLink Midstream, LLC",ENLC,ENLC US equity,BB+,Ba1,US,1592000.0,US29336T1007,29336T100,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Antero Resources Corporation,AR,AR US equity,BB+,Ba2,US,1433270.0,US03674X1063,03674X106,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Hologic, Inc.",HOLX,HOLX US equity,BBB-,Ba2,US,859737.0,US4364401012,436440101,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+"MDU Resources Group, Inc.",MDU,MDU US equity,BBB+,,US,67716.0,US5526901096,552690109,Industrials,Conglomerates,Conglomerates
+Ralph Lauren Corporation,RL,RL US equity,A-,A3,US,1037038.0,US7512121010,751212101,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+SVB Financial Group,SIVB,SIVB US equity,NR,WR,US,719739.0,US78486Q1013,78486Q101,Financial Services,Banks—Regional,Banks - Regional
+Brunswick Corporation,BC,BC US equity,BBB-,Baa2,US,14930.0,US1170431092,117043109,Consumer Cyclical,Recreational Vehicles,Auto - Recreational Vehicles
+"Evergy, Inc.",EVRG,EVRG US equity,A-,Baa2,US,1711269.0,US30034W1062,30034W106,Utilities,Utilities—Regulated Electric,Regulated Electric
+"Under Armour, Inc.",UAA,UAA US equity,BB,Ba3,US,1336917.0,US9043111072,904311107,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+"Greif, Inc.",GEF,GEF US equity,NR,WR,US,43920.0,US3976241071,397624107,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Restaurant Brands International Inc.,QSR,QSR US equity,BB,,CA,1618756.0,CA76131D1033,76131D103,Consumer Cyclical,Restaurants,Restaurants
+"Diamondback Energy, Inc.",FANG,FANG US equity,BBB-,Baa2,US,1539838.0,US25278X1090,25278X109,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"ServiceNow, Inc.",NOW,NOW US equity,A-,A3,US,1373715.0,US81762P1021,81762P102,Technology,Software—Application,Software - Application
+Sonoco Products Company,SON,SON US equity,BBB,Baa2,US,91767.0,US8354951027,835495102,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Celestica Inc.,CLS,CLS US equity,BB-,,CA,1030894.0,CA15101Q1081,15101Q108,Technology,Electronic Components,"Hardware, Equipment & Parts"
+Zebra Technologies Corporation,ZBRA,ZBRA US equity,BB+,WR,US,877212.0,US9892071054,989207105,Technology,Communication Equipment,Communication Equipment
+Levi Strauss & Co.,LEVI,LEVI US equity,BB+,Ba2,US,94845.0,US52736R1023,52736R102,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+Silgan Holdings Inc.,SLGN,SLGN US equity,BB+,Ba3,US,849869.0,US8270481091,827048109,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"Coca-Cola Consolidated, Inc.",COKE,COKE US equity,BBB+,Baa1,US,317540.0,US1910981026,191098102,Consumer Defensive,Beverages—Non-Alcoholic,Beverages - Non-Alcoholic
+Huntington Bancshares Incorporated,HBAN,HBAN US equity,BBB+,Baa1,US,49196.0,US4461501045,446150104,Financial Services,Banks—Regional,Banks - Regional
+"PENN Entertainment, Inc.",PENN,PENN US equity,B+,B3,US,921738.0,US7075691094,707569109,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"American Axle & Manufacturing Holdings, Inc.",AXL,AXL US equity,BB-,WR,US,1062231.0,US0240611030,024061103,Consumer Cyclical,Auto Parts,Auto - Parts
+Sealed Air Corporation,SEE,SEE US equity,BB+,Ba2,US,1012100.0,US81211K1007,81211K100,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"Telephone and Data Systems, Inc.",TDS,TDS US equity,BB,Ba2,US,1051512.0,US8794338298,879433829,Communication Services,Telecom Services,Telecommunications Services
+NOV Inc.,NOV,NOV US equity,BBB,Baa2,US,1021860.0,US6370711011,62955J103,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Warner Music Group Corp.,WMG,WMG US equity,BB+,,US,1319161.0,US9345502036,934550203,Communication Services,Entertainment,Entertainment
+"Mattel, Inc.",MAT,MAT US equity,BBB-,Baa3,US,63276.0,US5770811025,577081102,Consumer Cyclical,Leisure,Leisure
+RenaissanceRe Holdings Ltd.,RNR,RNR US equity,A-,A3,BM,913144.0,BMG7496G1033,G7496G103,Financial Services,Insurance—Reinsurance,Insurance - Reinsurance
+"Brighthouse Financial, Inc.",BHF,BHF US equity,BBB+,Baa3,US,1685040.0,US10922N1037,10922N103,Financial Services,Insurance—Life,Insurance - Life
+Xylem Inc.,XYL,XYL US equity,BBB,Baa2,US,1524472.0,US98419M1009,98419M100,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"AMETEK, Inc.",AME,AME US equity,BBB+,WR,US,1037868.0,US0311001004,031100100,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+M&T Bank Corporation,MTB,MTB US equity,BBB+,A3,US,36270.0,US55261F1049,55261F104,Financial Services,Banks—Regional,Banks - Regional
+Fortive Corporation,FTV,FTV US equity,BBB,Baa1,US,1659166.0,US34959J1088,34959J108,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+"Broadridge Financial Solutions, Inc.",BR,BR US equity,BBB+,Baa2,US,1383312.0,US11133T1034,11133T103,Technology,Information Technology Services,Information Technology Services
+,SN.,SN. US equity,NR,WR,,,,,,,
+Vulcan Materials Company,VMC,VMC US equity,BBB+,Baa2,US,1396009.0,US9291601097,929160109,Basic Materials,Building Materials,Construction Materials
+"Church & Dwight Co., Inc.",CHD,CHD US equity,BBB+,A3,US,313927.0,US1713401024,171340102,Consumer Defensive,Household & Personal Products,Household & Personal Products
+"Skyworks Solutions, Inc.",SWKS,SWKS US equity,BBB-,Ba1,US,4127.0,US83088M1027,83088M102,Technology,Semiconductors,Semiconductors
+"CF Industries Holdings, Inc.",CF,CF US equity,BBB,,US,1324404.0,US1252691001,125269100,Basic Materials,Agricultural Inputs,Agricultural Inputs
+Edwards Lifesciences Corporation,EW,EW US equity,BBB,Baa2,US,1099800.0,US28176E1082,28176E108,Healthcare,Medical Devices,Medical - Devices
+"Alaska Air Group, Inc.",ALK,ALK US equity,BB,,US,766421.0,US0116591092,011659109,Industrials,Airlines,"Airlines, Airports & Air Services"
+Pactiv Evergreen Inc.,PTVE,PTVE US equity,B+,,US,1527508.0,US69526K1051,69526K105,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Perrigo Company plc,PRGO,PRGO US equity,BB,Ba3,IE,1585364.0,IE00BGH1M568,G97822103,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+The Western Union Company,WU,WU US equity,BBB,Baa2,US,1365135.0,US9598021098,959802109,Financial Services,Credit Services,Financial - Credit Services
+"PerkinElmer, Inc.",PKI,PKI US equity,BBB,Baa3,US,31791.0,US7140461093,714046109,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+Meritage Homes Corporation,MTH,MTH US equity,BB+,Ba1,US,833079.0,US59001A1025,59001A102,Consumer Cyclical,Residential Construction,Residential Construction
+Capri Holdings Limited,CPRI,CPRI US equity,BBB-,,GB,1530721.0,VGG1890L1076,G1890L107,Consumer Cyclical,Luxury Goods,Luxury Goods
+"Harley-Davidson, Inc.",HOG,HOG US equity,BBB-,Baa3,US,793952.0,US4128221086,412822108,Consumer Cyclical,Recreational Vehicles,Auto - Recreational Vehicles
+Encompass Health Corporation,EHC,EHC US equity,BB-,B1,US,785161.0,US29261A1007,29261A100,Healthcare,Medical Care Facilities,Medical - Care Facilities
+"M.D.C. Holdings, Inc.",MDC,MDC US equity,BBB-,Ba1,US,773141.0,US5526761086,552676108,Consumer Cyclical,Residential Construction,Residential Construction
+,TLEVISA CPO,TLEVISAA MM Equity,BBB+,WR,,,,,,,
+Ryerson Holding Corporation,RYI,RYI US equity,BB-,,US,1481582.0,US7837541041,783754104,Industrials,Metal Fabrication,Manufacturing - Metal Fabrication
+,IMKT.A,IMKTA US Equity,BB+,Ba2,,,,,,,
+"Syneos Health, Inc.",SYNH,SYNH US equity,BB,B1 *-,US,1610950.0,US87166B1026,87166B102,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+Yellow Corporation,YELL,YELL US equity,CCC+,WR,US,716006.0,US9855101062,985510106,Industrials,Trucking,Trucking
+Tencent Music Entertainment Group,TME,TME US equity,A,A2,CN,1744676.0,US88034P1093,88034P109,Communication Services,Internet Content & Information,Internet Content & Information
+"SS&C Technologies Holdings, Inc.",SSNC,SSNC US equity,BB,WR,US,1402436.0,US78467J1007,78467J100,Technology,Software—Application,Software - Application
+Tutor Perini Corporation,TPC,TPC US equity,B-,Caa1,US,77543.0,US9011091082,901109108,Industrials,Engineering & Construction,Engineering & Construction
+"Keysight Technologies, Inc.",KEYS,KEYS US equity,BBB,Baa2,US,1601046.0,US49338L1035,49338L103,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+R. R. Donnelley & Sons Company,RRD,RRD US equity,B,Caa1,US,29669.0,US2578672006,257867200,Industrials,Specialty Business Services,Specialty Business Services
+Howmet Aerospace Inc.,HWM,HWM US equity,BB+,Ba1,US,4281.0,US4432011082,443201108,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+The Scotts Miracle-Gro Company,SMG,SMG US equity,BB-,B1,US,825542.0,US8101861065,810186106,Basic Materials,Agricultural Inputs,Agricultural Inputs
+"Leggett & Platt, Incorporated",LEG,LEG US equity,BBB,Baa2,US,58492.0,US5246601075,524660107,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+"Simon Property Group, Inc.",SPG,SPG US equity,A-,,US,1063761.0,US8288061091,828806109,Real Estate,REIT—Retail,REIT - Retail
+Las Vegas Sands Corp.,LVS,LVS US equity,BB+,Baa3,US,1300514.0,US5178341070,517834107,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"Prologis, Inc.",PLD,PLD US equity,A,,US,1045609.0,US74340W1036,74340W103,Real Estate,REIT—Industrial,REIT - Industrial
+Coty Inc.,COTY,COTY US equity,BB-,B2,US,1024305.0,US2220702037,222070203,Consumer Defensive,Household & Personal Products,Household & Personal Products
+JetBlue Airways Corporation,JBLU,JBLU US equity,B+,WR,US,1158463.0,US4771431016,477143101,Industrials,Airlines,"Airlines, Airports & Air Services"
+"Twitter, Inc. (delisted)",TWTR,TWTR US equity,NR,WR,US,1418091.0,US90184L1026,90184L102,Communication Services,Internet Content & Information,Internet Content & Information
+Elanco Animal Health Incorporated,ELAN,ELAN US equity,BB-,B2,US,1739104.0,US28414H1032,28414H103,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+"Martin Marietta Materials, Inc.",MLM,MLM US equity,BBB+,Baa2,US,916076.0,US5732841060,573284106,Basic Materials,Building Materials,Construction Materials
+Equifax Inc.,EFX,EFX US equity,BBB,Baa2,US,33185.0,US2944291051,294429105,Industrials,Consulting Services,Consulting Services
+FMC Corporation,FMC,FMC US equity,BBB-,Baa2,US,37785.0,US3024913036,302491303,Basic Materials,Agricultural Inputs,Agricultural Inputs
+"Nexstar Media Group, Inc.",NXST,NXST US equity,BB+,,US,1142417.0,US65336K1034,65336K103,Communication Services,Entertainment,Entertainment
+EQT Corporation,EQT,EQT US equity,BBB-,Ba1,US,33213.0,US26884L1098,26884L109,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Voya Financial, Inc.",VOYA,VOYA US equity,BBB+,Baa2,US,1535929.0,US9290891004,929089100,Financial Services,Financial Conglomerates,Financial - Conglomerates
+Marathon Oil Corporation,MRO,MRO US equity,BBB-,Baa3,US,101778.0,US5658491064,565849106,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+NiSource Inc.,NI,NI US equity,BBB+,WR,US,1111711.0,US65473P1057,65473P105,Utilities,Utilities—Regulated Gas,Regulated Gas
+Carlisle Companies Incorporated,CSL,CSL US equity,BBB,Baa2,US,790051.0,US1423391002,142339100,Industrials,Building Products & Equipment,Construction
+First Republic Bank,FRC,FRC US equity,NR,WR,US,1132979.0,US33616C1009,33616C100,Financial Services,Banks—Regional,Banks - Regional
+"Juniper Networks, Inc.",JNPR,JNPR US equity,BBB,Baa2,US,1043604.0,US48203R1041,48203R104,Technology,Communication Equipment,Communication Equipment
+,EMBR3,EMBR3 BZ equity,BB+,Ba2,,,,,,,
+CME Group Inc.,CME,CME US equity,AA-,Aa3,US,1156375.0,US12572Q1058,12572Q105,Financial Services,Financial Data & Stock Exchanges,Financial - Data & Stock Exchanges
+"Tempur Sealy International, Inc.",TPX,TPX US equity,BB+ *-,Ba2 *-,US,1206264.0,US88023U1016,88023U101,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+Avient Corporation,AVNT,AVNT US equity,BB,Ba3,US,1122976.0,US05368V1061,05368V106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Trinseo PLC,TSE,TSE US equity,B-,,US,1519061.0,LU1057788488,L9340P101,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Snap-on Incorporated,SNA,SNA US equity,A-,A2,US,91440.0,US8330341012,833034101,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+Welltower Inc.,WELL,WELL US equity,BBB+,,US,766704.0,US95040Q1040,95040Q104,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+Stifel Financial Corp.,SF,SF US equity,BBB-,,US,720672.0,US8606301021,860630102,Financial Services,Capital Markets,Financial - Capital Markets
+"Gartner, Inc.",IT,IT US equity,BB+,Ba1,US,749251.0,US3666511072,366651107,Technology,Information Technology Services,Information Technology Services
+"Qorvo, Inc.",QRVO,QRVO US equity,BBB-,Ba1,US,1604778.0,US74736K1016,74736K101,Technology,Semiconductors,Semiconductors
+"Endeavor Group Holdings, Inc.",EDR,EDR US equity,B+ *+,,US,1766363.0,US29260Y1091,29258Y103,Communication Services,Entertainment,Entertainment
+Hubbell Incorporated,HUBB,HUBB US equity,BBB+,Baa1,US,48898.0,US4435106079,443510607,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+"Continental Resources, Inc.",CLR,CLR US equity,BBB-,Baa3,US,732834.0,US2120151012,212015101,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Southwestern Energy Company,SWN,SWN US equity,BB+,Ba2,US,7332.0,US8454671095,845467109,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Darling Ingredients Inc.,DAR,DAR US equity,BB+,Ba2,US,916540.0,US2372661015,237266101,Consumer Defensive,Packaged Foods,Packaged Foods
+,ANG,ANG SJ equity,BB+,,,,,,,,
+Louisiana-Pacific Corporation,LPX,LPX US equity,BB+,Baa3,US,60519.0,US5463471053,546347105,Industrials,Building Products & Equipment,Construction
+"Digital Realty Trust, Inc.",DLR,DLR US equity,BBB,,US,1297996.0,US2538681030,253868103,Real Estate,REIT—Office,REIT - Office
+Iron Mountain Incorporated,IRM,IRM US equity,BB-,Ba3,US,1020569.0,US46284V1017,46284V101,Real Estate,REIT—Specialty,REIT - Specialty
+"TriNet Group, Inc.",TNET,TNET US equity,BB+,Ba2,US,937098.0,US8962881079,896288107,Industrials,Staffing & Employment Services,Staffing & Employment Services
+"Flowers Foods, Inc.",FLO,FLO US equity,BBB,Baa2,US,1128928.0,US3434981011,343498101,Consumer Defensive,Packaged Foods,Packaged Foods
+ICON Public Limited Company,ICLR,ICLR US equity,BB+,,IE,1060955.0,IE0005711209,G4705A100,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+Axalta Coating Systems Ltd.,AXTA,AXTA US equity,BB,,US,1616862.0,BMG0750C1082,G0750C108,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"TreeHouse Foods, Inc.",THS,THS US equity,B,B3,US,1320695.0,US89469A1043,89469A104,Consumer Defensive,Packaged Foods,Packaged Foods
+,SJR.B,SJR US Equity,NR,Baa3,,,,,,,
+ASGN Incorporated,ASGN,ASGN US equity,BB,,US,890564.0,US00191U1025,00191U102,Technology,Information Technology Services,Information Technology Services
+Amdocs Limited,DOX,DOX US equity,BBB,Baa2,US,1062579.0,GB0022569080,G02602103,Technology,Software—Infrastructure,Software - Infrastructure
+"Illumina, Inc.",ILMN,ILMN US equity,BBB,Baa3,US,1110803.0,US4523271090,452327109,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+"Maximus, Inc.",MMS,MMS US equity,BB+,,US,1032220.0,US5779331041,577933104,Industrials,Specialty Business Services,Specialty Business Services
+DENTSPLY SIRONA Inc.,XRAY,XRAY US equity,BBB,Baa2,US,818479.0,US24906P1093,24906P109,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+"Autodesk, Inc.",ADSK,ADSK US equity,BBB+,A3,US,769397.0,US0527691069,052769106,Technology,Software—Application,Software - Application
+AerCap Holdings N.V.,AER,AER US equity,BBB,,IE,1378789.0,NL0000687663,N00985106,Industrials,Rental & Leasing Services,Rental & Leasing Services
+"Catalent, Inc.",CTLT,CTLT US equity,BB *-,,US,1596783.0,US1488061029,148806102,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+BlueLinx Holdings Inc.,BXC,BXC US equity,B+,,US,1301787.0,US09624H2085,09624H208,Industrials,Building Products & Equipment,Construction
+Conduent Incorporated,CNDT,CNDT US equity,B+,,US,1677703.0,US2067871036,206787103,Technology,Information Technology Services,Information Technology Services
+Lennox International Inc.,LII,LII US equity,BBB,Baa2,US,1069202.0,US5261071071,526107107,Industrials,Building Products & Equipment,Construction
+GFL Environmental Inc.,GFL,GFL US equity,B+,B3,CA,1780232.0,CA36168Q1046,36168Q104,Industrials,Waste Management,Waste Management
+"Rent-A-Center, Inc.",RCII,RCII US equity,BB-,B1,US,933036.0,US76009N1000,76009N100,Industrials,Rental & Leasing Services,Rental & Leasing Services
+United States Cellular Corporation,USM,USM US equity,BB,Ba2,US,821130.0,US9116841084,911684108,Communication Services,Telecom Services,Telecommunications Services
+The Brink's Company,BCO,BCO US equity,BB,Ba3,US,78890.0,US1096961040,109696104,Industrials,Security & Protection Services,Security & Protection Services
+Gold Fields Limited,GFI,GFI US equity,BBB-,,ZA,1172724.0,US38059T1060,38059T106,Basic Materials,Gold,Gold
+"Worthington Industries, Inc.",WOR,WOR US equity,BBB *-,Baa2,US,108516.0,US9818111026,981811102,Industrials,Metal Fabrication,Manufacturing - Metal Fabrication
+,CSAN3,CSAN3 BZ equity,BB-,WR,,,,,,,
+Service Corporation International,SCI,SCI US equity,BB+,Ba3,US,89089.0,US8175651046,817565104,Consumer Cyclical,Personal Services,Personal Products & Services
+Teledyne Technologies Incorporated,TDY,TDY US equity,BBB,Baa3,US,1094285.0,US8793601050,879360105,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+The Timken Company,TKR,TKR US equity,BBB-,Baa2,US,98362.0,US8873891043,887389104,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+"Century Communities, Inc.",CCS,CCS US equity,BB-,Ba2,US,1576940.0,US1565043007,156504300,Consumer Cyclical,Residential Construction,Residential Construction
+"Winnebago Industries, Inc.",WGO,WGO US equity,BB-,,US,107687.0,US9746371007,974637100,Consumer Cyclical,Recreational Vehicles,Auto - Recreational Vehicles
+Magnachip Semiconductor Corporation,MX,MX US equity,NR,WR,LU,1325702.0,US55933J2033,55933J203,Technology,Semiconductors,Semiconductors
+The Toro Company,TTC,TTC US equity,BBB,Baa1,US,737758.0,US8910921084,891092108,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+,BEP.UN,BEP UN Equity,BBB+,,,,,,,,
+"Diebold Nixdorf, Incorporated",DBD,DBD US equity,CCC *-,Ca,US,28823.0,US2536511031,253651103,Technology,Software—Application,Software - Application
+International Game Technology PLC,IGT,IGT US equity,BB+,,GB,1619762.0,GB00BVG7F061,G4863A108,Consumer Cyclical,Gambling,"Gambling, Resorts & Casinos"
+"Marvell Technology, Inc.",MRVL,MRVL US equity,BBB-,Baa3,US,1835632.0,US5738741041,573874104,Technology,Semiconductors,Semiconductors
+"American Water Works Company, Inc.",AWK,AWK US equity,A,,US,1410636.0,US0304201033,030420103,Utilities,Utilities—Regulated Water,Regulated Water
+Genpact Limited,G,G US equity,BBB-,,BM,1398659.0,BMG3922B1072,G3922B107,Technology,Information Technology Services,Information Technology Services
+"Lamb Weston Holdings, Inc.",LW,LW US equity,BB+,Ba3,US,1679273.0,US5132721045,513272104,Consumer Defensive,Packaged Foods,Packaged Foods
+"Bloomin' Brands, Inc.",BLMN,BLMN US equity,BB-,B1,US,1546417.0,US0942351083,094235108,Consumer Cyclical,Restaurants,Restaurants
+GMS Inc.,GMS,GMS US equity,BB-,,US,1600438.0,US36251C1036,36251C103,Industrials,Building Products & Equipment,Construction
+"Sally Beauty Holdings, Inc.",SBH,SBH US equity,BB-,,US,1368458.0,US79546E1047,79546E104,Consumer Cyclical,Specialty Retail,Specialty Retail
+STERIS plc,STE,STE US equity,BBB-,,IE,1757898.0,IE00BFY8C754,G8473T100,Healthcare,Medical Devices,Medical - Devices
+Crestwood Equity Partners LP,CEQP,CEQP US equity,BB,WR,US,1136352.0,US2263442087,226344208,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Tri Pointe Homes, Inc.",TPH,TPH US equity,BB-,Ba2,US,1561680.0,US87265H1095,87265H109,Consumer Cyclical,Residential Construction,Residential Construction
+"Meritor, Inc.",MTOR,MTOR US equity,NR,WR,US,1113256.0,US59001K1007,59001K100,Consumer Cyclical,Auto Parts,Auto - Parts
+"Live Nation Entertainment, Inc.",LYV,LYV US equity,B+,B2,US,1335258.0,US5380341090,538034109,Communication Services,Entertainment,Entertainment
+,TCELL,TCELL TI equity,B,B3,,,,,,,
+Garrett Motion Inc.,GTX,GTX US equity,B+,,CH,1735707.0,US3665051054,366505105,Consumer Cyclical,Auto Parts,Auto - Parts
+"Ventas, Inc.",VTR,VTR US equity,BBB+,WR,US,740260.0,US92276F1003,92276F100,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+Pitney Bowes Inc.,PBI,PBI US equity,BB,B2,US,78814.0,US7244791007,724479100,Industrials,Integrated Freight & Logistics,Integrated Freight & Logistics
+APi Group Corporation,APG,APG US equity,BB-,,US,1796209.0,US00187Y1001,00187Y100,Industrials,Engineering & Construction,Engineering & Construction
+"Patrick Industries, Inc.",PATK,PATK US equity,BB-,B3,US,76605.0,US7033431039,703343103,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+Terex Corporation,TEX,TEX US equity,BB-,B1,US,97216.0,US8807791038,880779103,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Mr. Cooper Group Inc.,COOP,COOP US equity,B,,US,933136.0,US62482R1077,62482R107,Financial Services,Mortgage Finance,Financial - Mortgages
+Abercrombie & Fitch Co.,ANF,ANF US equity,BB-,,US,1018840.0,US0028962076,002896207,Consumer Cyclical,Apparel Retail,Apparel - Retail
+Colfax Corporation,CFX,CFX US equity,NR,WR,US,1420800.0,US1940141062,194014106,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+,BF.B,BF/B US Equity,A-,A1,,,,,,,
+Ciena Corporation,CIEN,CIEN US equity,BB+,Ba1,US,936395.0,US1717793095,171779309,Technology,Communication Equipment,Communication Equipment
+Flowserve Corporation,FLS,FLS US equity,BBB-,Baa3,US,30625.0,US34354P1057,34354P105,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"M/I Homes, Inc.",MHO,MHO US equity,BB-,Ba2,US,799292.0,US55305B1017,55305B101,Consumer Cyclical,Residential Construction,Residential Construction
+Resolute Forest Products Inc.,RFP,RFP US equity,NR,WR,CA,1393066.0,US76117W1099,76117W109,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+"Acuity Brands, Inc.",AYI,AYI US equity,BBB,,US,1144215.0,US00508Y1029,00508Y102,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+IAC Inc.,IAC,IAC US equity,BB-,,US,1800227.0,US44891N1090,44891N208,Communication Services,Internet Content & Information,Internet Content & Information
+"Marriott International, Inc.",MAR,MAR US equity,BBB,Baa2,US,1048286.0,US5719032022,571903202,Consumer Cyclical,Lodging,Travel Lodging
+Pentair plc,PNR,PNR US equity,BBB-,WR,GB,77360.0,IE00BLS09M33,G7S00T104,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Trimble Inc.,TRMB,TRMB US equity,BBB-,Baa3,US,864749.0,US8962391004,896239100,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+,SBSP3,SBSP3 BZ equity,BB-,,,,,,,,
+Ares Management Corporation,ARES,ARES US equity,BBB+,,US,1176948.0,US03990B1017,03990B101,Financial Services,Asset Management,Asset Management
+Alliant Energy Corporation,LNT,LNT US equity,A-,WR,US,352541.0,US0188021085,018802108,Utilities,Utilities—Regulated Electric,Regulated Electric
+OGE Energy Corp.,OGE,OGE US equity,BBB+,WR,US,1021635.0,US6708371033,670837103,Utilities,Utilities—Regulated Electric,Regulated Electric
+Weatherford International plc,WFRD,WFRD US equity,B,,US,1603923.0,IE00BLNN3691,G48833118,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"PennyMac Financial Services, Inc.",PFSI,PFSI US equity,B+,Ba3,US,1745916.0,US70932M1071,70932M107,Financial Services,Mortgage Finance,Financial - Mortgages
+,LGF.A,LGF/A US Equity,B,,,,,,,,
+"Clean Harbors, Inc.",CLH,CLH US equity,BB+,Ba3,US,822818.0,US1844961078,184496107,Industrials,Waste Management,Waste Management
+"Brinker International, Inc.",EAT,EAT US equity,BB-,B2,US,703351.0,US1096411004,109641100,Consumer Cyclical,Restaurants,Restaurants
+"OneMain Holdings, Inc.",OMF,OMF US equity,BB,,US,1584207.0,US68268W1036,68268W103,Financial Services,Credit Services,Financial - Credit Services
+"iHeartMedia, Inc.",IHRT,IHRT US equity,B+,,US,1400891.0,US45174J5092,45174J509,Communication Services,Broadcasting,Broadcasting
+"Charles River Laboratories International, Inc.",CRL,CRL US equity,BB+,Ba2,US,1100682.0,US1598641074,159864107,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+Reynolds Consumer Products Inc.,REYN,REYN US equity,BB,,US,1786431.0,US76171L1061,76171L106,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+Advantage Solutions Inc.,ADV,ADV US equity,B+,,US,1776661.0,US00791N1028,00791N102,Communication Services,Advertising Agencies,Advertising Agencies
+Open Text Corporation,OTEX,OTEX US equity,BB+,Ba3,CA,1002638.0,CA6837151068,683715106,Technology,Software—Application,Software - Application
+"Carter's, Inc.",CRI,CRI US equity,BB+,,US,1060822.0,US1462291097,146229109,Consumer Cyclical,Apparel Retail,Apparel - Retail
+Cabot Corporation,CBT,CBT US equity,BBB,Baa2,US,16040.0,US1270551013,127055101,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Atmos Energy Corporation,ATO,ATO US equity,A-,A1,US,731802.0,US0495601058,049560105,Utilities,Utilities—Regulated Gas,Regulated Gas
+"Wynn Resorts, Limited",WYNN,WYNN US equity,B+,,US,1174922.0,US9831341071,983134107,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+First Horizon Corporation,FHN,FHN US equity,NR,Baa3,US,36966.0,US3205171057,320517105,Financial Services,Banks—Regional,Banks - Regional
+"Southwest Gas Holdings, Inc.",SWX,SWX US equity,BBB-,,US,1692115.0,US8448951025,844895102,Utilities,Utilities—Regulated Gas,Regulated Gas
+"SiteOne Landscape Supply, Inc.",SITE,SITE US equity,BB,,US,1650729.0,US82982L1035,82982L103,Industrials,Industrial Distribution,Industrial - Distribution
+Public Storage,PSA,PSA US equity,A,A2,US,1393311.0,US74460D1090,74460D109,Real Estate,REIT—Industrial,REIT - Industrial
+"Valmont Industries, Inc.",VMI,VMI US equity,BBB+,Baa3,US,102729.0,US9202531011,920253101,Industrials,Conglomerates,Conglomerates
+Comerica Incorporated,CMA,CMA US equity,BBB+,Baa1,US,28412.0,US2003401070,200340107,Financial Services,Banks—Regional,Banks - Regional
+Sylvamo Corporation,SLVM,SLVM US equity,BB,B1,US,1856485.0,US8713321029,871332102,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+"Option Care Health, Inc.",OPCH,OPCH US equity,B+,B3 *+,US,1014739.0,US68404L2016,68404L201,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Albemarle Corporation,ALB,ALB US equity,BBB,Baa3,US,915913.0,US0126531013,012653101,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Central Garden & Pet Company,CENT,CENT US equity,BB,B1,US,887733.0,US1535271068,153527106,Consumer Defensive,Packaged Foods,Packaged Foods
+,ENELCHILE,ENELCHIL CI Equity,BBB,Baa2u,,,,,,,
+Crane Company,CR,CR US equity,,,US,25445.0,US2243991054,224441105,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"Zions Bancorporation, National Association",ZION,ZION US equity,BBB+,,US,109380.0,US9897011071,989701107,Financial Services,Banks—Regional,Banks - Regional
+"AMN Healthcare Services, Inc.",AMN,AMN US equity,BB+,,US,1142750.0,US0017441017,001744101,Healthcare,Medical Care Facilities,Medical - Care Facilities
+"Floor & Decor Holdings, Inc.",FND,FND US equity,BB,,US,1507079.0,US3397501012,339750101,Consumer Cyclical,Home Improvement Retail,Home Improvement
+,BCOLOMBIA,BCOLO CB Equity,BB+,Baa2,,,,,,,
+"Citrix Systems, Inc.",CTXS,CTXS US equity,B,WR,US,877890.0,US1773761002,177376100,Technology,Software—Application,Software - Application
+II-VI Incorporated,IIVI,IIVI US equity,#N/A Invalid Security,#N/A Invalid Security,US,820318.0,US9021041085,902104108,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+EnerSys,ENS,ENS US equity,BB+,Ba3,US,1289308.0,US29275Y1029,29275Y102,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+H.B. Fuller Company,FUL,FUL US equity,BB,Ba3,US,39368.0,US3596941068,359694106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+TEGNA Inc.,TGNA,TGNA US equity,BB *-,Ba3 *-,US,39899.0,US87901J1051,87901J105,Communication Services,Broadcasting,Broadcasting
+"LGI Homes, Inc.",LGIH,LGIH US equity,BB-,Ba2,US,1580670.0,US50187T1060,50187T106,Consumer Cyclical,Residential Construction,Residential Construction
+TopBuild Corp.,BLD,BLD US equity,BB+,Ba2,US,1633931.0,US89055F1030,89055F103,Industrials,Engineering & Construction,Engineering & Construction
+"Fortinet, Inc.",FTNT,FTNT US equity,BBB+,Baa1,US,1262039.0,US34959E1091,34959E109,Technology,Software—Infrastructure,Software - Infrastructure
+Boyd Gaming Corporation,BYD,BYD US equity,BB,B1,US,906553.0,US1033041013,103304101,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"Dycom Industries, Inc.",DY,DY US equity,BB,Ba3,US,67215.0,US2674751019,267475101,Industrials,Engineering & Construction,Engineering & Construction
+Graham Holdings Company,GHC,GHC US equity,BB,Ba1,US,104889.0,US3846371041,384637104,Consumer Defensive,Education & Training Services,Education & Training Services
+Scientific Games Corporation,SGMS,SGMS US equity,BB-,,US,750004.0,US80874P1093,80874P109,Consumer Cyclical,Gambling,"Gambling, Resorts & Casinos"
+"Vishay Intertechnology, Inc.",VSH,VSH US equity,BB+,WR,US,103730.0,US9282981086,928298108,Technology,Semiconductors,Semiconductors
+AMC Networks Inc.,AMCX,AMCX US equity,BB-,Ba3,US,1514991.0,US00164V1035,00164V103,Communication Services,Entertainment,Entertainment
+,RYA,RYA ID equity,BBB+,,,,,,,,
+"MillerKnoll, Inc.",MLKN,MLKN US equity,BB,WR,US,66382.0,US6005441000,600544100,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+"Energizer Holdings, Inc.",ENR,ENR US equity,B+,B2,US,1632790.0,US29272W1099,29272W109,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+Vontier Corporation,VNT,VNT US equity,BBB-,Ba1,US,1786842.0,US9288811014,928881101,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+TransUnion,TRU,TRU US equity,BB+,WR,US,1552033.0,US89400J1079,89400J107,Industrials,Consulting Services,Consulting Services
+"Spectrum Brands Holdings, Inc.",SPB,SPB US equity,B,B3,US,109177.0,US84790A1051,84790A105,Consumer Defensive,Household & Personal Products,Household & Personal Products
+Valvoline Inc.,VVV,VVV US equity,BB,Ba3,US,1674910.0,US92047W1018,92047W101,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+"Bio-Rad Laboratories, Inc.",BIO,BIO US equity,BBB,Baa2,US,12208.0,US0905722072,090572207,Healthcare,Medical Devices,Medical - Devices
+"Cadence Design Systems, Inc.",CDNS,CDNS US equity,BBB+,A3,US,813672.0,US1273871087,127387108,Technology,Software—Application,Software - Application
+Avaya Holdings Corp.,AVYA,AVYA US equity,D,,US,1418100.0,US05351X1019,05351X101,Technology,Software—Application,Software - Application
+IQ Hedge Macro Tracker ETF,MCRO,MCRO US equity,,,US,1415995.0,US45409B2060,,,,
+Nomad Foods Limited,NOMD,NOMD US equity,BB-,,GB,1651717.0,VGG6564A1057,G6564A105,Consumer Defensive,Packaged Foods,Packaged Foods
+"Hyster-Yale Materials Handling, Inc.",HY,HY US equity,B-,,US,1173514.0,US4491721050,449172105,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Endo International plc,ENDP,ENDP US equity,NR,WR,IE,1593034.0,IE00BJ3V9050,,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+ChampionX Corporation,CHX,CHX US equity,BB+,B1,US,1723089.0,US15872M1045,15872M104,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Horizon Therapeutics Public Limited Company,HZNP,HZNP US equity,BB *+,,IE,1492426.0,IE00BQPVQZ61,G46188101,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+"Brown & Brown, Inc.",BRO,BRO US equity,BBB-,Baa3,US,79282.0,US1152361010,115236101,Financial Services,Insurance Brokers,Insurance - Brokers
+"Quad/Graphics, Inc.",QUAD,QUAD US equity,B+,WR,US,1481792.0,US7473011093,747301109,Industrials,Specialty Business Services,Specialty Business Services
+"Verisk Analytics, Inc.",VRSK,VRSK US equity,BBB,Baa2,US,1442145.0,US92345Y1064,92345Y106,Industrials,Consulting Services,Consulting Services
+Atkore Inc.,ATKR,ATKR US equity,BB,Ba2,US,1666138.0,US0476491081,047649108,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+"Franchise Group, Inc.",FRG,FRG US equity,B+ *-,,US,1528930.0,US35180X1054,35180X105,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Renewable Energy Group, Inc.",REGI,REGI US equity,NR,,US,1463258.0,US75972A3014,75972A301,Energy,Oil & Gas Refining & Marketing,Oil & Gas Refining & Marketing
+Travel + Leisure Co.,TNL,TNL US equity,BB-,WR,US,1361658.0,US8941641024,894164102,Consumer Cyclical,Travel Services,Travel Services
+"Euronet Worldwide, Inc.",EEFT,EEFT US equity,BBB,Ba1,US,1029199.0,US2987361092,298736109,Technology,Software—Infrastructure,Software - Infrastructure
+Allegion plc,ALLE,ALLE US equity,BBB,Baa2,IE,1579241.0,IE00BFRT3W74,G0176J109,Industrials,Security & Protection Services,Security & Protection Services
+"Hillenbrand, Inc.",HI,HI US equity,BB+,Ba1,US,1417398.0,US4315711089,431571108,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Jazz Pharmaceuticals plc,JAZZ,JAZZ US equity,BB-,,IE,1232524.0,IE00B4Q5ZN47,G50871105,Healthcare,Biotechnology,Biotechnology
+,MOG.A,MOG/A US Equity,BB+,Ba3,,,,,,,
+"MKS Instruments, Inc.",MKSI,MKSI US equity,BB,,US,1049502.0,US55306N1046,55306N104,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+Credicorp Ltd.,BAP,BAP US equity,BBB,,PE,1001290.0,BMG2519Y1084,G2519Y108,Financial Services,Banks—Regional,Banks - Regional
+Range Resources Corporation,RRC,RRC US equity,BB,Ba3,US,315852.0,US75281A1097,75281A109,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Calumet Specialty Products Partners, L.P.",CLMT,CLMT US equity,B-,Caa1,US,1340122.0,US1314761032,131476103,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Match Group, Inc.",MTCH,MTCH US equity,BB-,WR,US,891103.0,US57667L1070,57667L107,Communication Services,Internet Content & Information,Internet Content & Information
+"Boston Properties, Inc.",BXP,BXP US equity,BBB+,,US,1037540.0,US1011211018,101121101,Real Estate,REIT—Office,REIT - Office
+,TECO2,TECO2 AR equity,CCC-,Caa3,,,,,,,
+Callaway Golf Company,ELY,ELY US equity,B+,,US,837465.0,US1311931042,131193104,Consumer Cyclical,Leisure,Leisure
+Compañía Cervecerías Unidas S.A.,CCU,CCU US equity,BBB,,CL,888746.0,US2044291043,204429104,Consumer Defensive,Beverages—Brewers,Beverages - Alcoholic
+Peabody Energy Corporation,BTU,BTU US equity,B,B2,US,1064728.0,US7045511000,704551100,Energy,Thermal Coal,Coal
+ITT Inc.,ITT,ITT US equity,BBB,Baa2,US,216228.0,US45073V1089,45073V108,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"Hovnanian Enterprises, Inc.",HOV,HOV US equity,B-,,US,357294.0,US4424874018,442487401,Consumer Cyclical,Residential Construction,Residential Construction
+Visteon Corporation,VC,VC US equity,BB-,WR,US,1111335.0,US92839U2069,92839U206,Consumer Cyclical,Auto Parts,Auto - Parts
+Teleflex Incorporated,TFX,TFX US equity,BB+,Ba3,US,96943.0,US8793691069,879369106,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+"Spirit Airlines, Inc.",SAVE,SAVE US equity,B,,US,1498710.0,US8485771021,848577102,Industrials,Airlines,"Airlines, Airports & Air Services"
+"Hawaiian Electric Industries, Inc.",HE,HE US equity,BBB-,WR,US,354707.0,US4198701009,419870100,Utilities,Utilities—Diversified,Diversified Utilities
+Janus Henderson Group plc,JHG,JHG US equity,BBB+,,GB,1274173.0,JE00BYPZJM29,G4474Y214,Financial Services,Asset Management,Asset Management
+"FTI Consulting, Inc.",FCN,FCN US equity,BB+,Ba2,US,887936.0,US3029411093,302941109,Industrials,Consulting Services,Consulting Services
+Murphy Oil Corporation,MUR,MUR US equity,BB+,Ba2,US,717423.0,US6267171022,626717102,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Steelcase Inc.,SCS,SCS US equity,BB,Ba3,US,1050825.0,US8581552036,858155203,Industrials,Business Equipment & Supplies,Business Equipment & Supplies
+ATI Inc.,ATI,ATI US equity,B+,B2,US,1018963.0,US01741R1023,01741R102,Industrials,Metal Fabrication,Manufacturing - Metal Fabrication
+"Popular, Inc.",BPOP,BPOP US equity,BB+,Ba1,US,763901.0,PR7331747001,733174700,Financial Services,Banks—Regional,Banks - Regional
+NortonLifeLock Inc.,NLOK,NLOK US equity,BB,Ba1,US,849399.0,US6687711084,668771108,Technology,Software—Infrastructure,Software - Infrastructure
+"Caleres, Inc.",CAL,CAL US equity,B+,WR,US,14707.0,US1295001044,129500104,Consumer Cyclical,Footwear & Accessories,Apparel - Footwear & Accessories
+IDEX Corporation,IEX,IEX US equity,BBB,Baa2,US,832101.0,US45167R1041,45167R104,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Cimpress plc,CMPR,CMPR US equity,B,Caa1,IE,1262976.0,IE00BKYC3F77,G2143T103,Communication Services,Advertising Agencies,Advertising Agencies
+"FLEETCOR Technologies, Inc.",FLT,FLT US equity,BB+,,US,1175454.0,US3390411052,339041105,Technology,Software—Infrastructure,Software - Infrastructure
+"Stericycle, Inc.",SRCL,SRCL US equity,BB,,US,861878.0,US8589121081,858912108,Industrials,Waste Management,Waste Management
+"PROG Holdings, Inc.",PRG,PRG US equity,BB-,B1,US,1808834.0,US74319R1014,74319R101,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Transocean Ltd.,RIG,RIG US equity,CCC,,CH,1451505.0,CH0048265513,H8817H100,Energy,Oil & Gas Drilling,Oil & Gas Drilling
+Vista Outdoor Inc.,VSTO,VSTO US equity,BB *-,B1 *-,US,1616318.0,US9283771007,928377100,Consumer Cyclical,Leisure,Leisure
+"Magellan Midstream Partners, L.P.",MMP,MMP US equity,BBB+ *-,Baa1 *-,US,1126975.0,US5590801065,559080106,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Masonite International Corporation,DOOR,DOOR US equity,BB+,Ba2,US,893691.0,CA5753851099,575385109,Industrials,Building Products & Equipment,Construction
+Nexa Resources S.A.,NEXA,NEXA US equity,BB+,Ba2,LU,1713930.0,LU1701428291,L67359106,Basic Materials,Other Industrial Metals & Mining,Industrial Materials
+"H&R Block, Inc.",HRB,HRB US equity,BBB,,US,12659.0,US0936711052,093671105,Consumer Cyclical,Personal Services,Personal Products & Services
+ManTech International Corporation,MANT,MANT US equity,NR,WR,US,892537.0,US5645631046,564563104,Technology,Software—Application,Software - Application
+Twilio Inc.,TWLO,TWLO US equity,BB,Ba3,US,1447669.0,US90138F1021,90138F102,Communication Services,Internet Content & Information,Internet Content & Information
+"G-III Apparel Group, Ltd.",GIII,GIII US equity,BB-,,US,821002.0,US36237H1014,36237H101,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+"Viasat, Inc.",VSAT,VSAT US equity,BB-,Caa1,US,797721.0,US92552V1008,92552V100,Technology,Communication Equipment,Communication Equipment
+"Newmark Group, Inc.",NMRK,NMRK US equity,BB+,,US,1690680.0,US65158N1028,65158N102,Real Estate,Real Estate Services,Real Estate - Services
+JOANN Inc.,JOAN,JOAN US equity,CCC+,,US,1834585.0,US47768J1016,47768J101,Consumer Cyclical,Specialty Retail,Specialty Retail
+WeWork Inc.,WE,WE US equity,,,US,1813756.0,US96209A1043,96209A104,Real Estate,Real Estate Services,Real Estate - Services
+,ANDINA-B,ANDINAB CI equity,BBB,WR,,,,,,,
+AppLovin Corporation,APP,APP US equity,BB-,,US,1751008.0,US03831W1080,03831W108,Technology,Software—Application,Software - Application
+Playtika Holding Corp.,PLTK,PLTK US equity,BB,B2,IL,1828016.0,US72815L1070,72815L107,Communication Services,Electronic Gaming & Multimedia,Electronic Gaming & Multimedia
+"Gray Television, Inc.",GTN,GTN US equity,B+,B3,US,43196.0,US3893751061,389375106,Communication Services,Broadcasting,Broadcasting
+"Kontoor Brands, Inc.",KTB,KTB US equity,BB,Ba3,US,1760965.0,US50050N1037,50050N103,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+New Residential Investment Corp.,NRZ,NRZ US equity,B,B3,US,1556593.0,US64828T2015,64828T201,Real Estate,REIT—Mortgage,REIT - Mortgage
+Marriott Vacations Worldwide Corporation,VAC,VAC US equity,BB-,,US,1524358.0,US57164Y1073,57164Y107,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+Equity Residential,EQR,EQR US equity,A-,WR,US,906107.0,US29476L1070,29476L107,Real Estate,REIT—Residential,REIT - Residential
+Cooper-Standard Holdings Inc.,CPS,CPS US equity,CCC+,WR,US,1320461.0,US21676P1030,21676P103,Consumer Cyclical,Auto Parts,Auto - Parts
+Portland General Electric Company,POR,POR US equity,BBB+,WR,US,784977.0,US7365088472,736508847,Utilities,Utilities—Regulated Electric,Regulated Electric
+nVent Electric plc,NVT,NVT US equity,BBB-,,GB,1720635.0,IE00BDVJJQ56,G6700G107,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+NewMarket Corporation,NEU,NEU US equity,BBB+,Baa2,US,1282637.0,US6515871076,651587107,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Advanced Drainage Systems, Inc.",WMS,WMS US equity,BB,Ba2,US,1604028.0,US00790R1041,00790R104,Industrials,Building Products & Equipment,Construction
+Sociedad Química y Minera de Chile S.A.,SQM,SQM US equity,BBB+,Baa1,CL,909037.0,US8336351056,833635105,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Element Solutions Inc,ESI,ESI US equity,BB,B1,US,1590714.0,US28618M1062,28618M106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Wolverine World Wide, Inc.",WWW,WWW US equity,BB-,B1,US,110471.0,US9780971035,978097103,Consumer Cyclical,Footwear & Accessories,Apparel - Footwear & Accessories
+Royalty Pharma plc,RPRX,RPRX US equity,BBB-,Baa3,US,1802768.0,GB00BMVP7Y09,G7709Q104,Healthcare,Biotechnology,Biotechnology
+California Resources Corporation,CRC,CRC US equity,B+,B2,US,1609253.0,US13057Q3056,13057Q305,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"The GEO Group, Inc.",GEO,GEO US equity,B,Caa1,US,923796.0,US36162J1060,36162J106,Industrials,Security & Protection Services,Security & Protection Services
+"AvalonBay Communities, Inc.",AVB,AVB US equity,A-,A3,US,915912.0,US0534841012,053484101,Real Estate,REIT—Residential,REIT - Residential
+"Affiliated Managers Group, Inc.",AMG,AMG US equity,BBB+,A3,US,1004434.0,US0082521081,008252108,Financial Services,Asset Management,Asset Management
+Navient Corporation,NAVI,NAVI US equity,BB-,Ba3,US,1593538.0,US63938C1080,63938C108,Financial Services,Credit Services,Financial - Credit Services
+Griffon Corporation,GFF,GFF US equity,B+,B3,US,50725.0,US3984331021,398433102,Industrials,Conglomerates,Conglomerates
+Belden Inc.,BDC,BDC US equity,BB,,US,913142.0,US0774541066,077454106,Technology,Communication Equipment,Communication Equipment
+Algoma Steel Group Inc.,ASTL,ASTL US equity,NR,,CA,1860805.0,CA0156581070,015658107,Basic Materials,Steel,Steel
+"Acadia Healthcare Company, Inc.",ACHC,ACHC US equity,BB-,Ba3,US,1520697.0,US00404A1097,00404A109,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Korn Ferry,KFY,KFY US equity,BB,Ba3,US,56679.0,US5006432000,500643200,Industrials,Staffing & Employment Services,Staffing & Employment Services
+The E.W. Scripps Company,SSP,SSP US equity,B+,B3,US,832428.0,US8110544025,811054402,Communication Services,Broadcasting,Broadcasting
+SBA Communications Corporation,SBAC,SBAC US equity,BB+,Ba3,US,1034054.0,US78410G1040,78410G104,Real Estate,REIT—Specialty,REIT - Specialty
+Spire Inc.,SR,SR US equity,A-,Baa2,US,1126956.0,US84857L1017,84857L101,Utilities,Utilities—Regulated Gas,Regulated Gas
+"KAR Auction Services, Inc.",KAR,KAR US equity,B,B2,US,1395942.0,US48238T1097,48238T109,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+SLM Corporation,SLM,SLM US equity,BB+,Ba1,US,1032033.0,US78442P1066,78442P106,Financial Services,Credit Services,Financial - Credit Services
+"Host Hotels & Resorts, Inc.",HST,HST US equity,BBB-,WR,US,1070750.0,US44107P1049,44107P104,Real Estate,REIT—Hotel & Motel,REIT - Hotel & Motel
+Algonquin Power & Utilities Corp.,AQN,AQN US equity,BBB,,CA,1174169.0,CA0158571053,015857105,Utilities,Utilities—Renewable,Renewable Utilities
+"Entegris, Inc.",ENTG,ENTG US equity,BB,Ba2,US,1101302.0,US29362U1043,29362U104,Technology,Semiconductor Equipment & Materials,Semiconductors
+,BSANTANDER,BSAN CI Equity,A-,A2,,,,,,,
+"TTM Technologies, Inc.",TTMI,TTMI US equity,BB,Ba3,US,1116942.0,US87305R1095,87305R109,Technology,Electronic Components,"Hardware, Equipment & Parts"
+"Surgery Partners, Inc.",SGRY,SGRY US equity,B-,,US,1638833.0,US86881A1007,86881A100,Healthcare,Medical Care Facilities,Medical - Care Facilities
+"Aerojet Rocketdyne Holdings, Inc.",AJRD,AJRD US equity,BB-,WR,US,40888.0,US0078001056,007800105,Industrials,Aerospace & Defense,Aerospace & Defense
+Weibo Corporation,WB,WB US equity,BBB,Baa2,CN,1595761.0,US9485961018,948596101,Communication Services,Internet Content & Information,Internet Content & Information
+Venator Materials PLC,VNTR,VNTR US equity,D,,GB,1705682.0,GB00BF3ZNS54,G9329Z100,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Harsco Corporation,HSC,HSC US equity,B+,B3,US,45876.0,US4158641070,415864107,Industrials,Waste Management,Waste Management
+Kirby Corporation,KEX,KEX US equity,BBB-,Baa3,US,56047.0,US4972661064,497266106,Industrials,Marine Shipping,Marine Shipping
+"Beazer Homes USA, Inc.",BZH,BZH US equity,B,B2,US,915840.0,US07556Q8814,07556Q881,Consumer Cyclical,Residential Construction,Residential Construction
+"Crocs, Inc.",CROX,CROX US equity,BB-,B2,US,1334036.0,US2270461096,227046109,Consumer Cyclical,Footwear & Accessories,Apparel - Footwear & Accessories
+SiriusPoint Ltd.,SPNT,SPNT US equity,BBB,,BM,1576018.0,BMG8192H1060,G8827U100,Financial Services,Insurance—Reinsurance,Insurance - Reinsurance
+Ashland Inc.,ASH,ASH US equity,BB+,,US,1674862.0,US0441861046,044186104,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+AdaptHealth Corp.,AHCO,AHCO US equity,B+,,US,1725255.0,US00653Q1022,00653Q102,Healthcare,Medical Devices,Medical - Devices
+TravelCenters of America Inc.,TA,TA US equity,NR,,US,1378453.0,US89421B1098,89421B109,Consumer Cyclical,Specialty Retail,Specialty Retail
+Universal Corporation,UVV,UVV US equity,BBB,WR,US,102037.0,US9134561094,913456109,Consumer Defensive,Tobacco,Tobacco
+"Revlon, Inc.",REV,REV US equity,NR,,US,887921.0,US7615256093,761525609,Consumer Defensive,Household & Personal Products,Household & Personal Products
+"BWX Technologies, Inc.",BWXT,BWXT US equity,BB,Ba3,US,1486957.0,US05605H1005,05605H100,Industrials,Aerospace & Defense,Aerospace & Defense
+Kaiser Aluminum Corporation,KALU,KALU US equity,BB-,B2,US,811596.0,US4830077040,483007704,Basic Materials,Aluminum,Aluminum
+Edgewell Personal Care Company,EPC,EPC US equity,BB,Ba3,US,1096752.0,US28035Q1022,28035Q102,Consumer Defensive,Household & Personal Products,Household & Personal Products
+Zurn Elkay Water Solutions Corporation,ZWS,ZWS US equity,BB,,US,1439288.0,US98983L1089,98983L108,Industrials,Pollution & Treatment Controls,Industrial - Pollution & Treatment Controls
+"Amneal Pharmaceuticals, Inc.",AMRX,AMRX US equity,B,,US,1723128.0,US03168L1052,03168L105,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+Primo Water Corporation,PRMW,PRMW US equity,,,US,884713.0,CA74167P1080,74167P108,Consumer Defensive,Beverages—Non-Alcoholic,Beverages - Non-Alcoholic
+Hilton Worldwide Holdings Inc.,HLT,HLT US equity,BB+,,US,1585689.0,US43300A2033,43300A203,Consumer Cyclical,Lodging,Travel Lodging
+Vector Group Ltd.,VGR,VGR US equity,B+,Caa1,US,59440.0,US92240M1080,92240M108,Consumer Defensive,Tobacco,Tobacco
+"Dun & Bradstreet Holdings, Inc.",DNB,DNB US equity,B+,,US,1799208.0,US26484T1060,26484T106,Financial Services,Financial Data & Stock Exchanges,Financial - Data & Stock Exchanges
+"Clear Channel Outdoor Holdings, Inc.",CCO,CCO US equity,CCC+,Caa2,US,1334978.0,US18453H1068,18453H106,Communication Services,Advertising Agencies,Advertising Agencies
+Ortho Clinical Diagnostics Holdings plc,OCDX,OCDX US equity,NR,,US,1828443.0,GB00BMDNH979,,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+BOK Financial Corporation,BOKF,BOKF US equity,BBB+,WR,US,875357.0,US05561Q2012,05561Q201,Financial Services,Banks—Regional,Banks - Regional
+"Terminix Global Holdings, Inc.",TMX,TMX US equity,NR,,US,1428875.0,US88087E1001,88087E100,Consumer Cyclical,Personal Services,Personal Products & Services
+"People's United Financial, Inc.",PBCT,PBCT US equity,NR,A3,US,1378946.0,US7127041058,712704105,Financial Services,Banks—Regional,Banks - Regional
+Herc Holdings Inc.,HRI,HRI US equity,BB-,Ba3,US,1364479.0,US42704L1044,42704L104,Industrials,Rental & Leasing Services,Rental & Leasing Services
+"Alexandria Real Estate Equities, Inc.",ARE,ARE US equity,BBB+,Baa1,US,1035443.0,US0152711091,015271109,Real Estate,REIT—Office,REIT - Office
+"Papa John's International, Inc.",PZZA,PZZA US equity,BB-,B1,US,901491.0,US6988131024,698813102,Consumer Cyclical,Restaurants,Restaurants
+CompX International Inc.,CIX,CIX US equity,,,US,1049606.0,US20563P1012,20563P101,Industrials,Security & Protection Services,Security & Protection Services
+"Genesis Energy, L.P.",GEL,GEL US equity,B,B2,US,1022321.0,US3719271047,371927104,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+SM Energy Company,SM,SM US equity,B+,B2,US,893538.0,US78454L1008,78454L100,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"B&G Foods, Inc.",BGS,BGS US equity,B-,Caa1,US,1278027.0,US05508R1068,05508R106,Consumer Defensive,Packaged Foods,Packaged Foods
+Weber Inc.,WEBR,WEBR US equity,CCC+,,US,1857951.0,US94770D1028,94770D102,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+Air Lease Corporation,AL,AL US equity,BBB,,US,1487712.0,US00912X3026,00912X302,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Synovus Financial Corp.,SNV,SNV US equity,BBB-,WR,US,18349.0,US87161C5013,87161C501,Financial Services,Banks—Regional,Banks - Regional
+"Arcosa, Inc.",ACA,ACA US equity,BB,Ba2,US,1739445.0,US0396531008,039653100,Industrials,Infrastructure Operations,Industrial - Infrastructure Operations
+"BGC Partners, Inc.",BGCP,BGCP US equity,BBB-,,US,1094831.0,US05541T1016,05541T101,Financial Services,Capital Markets,Financial - Capital Markets
+"Vail Resorts, Inc.",MTN,MTN US equity,BB,Ba3,US,812011.0,US91879Q1094,91879Q109,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"Corsair Gaming, Inc.",CRSR,CRSR US equity,BB-,,US,1743759.0,US22041X1028,22041X102,Technology,Computer Hardware,Computer Hardware
+Invitation Homes Inc.,INVH,INVH US equity,BBB,,US,1687229.0,US46187W1071,46187W107,Real Estate,REIT—Residential,REIT - Residential
+Coterra Energy Inc.,CTRA,CTRA US equity,BBB,Baa2,US,858470.0,US1270971039,127097103,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+MSCI Inc.,MSCI,MSCI US equity,BBB-,Ba1,US,1408198.0,US55354G1004,55354G100,Financial Services,Financial Data & Stock Exchanges,Financial - Data & Stock Exchanges
+"PDC Energy, Inc.",PDCE,PDCE US equity,BB,Ba3,US,77877.0,US69327R1014,69327R101,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Infrastructure and Energy Alternatives, Inc.",IEA,IEA US equity,BBB-,,US,1652362.0,US45686J1043,45686J104,Industrials,Engineering & Construction,Engineering & Construction
+Kennametal Inc.,KMT,KMT US equity,BBB,Baa3,US,55242.0,US4891701009,489170100,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+Nabors Industries Ltd.,NBR,NBR US equity,B-,B3,BM,1163739.0,BMG6359F1370,G6359F137,Energy,Oil & Gas Drilling,Oil & Gas Drilling
+ACCO Brands Corporation,ACCO,ACCO US equity,BB-,B1,US,712034.0,US00081T1088,00081T108,Industrials,Business Equipment & Supplies,Business Equipment & Supplies
+Deluxe Corporation,DLX,DLX US equity,B,B3,US,27996.0,US2480191012,248019101,Communication Services,Advertising Agencies,Advertising Agencies
+"The Greenbrier Companies, Inc.",GBX,GBX US equity,BB-,WR,US,923120.0,US3936571013,393657101,Industrials,Railroads,Railroads
+Altra Industrial Motion Corp.,AIMC,AIMC US equity,NR,,US,1374535.0,US02208R1068,02208R106,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+"CoStar Group, Inc.",CSGP,CSGP US equity,BB+,Baa3,US,1057352.0,US22160N1090,22160N109,Real Estate,Real Estate Services,Real Estate - Services
+"Installed Building Products, Inc.",IBP,IBP US equity,BB-,B1,US,1580905.0,US45780R1014,45780R101,Industrials,Building Products & Equipment,Construction
+Black Hills Corporation,BKH,BKH US equity,BBB+,Baa2,US,1130464.0,US0921131092,092113109,Utilities,Utilities—Diversified,Diversified Utilities
+Kraton Corporation,KRA,KRA US equity,BB-,,US,1321646.0,US50077C1062,50077C106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"CoreCivic, Inc.",CXW,CXW US equity,BB-,Ba2,US,1070985.0,US21871N1019,21871N101,Real Estate,REIT—Specialty,REIT - Specialty
+Cowen Inc.,COWN,COWN US equity,NR,,US,1466538.0,US2236226062,223622606,Financial Services,Capital Markets,Financial - Capital Markets
+"Kronos Worldwide, Inc.",KRO,KRO US equity,B,,US,1257640.0,US50105F1057,50105F105,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Ultra Clean Holdings, Inc.",UCTT,UCTT US equity,B+,,US,1275014.0,US90385V1070,90385V107,Technology,Semiconductor Equipment & Materials,Semiconductors
+"Healthpeak Properties, Inc.",PEAK,PEAK US equity,BBB+,Baa1,US,765880.0,US42250P1030,42250P103,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+Tupperware Brands Corporation,TUP,TUP US equity,NR,WR,US,1008654.0,US8998961044,899896104,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+"South Jersey Industries, Inc.",SJI,SJI US equity,BBB,,US,91928.0,US8385181081,838518108,Utilities,Utilities—Diversified,Diversified Utilities
+"Pediatrix Medical Group, Inc.",MD,MD US equity,BB-,Ba3,US,893949.0,US58502B1061,58502B106,Healthcare,Medical Care Facilities,Medical - Care Facilities
+InterContinental Hotels Group PLC,IHG,IHG US equity,BBB,WR,GB,858446.0,US45857P8068,45857P806,Consumer Cyclical,Lodging,Travel Lodging
+"Oceaneering International, Inc.",OII,OII US equity,BB-,B1,US,73756.0,US6752321025,675232102,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+McAfee Corp.,MCFE,MCFE US equity,NR,Caa2,US,1783317.0,US5790631080,579063108,Technology,Software—Infrastructure,Software - Infrastructure
+ModivCare Inc.,MODV,MODV US equity,B+,B2,US,1220754.0,US60783X1046,60783X104,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Realty Income Corporation,O,O US equity,A-,A3,US,726728.0,US7561091049,756109104,Real Estate,REIT—Retail,REIT - Retail
+"Essential Utilities, Inc.",WTRG,WTRG US equity,A,Baa2,US,78128.0,US29670G1022,29670G102,Utilities,Utilities—Regulated Water,Regulated Water
+CNX Resources Corporation,CNX,CNX US equity,BB,B1,US,1070412.0,US12653C1080,12653C108,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+WillScot Mobile Mini Holdings Corp.,WSC,WSC US equity,BB-,,US,1647088.0,US9713781048,971378104,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Minerals Technologies Inc.,MTX,MTX US equity,BB,Ba3,US,891014.0,US6031581068,603158106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Plantronics, Inc.",POLY,POLY US equity,NR,WR,US,914025.0,US7274931085,727493108,Technology,Communication Equipment,Communication Equipment
+PTC Inc.,PTC,PTC US equity,BB+,Ba3,US,857005.0,US69370C1009,69370C100,Technology,Software—Application,Software - Application
+Rayonier Advanced Materials Inc.,RYAM,RYAM US equity,B,Caa2,US,1597672.0,US75508B1044,75508B104,Basic Materials,Chemicals,Chemicals
+"Fossil Group, Inc.",FOSL,FOSL US equity,B-,,US,883569.0,US34988V1061,34988V106,Consumer Cyclical,Luxury Goods,Luxury Goods
+,YRI,PAAS US Equity,BBB-,,,,,,,,
+Maxar Technologies Inc.,MAXR,MAXR US equity,NR,,US,1121142.0,US57778K1051,57778K105,Technology,Communication Equipment,Communication Equipment
+"Forterra, Inc.",FRTA,FRTA US equity,NR,,US,1678463.0,US34960W1062,34960W106,Industrials,Building Products & Equipment,Construction
+"Arch Resources, Inc.",ARCH,ARCH US equity,B+,WR,US,1037676.0,US03940R1077,03940R107,Energy,Thermal Coal,Coal
+"East West Bancorp, Inc.",EWBC,EWBC US equity,BBB,,US,1069157.0,US27579R1041,27579R104,Financial Services,Banks—Diversified,Banks - Diversified
+"Alpha Metallurgical Resources, Inc.",AMR,AMR US equity,B,,US,1704715.0,US0207641061,020764106,Basic Materials,Coking Coal,Coal
+WEX Inc.,WEX,WEX US equity,BB-,WR,US,1309108.0,US96208T1043,96208T104,Technology,Software—Infrastructure,Software - Infrastructure
+National Fuel Gas Company,NFG,NFG US equity,BBB-,Baa3,US,70145.0,US6361801011,636180101,Energy,Oil & Gas Integrated,Oil & Gas Integrated
+"Ziff Davis, Inc.",ZD,ZD US equity,BB,Ba3,US,1084048.0,,48123V102,Communication Services,Advertising Agencies,Advertising Agencies
+AAR Corp.,AIR,AIR US equity,BB,WR,US,1750.0,US0003611052,000361105,Industrials,Aerospace & Defense,Aerospace & Defense
+Lumentum Holdings Inc.,LITE,LITE US equity,BB-,,US,1633978.0,US55024U1097,55024U109,Technology,Communication Equipment,Communication Equipment
+"Mid-America Apartment Communities, Inc.",MAA,MAA US equity,A-,,US,912595.0,US59522J1034,59522J103,Real Estate,REIT—Residential,REIT - Residential
+Clearwater Paper Corporation,CLW,CLW US equity,BB-,Ba3,US,1441236.0,US18538R1032,18538R103,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+Eagle Materials Inc.,EXP,EXP US equity,BBB,Baa2,US,918646.0,US26969P1084,26969P108,Basic Materials,Building Materials,Construction Materials
+Ares Capital Corporation,ARCC,ARCC US equity,BBB-,WR,US,1287750.0,US04010L1035,04010L103,Financial Services,Asset Management,Asset Management
+Wabash National Corporation,WNC,WNC US equity,B+,B2,US,879526.0,US9295661071,929566107,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Lamar Advertising Company,LAMR,LAMR US equity,BB,WR,US,1090425.0,US5128161099,512816109,Real Estate,REIT—Specialty,REIT - Specialty
+"PNM Resources, Inc.",PNM,PNM US equity,BBB,Baa3,US,1108426.0,US69349H1077,69349H107,Utilities,Utilities—Regulated Electric,Regulated Electric
+"CDK Global, Inc.",CDK,CDK US equity,B+,,US,1609702.0,US12508E1010,12508E101,Technology,Software—Application,Software - Application
+"ONE Gas, Inc.",OGS,OGS US equity,A-,A3,US,1587732.0,US68235P1084,68235P108,Utilities,Utilities—Regulated Gas,Regulated Gas
+"Trinity Industries, Inc.",TRN,TRN US equity,BB+,Ba2,US,99780.0,US8965221091,896522109,Industrials,Railroads,Railroads
+Mercer International Inc.,MERC,MERC US equity,B+,Ba3,CA,1333274.0,US5880561015,588056101,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+"IAA, Inc.",IAA,IAA US equity,NR,WR,US,1745041.0,US4492531037,449253103,Industrials,Specialty Business Services,Specialty Business Services
+Matthews International Corporation,MATW,MATW US equity,BB,B2,US,63296.0,US5771281012,577128101,Industrials,Conglomerates,Conglomerates
+Bright Horizons Family Solutions Inc.,BFAM,BFAM US equity,B+,,US,1437578.0,US1091941005,109194100,Consumer Cyclical,Personal Services,Personal Products & Services
+Koppers Holdings Inc.,KOP,KOP US equity,B+,WR,US,1315257.0,US50060P1066,50060P106,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+Roblox Corporation,RBLX,RBLX US equity,BB,Ba2,US,1315098.0,US7710491033,771049103,Communication Services,Electronic Gaming & Multimedia,Electronic Gaming & Multimedia
+"Carrols Restaurant Group, Inc.",TAST,TAST US equity,CCC+,Caa2,US,809248.0,US14574X1046,14574X104,Consumer Cyclical,Restaurants,Restaurants
+Focus Financial Partners Inc.,FOCS,FOCS US equity,B+,,US,1651052.0,US34417P1003,34417P100,Financial Services,Asset Management,Asset Management
+"The Manitowoc Company, Inc.",MTW,MTW US equity,B,WR,US,61986.0,US5635714059,563571405,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Emergent BioSolutions Inc.,EBS,EBS US equity,B+,Caa2,US,1367644.0,US29089Q1058,29089Q105,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+"Air Transport Services Group, Inc.",ATSG,ATSG US equity,BB+,,US,894081.0,US00922R1059,00922R105,Industrials,Airlines,"Airlines, Airports & Air Services"
+Callon Petroleum Company,CPE,CPE US equity,B+,B3 *+,US,928022.0,US13123X1028,13123X508,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Triumph Group, Inc.",TGI,TGI US equity,CCC+,Caa3,US,1021162.0,US8968181011,896818101,Industrials,Aerospace & Defense,Aerospace & Defense
+Vornado Realty Trust,VNO,VNO US equity,BBB-,WR,US,899689.0,US9290421091,929042109,Real Estate,REIT—Office,REIT - Office
+Angi Inc.,ANGI,ANGI US equity,B,,US,1705110.0,US00183L1026,00183L102,Communication Services,Internet Content & Information,Internet Content & Information
+"Titan International, Inc.",TWI,TWI US equity,B,WR,US,899751.0,US88830M1027,88830M102,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Credit Acceptance Corporation,CACC,CACC US equity,BB,Ba3,US,885550.0,US2253101016,225310101,Financial Services,Credit Services,Financial - Credit Services
+"FirstCash Holdings, Inc",FCFS,FCFS US equity,BB,Ba2,US,840489.0,US33768G1076,33768G107,Financial Services,Credit Services,Financial - Credit Services
+NuStar Energy L.P.,NS,NS US equity,BB-,,US,1110805.0,US67058H1023,67058H102,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Triton International Limited,TRTN,TRTN US equity,BBB- *+,,BM,1660734.0,BMG9078F1077,G9078F107,Industrials,Rental & Leasing Services,Rental & Leasing Services
+"Frontdoor, Inc.",FTDR,FTDR US equity,BB-,B2,US,1727263.0,US35905A1097,35905A109,Consumer Cyclical,Personal Services,Personal Products & Services
+,PAMP,PAMP US equity,,,,,,,,,
+Matador Resources Company,MTDR,MTDR US equity,BB-,B1,US,1520006.0,US5764852050,576485205,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Conn's, Inc.",CONN,CONN US equity,NR,WR,US,1223389.0,US2082421072,208242107,Consumer Cyclical,Specialty Retail,Specialty Retail
+Hilton Grand Vacations Inc.,HGV,HGV US equity,BB-,,US,1674168.0,US43283X1054,43283X105,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+Extra Space Storage Inc.,EXR,EXR US equity,BBB *+,,US,1289490.0,US30225T1025,30225T102,Real Estate,REIT—Industrial,REIT - Industrial
+IHS Holding Limited,IHS,IHS US equity,B+,,GB,1876183.0,KYG4701H1092,G4701H109,Communication Services,Telecom Services,Telecommunications Services
+"SPX FLOW, Inc.",FLOW,FLOW US equity,B-,Caa2,US,1641991.0,US78469X1072,78469X107,Industrials,Specialty Industrial Machinery,Asset Management - Global
+The Wendy's Company,WEN,WEN US equity,B+,,US,30697.0,US95058W1009,95058W100,Consumer Cyclical,Restaurants,Restaurants
+Churchill Downs Incorporated,CHDN,CHDN US equity,BB,B1,US,20212.0,US1714841087,171484108,Consumer Cyclical,Gambling,"Gambling, Resorts & Casinos"
+"Cable One, Inc.",CABO,CABO US equity,BB,B2,US,1632127.0,US12685J1051,12685J105,Communication Services,Telecom Services,Telecommunications Services
+Carpenter Technology Corporation,CRS,CRS US equity,BB,B2,US,17843.0,US1442851036,144285103,Industrials,Metal Fabrication,Manufacturing - Metal Fabrication
+"Essex Property Trust, Inc.",ESS,ESS US equity,BBB+,,US,920522.0,US2971781057,297178105,Real Estate,REIT—Residential,REIT - Residential
+Sabre Corporation,SABR,SABR US equity,B-,,US,1597033.0,US78573M1045,78573M104,Consumer Cyclical,Travel Services,Travel Services
+"Commerce Bancshares, Inc.",CBSH,CBSH US equity,A-,WR,US,22356.0,US2005251036,200525103,Financial Services,Banks—Regional,Banks - Regional
+"Wyndham Hotels & Resorts, Inc.",WH,WH US equity,BB+,Ba2,US,1722684.0,US98311A1051,98311A105,Consumer Cyclical,Lodging,Travel Lodging
+VICI Properties Inc.,VICI,VICI US equity,BBB-,,US,1705696.0,US9256521090,925652109,Real Estate,REIT—Diversified,REIT - Diversified
+"Daseke, Inc.",DSKE,DSKE US equity,B+,,US,1642453.0,US23753F1075,23753F107,Industrials,Trucking,Trucking
+"Medical Properties Trust, Inc.",MPW,MPW US equity,BB,,US,1287865.0,US58463J3041,58463J304,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+"Coherent, Inc.",COHR,COHR US equity,BB-,B2,US,820318.0,,,Technology,Scientific & Technical Instruments,"Hardware, Equipment & Parts"
+Stagwell Inc.,STGW,STGW US equity,BB-,,US,876883.0,US85256A1097,85256A109,Communication Services,Advertising Agencies,Advertising Agencies
+,AZUL4,AZUL4 BZ Equity,CCC-,,,,,,,,
+"Comstock Resources, Inc.",CRK,CRK US equity,B+,B2,US,23194.0,US2057683029,205768302,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Orion Engineered Carbons S.A.,OEC,OEC US equity,BB,,LU,1609804.0,LU1092234845,L72967109,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"The Chefs' Warehouse, Inc.",CHEF,CHEF US equity,B,,US,1517175.0,US1630861011,163086101,Consumer Defensive,Food Distribution,Food Distribution
+"Alliance Resource Partners, L.P.",ARLP,ARLP US equity,B+,,US,1086600.0,US01877R1086,01877R108,Energy,Thermal Coal,Coal
+"Cano Health, Inc.",CANO,CANO US equity,B-,,US,1800682.0,US13781Y1038,13781Y103,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Oppenheimer Holdings Inc.,OPY,OPY US equity,BB-,,US,791963.0,US6837971042,683797104,Financial Services,Capital Markets,Financial - Capital Markets
+"Welbilt, Inc.",WBT,WBT US equity,NR,WR,US,1650962.0,US9490901041,949090104,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Ritchie Bros. Auctioneers Incorporated,RBA,RBA US equity,BB+,Ba3,CA,1046102.0,CA7677441056,767744105,Industrials,Specialty Business Services,Specialty Business Services
+"IDACORP, Inc.",IDA,IDA US equity,BBB,WR,US,1057877.0,US4511071064,451107106,Utilities,Utilities—Regulated Electric,Regulated Electric
+Equitrans Midstream Corporation,ETRN,ETRN US equity,BB-,,US,1747009.0,US2946001011,294600101,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Diversified Healthcare Trust,DHC,DHC US equity,CCC+ *+,Ca *+,US,1075415.0,US25525P1075,25525P107,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+"Black Knight, Inc.",BKI,BKI US equity,BB *+,Ba3 *+,US,1627014.0,US09215C1053,09215C105,Technology,Software—Application,Software - Application
+PotlatchDeltic Corporation,PCH,PCH US equity,BBB-,Baa3,US,1338749.0,US7376301039,737630103,Real Estate,REIT—Specialty,REIT - Specialty
+Informatica Inc.,INFA,INFA US equity,BB-,,US,1868778.0,US45674M1018,45674M101,Technology,Software—Infrastructure,Software - Infrastructure
+Oasis Petroleum Inc.,OAS,OAS US equity,BB-,Ba3,US,1486159.0,US6742152076,674215207,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Hillman Solutions Corp.,HLMN,HLMN US equity,BB-,,US,1822492.0,US4316361090,431636109,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+"SunCoke Energy, Inc.",SXC,SXC US equity,BB-,B3,US,1514705.0,US86722A1034,86722A103,Basic Materials,Coking Coal,Coal
+Hudbay Minerals Inc.,HBM,HBM US equity,B,B2,CA,1322422.0,CA4436281022,443628102,Basic Materials,Copper,Copper
+Avista Corporation,AVA,AVA US equity,BBB,Baa2,US,104918.0,US05379B1070,05379B107,Utilities,Utilities—Diversified,Diversified Utilities
+Synaptics Incorporated,SYNA,SYNA US equity,BB-,Ba3,US,817720.0,US87157D1090,87157D109,Technology,Semiconductors,Semiconductors
+Teekay Corporation,TK,TK US equity,B+ *-,WR,BM,911971.0,MHY8564W1030,Y8564W103,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Driven Brands Holdings Inc.,DRVN,DRVN US equity,B+,,US,1804745.0,US26210V1026,26210V102,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+"Nuance Communications, Inc.",NUAN,NUAN US equity,NR,WR,US,1002517.0,US67020Y1001,67020Y100,Technology,Software—Application,Software - Application
+UMB Financial Corporation,UMBF,UMBF US equity,A-,WR,US,101382.0,US9027881088,902788108,Financial Services,Banks—Regional,Banks - Regional
+"Superior Industries International, Inc.",SUP,SUP US equity,B-,Caa1,US,95552.0,US8681681057,868168105,Consumer Cyclical,Auto Parts,Auto - Parts
+Service Properties Trust,SVC,SVC US equity,B+,B2,US,945394.0,US81761L1026,81761L102,Real Estate,REIT—Hotel & Motel,REIT - Hotel & Motel
+"Cullen/Frost Bankers, Inc.",CFR,CFR US equity,A-,,US,39263.0,US2298991090,229899109,Financial Services,Banks—Regional,Banks - Regional
+"ALLETE, Inc.",ALE,ALE US equity,BBB,WR,US,66756.0,US0185223007,018522300,Utilities,Utilities—Diversified,Diversified Utilities
+NorthWestern Corporation,NWE,NWE US equity,BBB,Baa2,US,73088.0,US6680743050,668074305,Utilities,Utilities—Diversified,Diversified Utilities
+Outfront Media Inc.,OUT,OUT US equity,B+,B1,US,1579877.0,US69007J1060,69007J106,Real Estate,REIT—Specialty,REIT - Specialty
+"Schweitzer-Mauduit International, Inc.",SWM,SWM US equity,BB-,B2,US,1000623.0,US8085411069,808541106,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+Forestar Group Inc.,FOR,FOR US equity,B+,Ba3,US,1406587.0,US3462321015,346232101,Real Estate,Real Estate—Development,Real Estate - Development
+"New York Community Bancorp, Inc.",NYCB,NYCB US equity,NR,,US,910073.0,US6494451031,649445103,Financial Services,Banks—Regional,Banks - Regional
+Taboola.com Ltd.,TBLA,TBLA US equity,,,US,1840502.0,IL0011754137,M8744T106,Communication Services,Internet Content & Information,Internet Content & Information
+GrafTech International Ltd.,EAF,EAF US equity,BB-,WR,US,931148.0,US3843135084,384313508,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+Hancock Whitney Corporation,HWC,HWC US equity,BBB,,US,750577.0,US4101201097,410120109,Financial Services,Banks—Regional,Banks - Regional
+Fair Isaac Corporation,FICO,FICO US equity,BB+,Ba2,US,814547.0,US3032501047,303250104,Technology,Software—Application,Software - Application
+"Hayward Holdings, Inc.",HAYW,HAYW US equity,BB,,US,1834622.0,US4212981009,421298100,Industrials,Electrical Equipment & Parts,Electrical Equipment & Parts
+Verint Systems Inc.,VRNT,VRNT US equity,BB,,US,1166388.0,US92343X1000,92343X100,Technology,Software—Infrastructure,Software - Infrastructure
+"VeriSign, Inc.",VRSN,VRSN US equity,BBB,Baa3,US,1014473.0,US92343E1029,92343E102,Technology,Software—Infrastructure,Software - Infrastructure
+Valley National Bancorp,VLY,VLY US equity,BBB,,US,714310.0,US9197941076,919794107,Financial Services,Banks—Regional,Banks - Regional
+"RadNet, Inc.",RDNT,RDNT US equity,B,,US,790526.0,US7504911022,750491102,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+"ICU Medical, Inc.",ICUI,ICUI US equity,BB-,,US,883984.0,US44930G1076,44930G107,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+"Consolidated Communications Holdings, Inc.",CNSL,CNSL US equity,B-,,US,1304421.0,US2090341072,209034107,Communication Services,Telecom Services,Telecommunications Services
+"Suburban Propane Partners, L.P.",SPH,SPH US equity,BB-,B1,US,1005210.0,US8644821048,864482104,Utilities,Utilities—Regulated Gas,Regulated Gas
+Six Flags Entertainment Corporation,SIX,SIX US equity,B+,B3,US,701374.0,US83001A1025,83001A102,Consumer Cyclical,Leisure,Leisure
+"CrowdStrike Holdings, Inc.",CRWD,CRWD US equity,BB+,Ba2,US,1535527.0,US22788C1053,22788C105,Technology,Software—Infrastructure,Software - Infrastructure
+"MoneyGram International, Inc.",MGI,MGI US equity,B,,US,1273931.0,US60935Y2081,60935Y208,Financial Services,Credit Services,Financial - Credit Services
+"UDR, Inc.",UDR,UDR US equity,BBB+,Baa1,US,74208.0,US9026531049,902653104,Real Estate,REIT—Residential,REIT - Residential
+INNOVATE Corp.,VATE,VATE US equity,CCC+,,US,1006837.0,US45784J1051,45784J105,Industrials,Engineering & Construction,Engineering & Construction
+American Homes 4 Rent,AMH,AMH US equity,BBB,,US,1562401.0,US02665T3068,02665T306,Real Estate,REIT—Residential,REIT - Residential
+W. P. Carey Inc.,WPC,WPC US equity,BBB+,Baa1,US,1025378.0,US92936U1097,92936U109,Real Estate,REIT—Diversified,REIT - Diversified
+Hexcel Corporation,HXL,HXL US equity,BB+,Baa3,US,717605.0,US4282911084,428291108,Industrials,Aerospace & Defense,Aerospace & Defense
+"WW International, Inc.",WW,WW US equity,B-,WR,US,105319.0,US98262P1012,98262P101,Consumer Cyclical,Personal Services,Personal Products & Services
+"Hawaiian Holdings, Inc.",HA,HA US equity,B-,,US,1172222.0,US4198791018,419879101,Industrials,Airlines,"Airlines, Airports & Air Services"
+,CWEN.A,CWEN/A US Equity,BB,Ba2,,,,,,,
+"BellRing Brands, Inc.",BRBR,BRBR US equity,B+,B2,US,1772016.0,US0798231009,07831C103,Consumer Defensive,Packaged Foods,Packaged Foods
+Webster Financial Corporation,WBS,WBS US equity,BBB,Baa1,US,801337.0,US9478901096,947890109,Financial Services,Banks—Regional,Banks - Regional
+GATX Corporation,GATX,GATX US equity,BBB,Baa2,US,40211.0,US3614481030,361448103,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Viavi Solutions Inc.,VIAV,VIAV US equity,BB+,Ba2,US,912093.0,US9255501051,925550105,Technology,Communication Equipment,Communication Equipment
+"Nelnet, Inc.",NNI,NNI US equity,NR,WR,US,1258602.0,US64031N1081,64031N108,Financial Services,Credit Services,Financial - Credit Services
+"Helmerich & Payne, Inc.",HP,HP US equity,BBB+,Baa1,US,46765.0,US4234521015,423452101,Energy,Oil & Gas Drilling,Oil & Gas Drilling
+"Gaming and Leisure Properties, Inc.",GLPI,GLPI US equity,BB+,,US,1575965.0,US36467J1088,36467J108,Real Estate,REIT—Specialty,REIT - Specialty
+F.N.B. Corporation,FNB,FNB US equity,BBB-,,US,37808.0,US3025201019,302520101,Financial Services,Banks—Regional,Banks - Regional
+"H&E Equipment Services, Inc.",HEES,HEES US equity,BB-,B2,US,1339605.0,US4040301081,404030108,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Kimco Realty Corporation,KIM,KIM US equity,BBB+,Baa1,US,879101.0,US49446R1095,49446R109,Real Estate,REIT—Retail,REIT - Retail
+Bristow Group Inc.,VTOL,VTOL US equity,B,B3,US,1525221.0,US11040G1031,11040G103,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+,IMG,IMG US equity,,,,,,,,,
+Houghton Mifflin Harcourt Company,HMHC,HMHC US equity,B-,,US,1580156.0,US44157R1095,44157R109,Consumer Defensive,Education & Training Services,Education & Training Services
+"Walker & Dunlop, Inc.",WD,WD US equity,BB,,US,1497770.0,US93148P1021,93148P102,Financial Services,Mortgage Finance,Financial - Mortgages
+"CMC Materials, Inc.",CCMP,CCMP US equity,NR,,US,1102934.0,US12709P1030,12709P103,Technology,Semiconductor Equipment & Materials,Semiconductors
+CONSOL Energy Inc.,CEIX,CEIX US equity,B,,US,1710366.0,US20854L1089,20854L108,Energy,Thermal Coal,Coal
+"Audacy, Inc.",AUD,AUD US equity,CCC-,WR,US,1067837.0,US05070N1037,05070N103,Communication Services,Broadcasting,Broadcasting
+Adtalem Global Education Inc.,ATGE,ATGE US equity,BB,,US,730464.0,US00737L1035,00737L103,Consumer Defensive,Education & Training Services,Education & Training Services
+"Exela Technologies, Inc.",XELA,XELA US equity,CCC-,,US,1620179.0,US30162V1026,30162V102,Technology,Software—Application,Software - Application
+Atlantica Sustainable Infrastructure plc,AY,AY US equity,BB+,WR,GB,1601072.0,GB00BLP5YB54,G0751N103,Utilities,Utilities—Renewable,Renewable Utilities
+"Shift4 Payments, Inc.",FOUR,FOUR US equity,NR,,US,1794669.0,US82452J1097,82452J109,Technology,Software—Infrastructure,Software - Infrastructure
+Gulfport Energy Corporation,GPOR,GPOR US equity,B,,US,874499.0,US4026355028,402635502,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Integer Holdings Corporation,ITGR,ITGR US equity,BB-,,US,1114483.0,US45826H1095,45826H109,Healthcare,Medical Devices,Medical - Devices
+Vermilion Energy Inc.,VET,VET US equity,B+,B3,CA,1293135.0,CA9237251058,923725105,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Regency Centers Corporation,REG,REG US equity,BBB+,WR,US,910606.0,US7588491032,758849103,Real Estate,REIT—Retail,REIT - Retail
+CyrusOne Inc.,CONE,CONE US equity,BB+ *-,,US,1553023.0,US23283R1005,23283R100,Real Estate,REIT—Specialty,REIT - Industrial
+Eastman Kodak Company,KODK,KODK US equity,CCC+,WR,US,31235.0,US2774614067,277461406,Industrials,Specialty Business Services,Specialty Business Services
+"Interface, Inc.",TILE,TILE US equity,BB-,B1,US,715787.0,US4586653044,458665304,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+"EnPro Industries, Inc.",NPO,NPO US equity,BB,B2,US,1164863.0,US29355X1072,29355X107,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Alta Equipment Group Inc.,ALTG,ALTG US equity,B,,US,1759824.0,US02128L1061,02128L106,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Alkermes plc,ALKS,ALKS US equity,BB-,,IE,1520262.0,IE00B56GVS15,G01767105,Healthcare,Biotechnology,Biotechnology
+NexTier Oilfield Solutions Inc.,NEX,NEX US equity,B+,,US,1688476.0,US65290C1053,65290C105,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Associated Banc-Corp,ASB,ASB US equity,BBB,WR,US,7789.0,US0454871056,045487105,Financial Services,Banks—Regional,Banks - Regional
+Brixmor Property Group Inc.,BRX,BRX US equity,BBB-,,US,1581068.0,US11120U1051,11120U105,Real Estate,REIT—Retail,REIT - Retail
+"Utz Brands, Inc.",UTZ,UTZ US equity,B,,US,1739566.0,US9180901012,918090101,Consumer Defensive,Packaged Foods,Packaged Foods
+Camden Property Trust,CPT,CPT US equity,A-,A3,US,906345.0,US1331311027,133131102,Real Estate,REIT—Residential,REIT - Residential
+Ferro Corporation,FOE,FOE US equity,NR,WR,US,35214.0,US3154051003,315405100,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"Thryv Holdings, Inc.",THRY,THRY US equity,B,,US,1556739.0,US8860292064,886029206,Communication Services,Internet Content & Information,Internet Content & Information
+"Compass Minerals International, Inc.",CMP,CMP US equity,BB-,B1,US,1227654.0,US20451N1019,20451N101,Basic Materials,Other Industrial Metals & Mining,Industrial Materials
+"Laredo Petroleum, Inc.",LPI,LPI US equity,B,B3,US,1528129.0,US5168062058,516806205,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"The Container Store Group, Inc.",TCS,TCS US equity,B,,US,1411688.0,US2107511030,210751103,Consumer Cyclical,Specialty Retail,Specialty Retail
+"Patterson-UTI Energy, Inc.",PTEN,PTEN US equity,BB+,Baa3,US,889900.0,US7034811015,703481101,Energy,Oil & Gas Drilling,Oil & Gas Drilling
+"Mueller Water Products, Inc.",MWA,MWA US equity,BB,Ba1,US,1350593.0,US6247581084,624758108,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Duke Realty Corporation,DRE,DRE US equity,NR,,US,783280.0,US2644115055,264411505,Real Estate,REIT—Industrial,REIT - Industrial
+"Hostess Brands, Inc.",TWNK,TWNK US equity,BB-,,US,1644406.0,US44109J1060,44109J106,Consumer Defensive,Packaged Foods,Packaged Foods
+Intercorp Financial Services Inc.,IFS,IFS US equity,BBB-,,PE,1615903.0,PAL2400671A3,P5626F128,Financial Services,Banks—Regional,Banks - Regional
+Otter Tail Corporation,OTTR,OTTR US equity,BBB,WR,US,1466593.0,US6896481032,689648103,Utilities,Utilities—Diversified,Diversified Utilities
+Tennant Company,TNC,TNC US equity,BB,WR,US,97134.0,US8803451033,880345103,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Phillips 66 Partners LP,PSXP,PSXP US equity,NR,WR,US,1572910.0,US7185492078,718549207,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Hanger, Inc.",HNGR,HNGR US equity,NR,WR,US,722723.0,US41043F2083,41043F208,Healthcare,Medical Care Facilities,Medical - Care Facilities
+Uniti Group Inc.,UNIT,UNIT US equity,B-,Caa2,US,1620280.0,US91325V1089,91325V108,Real Estate,REIT—Specialty,REIT - Specialty
+"PGT Innovations, Inc.",PGTI,PGTI US equity,B+,B1,US,1354327.0,US69336V1017,69336V101,Industrials,Building Products & Equipment,Construction
+"Omega Healthcare Investors, Inc.",OHI,OHI US equity,BBB-,Baa3,US,888491.0,US6819361006,681936100,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+MultiPlan Corporation,MPLN,MPLN US equity,B,,US,1793229.0,US62548M1009,87968A104,Healthcare,Health Information Services,Medical - Healthcare Information Services
+"LendingTree, Inc.",TREE,TREE US equity,CCC+,,US,1434621.0,US52603B1070,52603B107,Financial Services,Financial Conglomerates,Financial - Conglomerates
+Cadence Bank,CADE,CADE US equity,BBB+,,US,1299939.0,US12740C1036,12739A100,Financial Services,Banks—Regional,Banks - Regional
+The Simply Good Foods Company,SMPL,SMPL US equity,BB-,,US,1702744.0,US82900L1026,82900L102,Consumer Defensive,Packaged Foods,Packaged Foods
+"DXP Enterprises, Inc.",DXPE,DXPE US equity,B,,US,1020710.0,US2333774071,233377407,Industrials,Industrial Distribution,Industrial - Distribution
+Rayonier Inc.,RYN,RYN US equity,BBB-,WR,US,52827.0,US7549071030,754907103,Real Estate,REIT—Specialty,REIT - Specialty
+Hyatt Hotels Corporation,H,H US equity,BBB-,Baa3,US,1468174.0,US4485791028,448579102,Consumer Cyclical,Lodging,Travel Lodging
+Enviva Inc.,EVA,EVA US equity,B,B1,US,1592057.0,US29415B1035,29415B103,Basic Materials,Lumber & Wood Production,"Paper, Lumber & Forest Products"
+Insulet Corporation,PODD,PODD US equity,B,,US,1145197.0,US45784P1012,45784P101,Healthcare,Medical Devices,Medical - Devices
+Talos Energy Inc.,TALO,TALO US equity,B,,US,1724965.0,US87484T1088,87484T108,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Kosmos Energy Ltd.,KOS,KOS US equity,B,Caa1,US,1509991.0,US5006881065,500688106,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Adecoagro S.A.,AGRO,AGRO US equity,BB,Ba2,LU,1499505.0,LU0584671464,L00849106,Consumer Defensive,Farm Products,Agricultural Farm Products
+"CSG Systems International, Inc.",CSGS,CSGS US equity,BB+,,US,1005757.0,US1263491094,126349109,Technology,Software—Infrastructure,Software - Infrastructure
+Prestige Consumer Healthcare Inc.,PBH,PBH US equity,BB-,,US,1295947.0,US74112D1019,74112D101,Healthcare,Medical Distribution,Medical - Distribution
+"Cedar Fair, L.P.",FUN,FUN US equity,BB-,B3,US,811532.0,US1501851067,150185106,Consumer Cyclical,Leisure,Leisure
+"Golden Entertainment, Inc.",GDEN,GDEN US equity,B+ *+,B2,US,1071255.0,US3810131017,381013101,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+Park Hotels & Resorts Inc.,PK,PK US equity,B,,US,1617406.0,US7005171050,700517105,Real Estate,REIT—Hotel & Motel,REIT - Hotel & Motel
+Ocwen Financial Corporation,OCN,OCN US equity,B-,WR,US,873860.0,US6757466064,681919106,Financial Services,Mortgage Finance,Financial - Mortgages
+Glatfelter Corporation,GLT,GLT US equity,CCC+,Caa1,US,41719.0,US3773201062,377320106,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+"Choice Hotels International, Inc.",CHH,CHH US equity,BBB-,Baa3,US,1046311.0,US1699051066,169905106,Consumer Cyclical,Lodging,Travel Lodging
+WisdomTree Emerging Markets Local Debt Fund,ELD,ELS AU Equity,,,US,1350487.0,US97717X8671,97717X867,,,Asset Management
+"Neenah, Inc.",NP,NP US equity,NR,WR,US,1296435.0,US6400791090,640079109,Basic Materials,Paper & Paper Products,"Paper, Lumber & Forest Products"
+GCP Applied Technologies Inc.,GCP,GCP US equity,NR,WR,US,1644440.0,US36164Y1010,36164Y101,Basic Materials,Specialty Chemicals,Chemicals - Specialty
+"US Ecology, Inc.",ECOL,ECOL US equity,NR,,US,1783400.0,US91734M1036,91734M103,Industrials,Waste Management,Waste Management
+Ceridian HCM Holding Inc.,CDAY,CDAY US equity,B+,WR,US,1725057.0,US15677J1088,15677J108,Technology,Software—Application,Software - Application
+"NextEra Energy Partners, LP",NEP,NEP US equity,BB,,US,1603145.0,US65341B1061,65341B106,Utilities,Utilities—Renewable,Renewable Utilities
+Owl Rock Capital Corporation,ORCC,ORCC US equity,BBB-,Baa3,US,1655888.0,US69121K1043,69121K104,Financial Services,Credit Services,Financial - Credit Services
+Snap One Holdings Corp.,SNPO,SNPO US equity,B,,US,1856430.0,US83303Y1055,83303Y105,Technology,Electronics & Computer Distribution,Technology Distributors
+"Commercial Vehicle Group, Inc.",CVGI,CVGI US equity,B,WR,US,1290900.0,US2026081057,202608105,Consumer Cyclical,Auto Parts,Auto - Parts
+"Cinemark Holdings, Inc.",CNK,CNK US equity,B+,,US,1385280.0,US17243V1026,17243V102,Communication Services,Entertainment,Entertainment
+Assured Guaranty Ltd.,AGO,AGO US equity,A,,BM,1273813.0,BMG0585R1060,G0585R106,Financial Services,Insurance—Specialty,Insurance - Specialty
+"Texas Capital Bancshares, Inc.",TCBI,TCBI US equity,BBB-,,US,1077428.0,US88224Q1076,88224Q107,Financial Services,Banks—Regional,Banks - Regional
+Kilroy Realty Corporation,KRC,KRC US equity,BBB,,US,1025996.0,US49427F1084,49427F108,Real Estate,REIT—Office,REIT - Office
+Federal Realty Investment Trust,FRT,FRT US equity,BBB+,Baa1,US,34903.0,US3137451015,313745101,Real Estate,REIT—Retail,REIT - Retail
+Cumulus Media Inc.,CMLS,CMLS US equity,B-,,US,1058623.0,US2310828015,231082801,Communication Services,Broadcasting,Broadcasting
+"American Campus Communities, Inc.",ACC,ACC US equity,NR,,US,1283630.0,US0248351001,024835100,Real Estate,REIT—Residential,REIT - Residential
+"Enova International, Inc.",ENVA,ENVA US equity,B,B2,US,1529864.0,US29357K1034,29357K103,Financial Services,Credit Services,Financial - Credit Services
+"PetIQ, Inc.",PETQ,PETQ US equity,B,,US,1668673.0,US71639T1060,71639T106,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+"VNET Group, Inc.",VNET,VNET US equity,B,WR,CN,1508475.0,US90138A1034,90138A103,Technology,Information Technology Services,Information Technology Services
+"Cohu, Inc.",COHU,COHU US equity,BB-,,US,21535.0,US1925761066,192576106,Technology,Semiconductor Equipment & Materials,Semiconductors
+"Custom Truck One Source, Inc.",CTOS,CTOS US equity,B,,US,1709682.0,US23204X1037,23204X103,Industrials,Rental & Leasing Services,Rental & Leasing Services
+Bally's Corporation,BALY,BALY US equity,B,Caa1 *+,US,1747079.0,US05875B1061,05875B106,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+Magnolia Oil & Gas Corporation,MGY,MGY US equity,B+,,US,1698990.0,US5596631094,559663109,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Virtus Investment Partners, Inc.",VRTS,VRTS US equity,BB+,,US,883237.0,US92828Q1094,92828Q109,Financial Services,Asset Management,Asset Management
+SL Green Realty Corp.,SLG,SLG US equity,BB+,Ba1,US,1040971.0,US78440X8873,78440X887,Real Estate,REIT—Office,REIT - Office
+"Investors Bancorp, Inc.",ISBC,ISBC US equity,NR,,US,1594012.0,US46146L1017,46146L101,Financial Services,Banks—Regional,Banks - Regional
+MGM Growth Properties LLC,MGP,MGP US equity,NR,,US,1656936.0,US55303A1051,55303A105,Real Estate,REIT—Diversified,REIT - Diversified
+"Hudson Pacific Properties, Inc.",HPP,HPP US equity,BBB- *-,,US,1482512.0,US4440971095,444097109,Real Estate,REIT—Office,REIT - Office
+"Blucora, Inc.",BCOR,BCOR US equity,NR,,US,1068875.0,US0952291005,095229100,Financial Services,Asset Management,Asset Management
+Permian Resources Corporation,CDEV,CDEV US equity,B+,,US,1658566.0,US15136A1025,15136A102,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Victory Capital Holdings, Inc.",VCTR,VCTR US equity,BB-,,US,1570827.0,US92645B1035,92645B103,Financial Services,Asset Management,Asset Management
+"Lifetime Brands, Inc.",LCUT,LCUT US equity,B+,,US,874396.0,US53222Q1031,53222Q103,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+"Warrior Met Coal, Inc.",HCC,HCC US equity,B+,,US,1691303.0,US93627C1018,93627C101,Basic Materials,Coking Coal,Coal
+"Coeur Mining, Inc.",CDE,CDE US equity,B-,Caa1,US,215466.0,US1921085049,192108504,Basic Materials,Gold,Gold
+"Casella Waste Systems, Inc.",CWST,CWST US equity,BB,,US,911177.0,US1474481041,147448104,Industrials,Waste Management,Waste Management
+"MaxLinear, Inc.",MXL,MXL US equity,BB *-,,US,1288469.0,US57776J1007,57776J100,Technology,Semiconductors,Semiconductors
+TriMas Corporation,TRS,TRS US equity,BB,Ba3,US,842633.0,US8962152091,896215209,Consumer Cyclical,Packaging & Containers,Packaging & Containers
+The Howard Hughes Corporation,HHC,HHC US equity,B+,Ba3,US,1498828.0,US44267D1072,44267D107,Real Estate,Real Estate—Diversified,Real Estate - Diversified
+"DT Midstream, Inc.",DTM,DTM US equity,BB+,Ba2,US,1842022.0,US23345M1071,23345M107,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Array Technologies, Inc.",ARRY,ARRY US equity,B,,US,1820721.0,US04271T1007,04271T100,Technology,Solar,Solar
+New Fortress Energy Inc.,NFE,NFE US equity,BB-,B1,US,1749723.0,US6443931000,644393100,Utilities,Utilities—Regulated Gas,Regulated Gas
+Varex Imaging Corporation,VREX,VREX US equity,B+,,US,1681622.0,US92214X1063,92214X106,Healthcare,Medical Devices,Medical - Devices
+"Dynatrace, Inc.",DT,DT US equity,NR,,US,1773383.0,US2681501092,268150109,Technology,Software—Application,Software - Application
+,SOY,SOY CN Equity,B,,,,,,,,
+Hecla Mining Company,HL,HL US equity,B+,B2,US,719413.0,US4227041062,422704106,Basic Materials,Gold,Gold
+Futu Holdings Limited,FUTU,FUTU US equity,BBB-,,HK,1754581.0,US36118L1061,36118L106,Financial Services,Capital Markets,Financial - Capital Markets
+"Kratos Defense & Security Solutions, Inc.",KTOS,KTOS US equity,B+,,US,1069258.0,US50077B2079,50077B207,Industrials,Aerospace & Defense,Aerospace & Defense
+Columbus McKinnon Corporation,CMCO,CMCO US equity,B+,,US,1005229.0,US1993331057,199333105,Industrials,Farm & Heavy Construction Machinery,Agricultural - Machinery
+Grab Holdings Limited,GRAB,GRAB US equity,B-,,SG,1855612.0,KYG4124C1096,G4124C109,Technology,Software—Application,Software - Application
+"Archrock, Inc.",AROC,AROC US equity,B+,WR,US,1389050.0,US03957W1062,03957W106,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"Signify Health, Inc.",SGFY,SGFY US equity,NR,,US,1828182.0,US82671G1004,82671G100,Healthcare,Health Information Services,Medical - Healthcare Information Services
+CubeSmart,CUBE,CUBE US equity,BBB,,US,1298675.0,US2296631094,229663109,Real Estate,REIT—Industrial,REIT - Industrial
+"Tripadvisor, Inc.",TRIP,TRIP US equity,BB-,B1,US,1526520.0,US8969452015,896945201,Consumer Cyclical,Travel Services,Travel Services
+Martin Midstream Partners L.P.,MMLP,MMLP US equity,B-,WR,US,1176334.0,US5733311055,573331105,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"CIRCOR International, Inc.",CIR,CIR US equity,B-,,US,1091883.0,US17273K1097,17273K109,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+Canada Goose Holdings Inc.,GOOS,GOOS US equity,B+,,CA,1690511.0,CA1350861060,135086106,Consumer Cyclical,Apparel Manufacturing,Apparel - Manufacturers
+"Starwood Property Trust, Inc.",STWD,STWD US equity,BB,Ba3,US,1465128.0,US85571B1052,85571B105,Real Estate,REIT—Mortgage,REIT - Mortgage
+"Healthcare Trust of America, Inc.",HTA,HTA US equity,BBB,,US,1495491.0,US42225P5017,42225P501,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+"Stoneridge, Inc.",SRI,SRI US equity,B,WR,US,1043337.0,US86183P1021,86183P102,Consumer Cyclical,Auto Parts,Auto - Parts
+STORE Capital Corporation,STOR,STOR US equity,NR,Baa3,US,1538990.0,US8621211007,862121100,Real Estate,REIT—Diversified,REIT - Diversified
+"Highwoods Properties, Inc.",HIW,HIW US equity,BBB,,US,921082.0,US4312841087,431284108,Real Estate,REIT—Office,REIT - Office
+"Traeger, Inc.",COOK,COOK US equity,CCC+,,US,1857853.0,US89269P1030,89269P103,Consumer Cyclical,"Furnishings, Fixtures & Appliances","Furnishings, Fixtures & Appliances"
+New Gold Inc.,NGD,NGD US equity,B,B3,CA,800166.0,CA6445351068,644535106,Basic Materials,Gold,Gold
+"HealthEquity, Inc.",HQY,HQY US equity,BB-,B3,US,1428336.0,US42226A1079,42226A107,Healthcare,Health Information Services,Medical - Healthcare Information Services
+"Life Storage, Inc.",LSI,LSI US equity,BBB *+,,US,944314.0,US53223X1072,53223X107,Real Estate,REIT—Industrial,REIT - Industrial
+Elastic N.V.,ESTC,ESTC US equity,B+,B1,US,1707753.0,NL0013056914,N14506104,Technology,Software—Application,Software - Application
+Loyalty Ventures Inc.,LYLT,LYLT US equity,NR,,US,1870997.0,US54911Q1076,54911Q107,Technology,Software—Infrastructure,Software - Infrastructure
+Bumble Inc.,BMBL,BMBL US equity,,,US,1830043.0,US12047B1052,12047B105,Technology,Software—Application,Software - Application
+"Allegro MicroSystems, Inc.",ALGM,ALGM US equity,B+,,US,866291.0,US01749D1054,01749D105,Technology,Semiconductors,Semiconductors
+Apartment Income REIT Corp.,AIRC,AIRC US equity,BBB,,US,1820877.0,US03750L1098,03750L109,Real Estate,REIT—Residential,REIT - Residential
+Kaman Corporation,KAMN,KAMN US equity,BB-,,US,54381.0,US4835481031,483548103,Industrials,Aerospace & Defense,Aerospace & Defense
+"PagerDuty, Inc.",PD,PD US equity,,,US,1568100.0,US69553P1003,69553P100,Technology,Software—Application,Software - Application
+Trustmark Corporation,TRMK,TRMK US equity,BBB,,US,36146.0,US8984021027,898402102,Financial Services,Banks—Regional,Banks - Regional
+"National Retail Properties, Inc.",NNN,NNN US equity,BBB+,Baa1,US,751364.0,US6374171063,637417106,Real Estate,REIT—Retail,REIT - Retail
+BrightSphere Investment Group Inc.,BSIG,BSIG US equity,BB+,Ba1,US,1748824.0,US10948W1036,10948W103,Financial Services,Asset Management,Asset Management
+"Consensus Cloud Solutions, Inc.",CCSI,CCSI US equity,B+,B2,US,1866633.0,US20848V1052,20848V105,Technology,Software—Infrastructure,Software - Infrastructure
+"Cyxtera Technologies, Inc.",CYXT,CYXT US equity,CCC- *-,,US,1794905.0,US23284C1027,23284C102,Technology,Information Technology Services,Information Technology Services
+Entravision Communications Corporation,EVC,EVC US equity,NR,,US,1109116.0,US29382R1077,29382R107,Communication Services,Broadcasting,Broadcasting
+"Sovos Brands, Inc.",SOVO,SOVO US equity,B,,US,1856608.0,US84612U1079,84612U107,Consumer Defensive,Packaged Foods,Packaged Foods
+iStar Inc.,STAR,STAR US equity,,,US,1095651.0,US45031U1016,45031U101,Real Estate,REIT—Diversified,REIT - Diversified
+Great Lakes Dredge & Dock Corporation,GLDD,GLDD US equity,CCC+,B3,US,1372020.0,US3906071093,390607109,Industrials,Engineering & Construction,Engineering & Construction
+"Ryman Hospitality Properties, Inc.",RHP,RHP US equity,B,,US,1040829.0,US78377T1079,78377T107,Real Estate,REIT—Hotel & Motel,REIT - Hotel & Motel
+"Northern Oil and Gas, Inc.",NOG,NOG US equity,B,B2,US,1104485.0,US6655313079,665531307,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+CCC Intelligent Solutions Holdings Inc.,CCCS,CCCS US equity,B+,,US,1818201.0,US12510Q1004,12510Q100,Technology,Software—Infrastructure,Software - Infrastructure
+Corporate Office Properties Trust,OFC,OFC US equity,BBB-,,US,860546.0,US22002T1088,22002T108,Real Estate,REIT—Office,REIT - Office
+ZoomInfo Technologies Inc.,ZI,ZI US equity,BB,,US,1794515.0,US98980F1049,98980F104,Technology,Software—Application,Software - Application
+"Janus International Group, Inc.",JBI,JBI US equity,,,US,1839839.0,US47103N1063,47103N106,Industrials,Building Products & Equipment,Construction
+Prospect Capital Corporation,PSEC,PSEC US equity,BBB-,Baa3,US,1287032.0,US74348T1025,74348T102,Financial Services,Asset Management,Asset Management
+First Advantage Corporation,FA,FA US equity,,,US,1210677.0,US31846B1089,31846B108,Industrials,Specialty Business Services,Specialty Business Services
+Holley Inc.,HLLY,HLLY US equity,B-,,US,1822928.0,US43538H1032,43538H103,Consumer Cyclical,Auto Parts,Auto - Parts
+"Delek Logistics Partners, LP",DKL,DKL US equity,BB-,B3,US,1552797.0,US24664T1034,24664T103,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Mirion Technologies, Inc.",MIR,MIR US equity,B,,US,1809987.0,US60471A1016,60471A101,Industrials,Specialty Industrial Machinery,Industrial - Machinery
+RLJ Lodging Trust,RLJ,RLJ US equity,B+,,US,1511337.0,US74965L1017,74965L101,Real Estate,REIT—Hotel & Motel,REIT - Hotel & Motel
+Ducommun Incorporated,DCO,DCO US equity,NR,WR,US,30305.0,US2641471097,264147109,Industrials,Aerospace & Defense,Aerospace & Defense
+"ZipRecruiter, Inc.",ZIP,ZIP US equity,BB-,B2,US,1617553.0,US98980B1035,98980B103,Industrials,Staffing & Employment Services,Staffing & Employment Services
+"USA Compression Partners, LP",USAC,USAC US equity,B+,B3,US,1522727.0,US90290N1090,90290N109,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Nuvei Corporation,NVEI,NVEI US equity,BB-,,CA,1765159.0,CA67079A1021,67079A102,Technology,Software—Infrastructure,Software - Infrastructure
+RBC Bearings Incorporated,ROLL,ROLL US equity,BB,,US,1324948.0,US75524B1044,75524B104,Industrials,Tools & Accessories,Manufacturing - Tools & Accessories
+Cars.com Inc.,CARS,CARS US equity,B+,B3,US,1683606.0,US14575E1055,14575E105,Consumer Cyclical,Auto & Truck Dealerships,Auto - Dealerships
+Telesat Corporation,TSAT,TSAT US equity,NR,,CA,1845840.0,,879512309,Technology,Communication Equipment,Communication Equipment
+"ATI Physical Therapy, Inc.",ATIP,ATIP US equity,B-,,US,1815849.0,US00216W1099,00216W109,Healthcare,Medical Care Facilities,Medical - Care Facilities
+"MACOM Technology Solutions Holdings, Inc.",MTSI,MTSI US equity,B+,,US,1493594.0,US55405Y1001,55405Y100,Technology,Semiconductors,Semiconductors
+Iridium Communications Inc.,IRDM,IRDM US equity,BB-,WR,US,1418819.0,US46269C1027,46269C102,Communication Services,Telecom Services,Telecommunications Services
+"Latham Group, Inc.",SWIM,SWIM US equity,B+,,US,1833197.0,US51819L1070,51819L107,Industrials,Building Products & Equipment,Construction
+Everi Holdings Inc.,EVRI,EVRI US equity,BB-,,US,1318568.0,US30034T1034,30034T103,Consumer Cyclical,Gambling,"Gambling, Resorts & Casinos"
+Danaos Corporation,DAC,DAC US equity,BB,B1,GR,1369241.0,MHY1968P1218,Y1968P121,Industrials,Marine Shipping,Marine Shipping
+GeoPark Limited,GPRK,GPRK US equity,B+,,CO,1464591.0,BMG383271050,G38327105,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+QIWI plc,QIWI,QIWI US equity,NR,,CY,1561566.0,US74735M1080,74735M108,Technology,Software—Infrastructure,Software - Infrastructure
+"Sabra Health Care REIT, Inc.",SBRA,SBRA US equity,BB+,,US,1492298.0,US78573L1061,78573L106,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+Royal Caribbean Cruises Ltd.,RCL,RCL US equity,B,B3,US,884887.0,LR0008862868,V7780T103,Consumer Cyclical,Travel Services,Travel Services
+"Spirit Realty Capital, Inc.",SRC,SRC US equity,BBB,,US,1308606.0,US84860W3007,84860W300,Real Estate,REIT—Diversified,REIT - Diversified
+Berry Corporation,BRY,BRY US equity,B-,,US,1705873.0,US08579X1019,08579X101,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Office Properties Income Trust,OPI,OPI US equity,BB *-,Ba3 *-,US,1456772.0,US67623C1099,67623C109,Real Estate,REIT—Office,REIT - Office
+SJW Group,SJW,SJW US equity,A-,,US,766829.0,US7843051043,784305104,Utilities,Utilities—Regulated Water,Regulated Water
+Civeo Corporation,CVEO,CVEO US equity,B+,,US,1590584.0,CA17878Y1088,17878Y108,Industrials,Specialty Business Services,Specialty Business Services
+,TGSU2,TGSU2 AR Equity,CCC-,Caa3,,,,,,,
+World Acceptance Corporation,WRLD,WRLD US equity,B-,B3,US,108385.0,US9814191048,981419104,Financial Services,Credit Services,Financial - Credit Services
+Navios Maritime Holdings Inc.,NM,NM US equity,NR,WR,KY,1333172.0,MHY621971198,Y62197119,Industrials,Marine Shipping,Marine Shipping
+"PowerSchool Holdings, Inc.",PWSC,PWSC US equity,B,,US,1835681.0,US73939C1062,73939C106,Technology,Software—Application,Software - Application
+Bowlero Corp.,BOWL,BOWL US equity,B,,US,1840572.0,,10258P102,Communication Services,Entertainment,Entertainment
+OFG Bancorp,OFG,OFG US equity,B+,,US,1030469.0,PR67103X1020,67103X102,Financial Services,Banks—Regional,Banks - Regional
+Healthcare Realty Trust Incorporated,HR,HR US equity,BBB,,US,1360604.0,,42226K105,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+"Piedmont Office Realty Trust, Inc.",PDM,PDM US equity,BBB,,US,1042776.0,US7201902068,720190206,Real Estate,REIT—Office,REIT - Office
+"Atlas Technical Consultants, Inc.",ATCX,ATCX US equity,,,US,1751143.0,US0494301015,049430101,Industrials,Engineering & Construction,Engineering & Construction
+"Phillips Edison & Company, Inc.",PECO,PECO US equity,BBB-,,US,1476204.0,US71844V2016,71844V201,Real Estate,REIT—Retail,REIT - Retail
+Navios Maritime Partners L.P.,NMM,NMM US equity,BB,,MC,1415921.0,MHY622674098,651639106,Industrials,Marine Shipping,Marine Shipping
+"Azenta, Inc.",AZTA,AZTA US equity,NR,,US,933974.0,US1143401024,114340102,Healthcare,Medical Instruments & Supplies,Medical - Instruments & Supplies
+"Tenable Holdings, Inc.",TENB,TENB US equity,B+,,US,1660280.0,US88025T1025,88025T102,Technology,Software—Infrastructure,Software - Infrastructure
+MicroStrategy Incorporated,MSTR,MSTR US equity,CCC+,,US,1050446.0,US5949724083,594972408,Technology,Software—Application,Software - Application
+American States Water Company,AWR,AWR US equity,A+,,US,1056903.0,US0298991011,029899101,Utilities,Utilities—Regulated Water,Regulated Water
+"Forum Energy Technologies, Inc.",FET,FET US equity,B-,WR,US,1401257.0,US34984V1008,34984V209,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"Blackstone Mortgage Trust, Inc.",BXMT,BXMT US equity,BB-,,US,1061630.0,US09257W1009,09257W100,Real Estate,REIT—Mortgage,REIT - Mortgage
+"Holly Energy Partners, L.P.",HEP,HEP US equity,BB+ *+,Ba3 *+,US,1283140.0,US4357631070,435763107,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+The Bank of N.T. Butterfield & Son Limited,NTB,NTB US equity,BBB+,,BM,1653242.0,BMG0772R2087,G0772R208,Financial Services,Banks—Diversified,Banks - Diversified
+"Xenia Hotels & Resorts, Inc.",XHR,XHR US equity,B,,US,1616000.0,US9840171030,984017103,Real Estate,REIT—Hotel & Motel,REIT - Hotel & Motel
+North American Construction Group Ltd.,NOA,NOA US equity,B+,WR,CA,1368519.0,CA6568111067,656811106,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"Civitas Resources, Inc.",CIVI,CIVI US equity,B+,B1,US,1509589.0,US17888H1032,17888H103,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Verra Mobility Corporation,VRRM,VRRM US equity,BB-,,US,1682745.0,US92511U1025,92511U102,Industrials,Infrastructure Operations,Industrial - Infrastructure Operations
+Lattice Semiconductor Corporation,LSCC,LSCC US equity,BB,,US,855658.0,US5184151042,518415104,Technology,Semiconductors,Semiconductors
+"W&T Offshore, Inc.",WTI,WTI US equity,B-,WR,US,1288403.0,US92922P1066,92922P106,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"BRP Group, Inc.",BRP,BRP US equity,B-,,US,1781755.0,US05589G1022,05589G102,Financial Services,Insurance Brokers,Insurance - Brokers
+"Priority Technology Holdings, Inc.",PRTH,PRTH US equity,B-,,US,1653558.0,US74275G1076,74275G107,Technology,Software—Infrastructure,Software - Infrastructure
+EPR Properties,EPR,EPR US equity,BB+,Baa3,US,1045450.0,US26884U1097,26884U109,Real Estate,REIT—Specialty,REIT - Specialty
+"First Industrial Realty Trust, Inc.",FR,FR US equity,BBB,,US,921825.0,US32054K1034,32054K103,Real Estate,REIT—Industrial,REIT - Industrial
+"Kennedy-Wilson Holdings, Inc.",KW,KW US equity,BB,,US,1408100.0,US4893981070,489398107,Real Estate,Real Estate Services,Real Estate - Services
+Brandywine Realty Trust,BDN,BDN US equity,BBB-,,US,790816.0,US1053682035,105368203,Real Estate,REIT—Office,REIT - Office
+,CPACASC1,CPACASC1 PE equity,NR,,,,,,,,
+"Tivity Health, Inc.",TVTY,TVTY US equity,NR,,US,704415.0,US88870R1023,88870R102,Healthcare,Medical Care Facilities,Medical - Care Facilities
+"LSB Industries, Inc.",LXU,LXU US equity,B,,US,60714.0,US5021601043,502160104,Basic Materials,Chemicals,Chemicals
+"Lannett Company, Inc.",LCI,LCI US equity,D,,US,57725.0,US5160121019,516012101,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+Physicians Realty Trust,DOC,DOC US equity,BBB,,US,1574540.0,US71943U1043,71943U104,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+Unitil Corporation,UTL,UTL US equity,BBB+,,US,755001.0,US9132591077,913259107,Utilities,Utilities—Diversified,Diversified Utilities
+Roundhill Cannabis ETF,WEED,WEED US equity,,,US,1683471.0,,138035100,,,Asset Management
+EverCommerce Inc.,EVCM,EVCM US equity,B+,,US,1853145.0,US29977X1054,29977X105,Technology,Software—Infrastructure,Software - Infrastructure
+"Turning Point Brands, Inc.",TPB,TPB US equity,B+,WR,US,1290677.0,US90041L1052,90041L105,Consumer Defensive,Tobacco,Tobacco
+"Whole Earth Brands, Inc.",FREE,FREE US equity,B-,,US,1753706.0,US96684W1009,96684W100,Consumer Defensive,Packaged Foods,Packaged Foods
+"Tanger Factory Outlet Centers, Inc.",SKT,SKT US equity,BBB-,,US,899715.0,US8754651060,875465106,Real Estate,REIT—Retail,REIT - Retail
+"CVR Partners, LP",UAN,UAN US equity,B+,,US,1425292.0,US1266331065,126633106,Basic Materials,Agricultural Inputs,Agricultural Inputs
+"PS Business Parks, Inc.",PSB,PSB US equity,NR,,US,866368.0,US69360J1079,69360J107,Real Estate,REIT—Diversified,REIT - Diversified
+"KLX Energy Services Holdings, Inc.",KLXE,KLXE US equity,CCC+,,US,1738827.0,US48253L2051,48253L205,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Momentive Global Inc.,MNTV,MNTV US equity,,,US,1739936.0,US60878Y1082,60878Y108,Technology,Software—Application,Software - Application
+,UONE.K,UONE US Equity,B-,,,,,,,,
+Playa Hotels & Resorts N.V.,PLYA,PLYA US equity,B,,US,1692412.0,NL0012170237,N70544106,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"Casa Systems, Inc.",CASA,CASA US equity,CCC *,,US,1333835.0,US14713L1026,14713L102,Technology,Communication Equipment,Communication Equipment
+"Townsquare Media, Inc.",TSQ,TSQ US equity,B,B3,US,1499832.0,US8922311019,892231101,Communication Services,Advertising Agencies,Advertising Agencies
+"Digital Media Solutions, Inc.",DMS,DMS US equity,CCC+,,US,1725134.0,US25401G1067,25401G106,Communication Services,Advertising Agencies,Advertising Agencies
+"Rexford Industrial Realty, Inc.",REXR,REXR US equity,BBB+,,US,1571283.0,US76169C1009,76169C100,Real Estate,REIT—Industrial,REIT - Industrial
+Rattler Midstream LP,RTLR,RTLR US equity,NR,WR,US,1748773.0,US75419T1034,75419T103,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Ranger Oil Corporation,ROCC,ROCC US equity,B *+,WR,US,77159.0,US70788V1026,70788V102,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+"Summit Midstream Partners, LP",SMLP,SMLP US equity,B,,US,1549922.0,US8661421029,866142409,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Viper Energy Partners LP,VNOM,VNOM US equity,BBB-,B1,US,1602065.0,US92763M1053,92763M105,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Gran Tierra Energy Inc.,GTE,GTE US equity,B,,CA,1273441.0,US38500T1016,38500T101,Energy,Oil & Gas E&P,Oil & Gas Exploration & Production
+Oasis Midstream Partners LP,OMP,OMP US equity,B *+,,US,1652133.0,US67420T2069,67420T206,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+"Magnite, Inc.",MGNI,MGNI US equity,B+,,US,1595974.0,US55955D1000,55955D100,Communication Services,Advertising Agencies,Advertising Agencies
+Fortress Transportation and Infrastructure Investors LLC,FTAI,FTAI US equity,,Ba2,US,1590364.0,US34960P1012,34960P101,Industrials,Rental & Leasing Services,Rental & Leasing Services
+First Commonwealth Financial Corporation,FCF,FCF US equity,BBB-,,US,712537.0,US3198291078,319829107,Financial Services,Banks—Regional,Banks - Regional
+"Broadstone Net Lease, Inc.",BNL,BNL US equity,BBB,Baa2,US,1424182.0,US11135E1047,11135E203,Real Estate,REIT—Diversified,REIT - Diversified
+"Global Net Lease, Inc.",GNL,GNL US equity,BB+,,US,1526113.0,US3793782018,379378201,Real Estate,REIT—Diversified,REIT - Diversified
+"Carriage Services, Inc.",CSV,CSV US equity,B,B3,US,1016281.0,US1439051079,143905107,Consumer Cyclical,Personal Services,Personal Products & Services
+CPI Card Group Inc.,PMTS,PMTS US equity,B,,US,1641614.0,US12634H2004,12634H200,Financial Services,Credit Services,Financial - Credit Services
+"Century Casinos, Inc.",CNTY,CNTY US equity,B,,US,911147.0,US1564921005,156492100,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+"American Assets Trust, Inc.",AAT,AAT US equity,BBB-,,US,1500217.0,US0240131047,024013104,Real Estate,REIT—Diversified,REIT - Diversified
+PBF Logistics LP,PBFX,PBFX US equity,NR,WR,US,1582568.0,US69318Q1040,69318Q104,Energy,Oil & Gas Midstream,Oil & Gas Midstream
+Viad Corp,VVI,VVI US equity,B,WR,US,884219.0,US92552R4065,92552R406,Industrials,Specialty Business Services,Specialty Business Services
+"American Public Education, Inc.",APEI,APEI US equity,B+,,US,1201792.0,US02913V1035,02913V103,Consumer Defensive,Education & Training Services,Education & Training Services
+Skillz Inc.,SKLZ,SKLZ US equity,CCC+,,US,1801661.0,US83067L1098,83067L109,Communication Services,Electronic Gaming & Multimedia,Electronic Gaming & Multimedia
+"Apollo Commercial Real Estate Finance, Inc.",ARI,ARI US equity,B+,,US,1467760.0,US03762U1051,03762U105,Real Estate,REIT—Mortgage,REIT - Mortgage
+LXP Industrial Trust,LXP,LXP US equity,BBB-,Baa2,US,910108.0,US5290431015,529043101,Real Estate,REIT—Industrial,REIT - Industrial
+"Global Ship Lease, Inc.",GSL,GSL US equity,BB,,GB,1430725.0,MHY271836006,Y27183600,Industrials,Marine Shipping,Marine Shipping
+"N-able, Inc.",NABL,NABL US equity,B+,,US,1834488.0,US62878D1000,62878D100,Technology,Information Technology Services,Information Technology Services
+,TKO,TKO US equity,,,,,,,,,Entertainment
+"American Finance Trust, Inc.",AFIN,AFIN US equity,BB,,US,1568162.0,US02607T1097,02607T109,Real Estate,REIT—Diversified,REIT - Diversified
+"Greenhill & Co., Inc.",GHL,GHL US equity,BB-,,US,1282977.0,US3952591044,395259104,Financial Services,Capital Markets,Financial - Capital Markets
+Gogo Inc.,GOGO,GOGO US equity,B+,,US,1537054.0,US38046C1099,38046C109,Communication Services,Telecom Services,Telecommunications Services
+Agree Realty Corporation,ADC,ADC US equity,BBB,,US,917251.0,US0084921008,008492100,Real Estate,REIT—Retail,REIT - Retail
+StoneMor Inc.,STON,STON US equity,NR,,US,1753886.0,US86184W1062,86184W106,Consumer Cyclical,Personal Services,Personal Products & Services
+"Concrete Pumping Holdings, Inc.",BBCP,BBCP US equity,B,,US,1703956.0,US2067041085,206704108,Industrials,Engineering & Construction,Engineering & Construction
+Akumin Inc.,AKU,AKU US equity,B-,,US,1776197.0,CA01021F1099,01021F109,Healthcare,Diagnostics & Research,Medical - Diagnostics & Research
+Digi International Inc.,DGII,DGII US equity,B+,,US,854775.0,US2537981027,253798102,Technology,Communication Equipment,Communication Equipment
+"Golub Capital BDC, Inc.",GBDC,GBDC US equity,BBB-,Baa3,US,1476765.0,US38173M1027,38173M102,Financial Services,Asset Management,Asset Management
+"National Health Investors, Inc.",NHI,NHI US equity,BBB-,Baa3,US,877860.0,US63633D1046,63633D104,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+"Upland Software, Inc.",UPLD,UPLD US equity,B-,,US,1505155.0,US91544A1097,91544A109,Technology,Software—Application,Software - Application
+"Artivion, Inc.",CRY,CRY US equity,B-,,US,784199.0,US2289031005,228903100,Healthcare,Medical Devices,Medical - Devices
+Ping Identity Holding Corp.,PING,PING US equity,NR,,US,1679826.0,US72341T1034,72341T103,Technology,Software—Infrastructure,Software - Infrastructure
+Elme Communities,WRE,WRE US equity,BBB,Baa2,US,104894.0,US9396531017,939653101,Real Estate,REIT—Office,REIT - Office
+Retail Opportunity Investments Corp.,ROIC,ROIC US equity,BBB-,,US,1407623.0,US76131N1019,76131N101,Real Estate,REIT—Retail,REIT - Retail
+Kite Realty Group Trust,KRG,KRG US equity,BBB-,,US,1286043.0,US49803T3005,49803T300,Real Estate,REIT—Retail,REIT - Retail
+CSI Compressco LP,CCLP,CCLP US equity,B-,Caa3,US,1449488.0,US12637A1034,12637A103,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+Main Street Capital Corporation,MAIN,MAIN US equity,BBB-,,US,1396440.0,US56035L1044,56035L104,Financial Services,Asset Management,Asset Management
+"Sixth Street Specialty Lending, Inc.",TSLX,TSLX US equity,BBB-,Baa3,US,1508655.0,US83012A1097,83012A109,Financial Services,Asset Management,Asset Management
+Target Hospitality Corp.,TH,TH US equity,B+,,US,1712189.0,US87615L1070,87615L107,Industrials,Specialty Business Services,Specialty Business Services
+"MeridianLink, Inc.",MLNK,MLNK US equity,B+,,US,1834494.0,US58985J1051,58985J105,Technology,Software—Application,Software - Application
+"Salem Media Group, Inc.",SALM,SALM US equity,CCC,,US,1050606.0,US7940931048,794093104,Communication Services,Broadcasting,Broadcasting
+"Claros Mortgage Trust, Inc.",CMTG,CMTG US equity,B+,,US,1666291.0,US18270D1063,18270D106,Real Estate,REIT—Mortgage,REIT - Mortgage
+"KORE Group Holdings, Inc.",KORE,KORE US equity,,,US,1855457.0,US50066V1070,50066V107,Communication Services,Telecom Services,Telecommunications Services
+Paya Holdings Inc.,PAYA,PAYA US equity,NR,,US,1819881.0,US70434P1030,70434P103,Technology,Software—Infrastructure,Software - Infrastructure
+Sunnova Energy International Inc.,NOVA,NOVA US equity,NR,,US,1772695.0,US86745K1043,86745K104,Technology,Solar,Solar
+"ANI Pharmaceuticals, Inc.",ANIP,ANIP US equity,B+,,US,1023024.0,US00182C1036,00182C103,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+"Aris Water Solutions, Inc.",ARIS,ARIS US equity,B+,,US,1865187.0,US04041L1061,04041L106,Utilities,Utilities—Regulated Water,Regulated Water
+"Essential Properties Realty Trust, Inc.",EPRT,EPRT US equity,BBB-,,US,1728951.0,US29670E1073,29670E107,Real Estate,REIT—Diversified,REIT - Diversified
+Altisource Portfolio Solutions S.A.,ASPS,ASPS US equity,CCC+,,LU,1462418.0,LU0445408270,L0175J104,Real Estate,Real Estate Services,Real Estate - Services
+"CareTrust REIT, Inc.",CTRE,CTRE US equity,BB,,US,1590717.0,US14174T1079,14174T107,Real Estate,REIT—Healthcare Facilities,REIT - Healthcare Facilities
+"Hemisphere Media Group, Inc.",HMTV,HMTV US equity,NR,,US,1567345.0,US42365Q1031,42365Q103,Communication Services,Entertainment,Entertainment
+Burford Capital Limited,BUR,BUR US equity,BB-,,GG,1714174.0,GG00BMGYLN96,G17977110,Financial Services,Asset Management,Asset Management
+"Full House Resorts, Inc.",FLL,FLL US equity,B-,,US,891482.0,US3596781092,359678109,Consumer Cyclical,Resorts & Casinos,"Gambling, Resorts & Casinos"
+Natural Resource Partners L.P.,NRP,NRP US equity,NR,WR,US,1171486.0,US63900P6088,63900P608,Energy,Thermal Coal,Coal
+KKR Real Estate Finance Trust Inc.,KREF,KREF US equity,B+,,US,1631596.0,US48251K1007,48251K100,Real Estate,REIT—Mortgage,REIT - Mortgage
+"Five Point Holdings, LLC",FPH,FPH US equity,CCC+,,US,1574197.0,US33833Q1067,33833Q106,Real Estate,Real Estate—Development,Real Estate - Development
+Middlesex Water Company,MSEX,MSEX US equity,A,,US,66004.0,US5966801087,596680108,Utilities,Utilities—Regulated Water,Regulated Water
+"Nathan's Famous, Inc.",NATH,NATH US equity,B,,US,69733.0,US6323471002,632347100,Consumer Cyclical,Restaurants,Restaurants
+"Banco Latinoamericano de Comercio Exterior, S. A.",BLX,BLX US equity,BBB,Baa2,PA,890541.0,PAP169941328,P16994132,Financial Services,Banks—Regional,Banks - Regional
+IRSA Propiedades Comerciales S.A.,IRCP,IRCP US equity,NR,,AR,1128173.0,US4635881034,463588103,Real Estate,Real Estate Services,Real Estate - Services
+"Lindblad Expeditions Holdings, Inc.",LIND,LIND US equity,B-,,US,1512499.0,US5352191093,535219109,Consumer Cyclical,Travel Services,Travel Services
+"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",HASI,HASI US equity,BB+,,US,1561894.0,US41068X1000,41068X100,Real Estate,REIT—Specialty,REIT - Specialty
+"National CineMedia, Inc.",NCMI,NCMI US equity,NR,,US,1377630.0,US6353091076,635309107,Communication Services,Advertising Agencies,Advertising Agencies
+The York Water Company,YORW,YORW US equity,A-,,US,108985.0,US9871841089,987184108,Utilities,Utilities—Regulated Water,Regulated Water
+Empresa Distribuidora y Comercializadora Norte Sociedad Anónima,EDN,EDN US equity,CCC-,Caa3,AR,1395213.0,US29244A1025,29244A102,Utilities,Utilities—Regulated Electric,Regulated Electric
+"Beasley Broadcast Group, Inc.",BBGI,BBGI US equity,CCC+,,US,1099160.0,US0740141017,074014101,Communication Services,Broadcasting,Broadcasting
+,GOLL4,GOLL4 BZ Equity,CCC+,,,,,,,,
+"Nine Energy Service, Inc.",NINE,NINE US equity,CCC+,WR,US,1532286.0,US65441V1017,65441V101,Energy,Oil & Gas Equipment & Services,Oil & Gas Equipment & Services
+"Delta Air Lines, Inc.",DAL,DAL US equity,BB,Baa3,US,27904.0,US2473617023,247361702,Industrials,Airlines,"Airlines, Airports & Air Services"
+Allegiant Travel Company,ALGT,ALGT US equity,B+,WR,US,1362468.0,US01748X1028,01748X102,Industrials,Airlines,"Airlines, Airports & Air Services"
+,2600,2600 HK Equity,BBB,,,,,,,,
+VEON Ltd.,VEON,VEON US equity,NR,,NL,1468091.0,US91822M1062,91822M106,Communication Services,Telecom Services,Telecommunications Services
+Dole plc,DOLE,DOLE US equity,BB,,IE,1857475.0,IE0003LFZ4U7,G27907107,Consumer Defensive,Farm Products,Agricultural Farm Products
+Mobile TeleSystems Public Joint Stock Company,MBT,MBT US equity,NR,,RU,1115837.0,US6074091090,607409109,Communication Services,Telecom Services,Telecommunications Services
+Vipshop Holdings Limited,VIPS,VIPS US equity,BBB,,CN,1529192.0,US92763W1036,92763W103,Consumer Cyclical,Internet Retail,Specialty Retail
+,BRFS3,BRFS3 BZ equity,BB-,Ba3,,,,,,,
+"Nordstrom, Inc.",JWN,JWN US equity,BB+,Ba1,US,72333.0,US6556641008,655664100,Consumer Cyclical,Department Stores,Department Stores
+Century Aluminum Company,CENX,CENX US equity,B-,WR,US,949157.0,US1564311082,156431108,Basic Materials,Aluminum,Aluminum
+,A005490,A005490 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+,902,902 HK Equity,A-,,,,,,,,
+"JD.com, Inc.",JD,JD US equity,A-,Baa1,CN,1549802.0,US47215P1066,47215P106,Consumer Cyclical,Internet Retail,Specialty Retail
+,7267,7267 JP Equity,A-,A3,,,,,,,
+Unisys Corporation,UIS,UIS US equity,B+,WR,US,746838.0,US9092143067,909214306,Technology,Information Technology Services,Information Technology Services
+CURO Group Holdings Corp.,CURO,CURO US equity,SD,WR,US,1711291.0,US23131L1070,23131L107,Financial Services,Credit Services,Financial - Credit Services
+,ITAUCORP,ITUB4 BZ Equity,NR,(P)Ba3,,,,,,,
+ADT Inc.,ADT,ADT US equity,B+,,US,1703056.0,US00090Q1031,00090Q103,Industrials,Security & Protection Services,Security & Protection Services
+Noah Holdings Limited,NOAH,NOAH US equity,BBB-,,CN,1499543.0,US65487X1028,65487X102,Financial Services,Asset Management,Asset Management
+Evoqua Water Technologies Corp.,AQUA,AQUA US equity,BB- *+,,US,1604643.0,US30057T1051,30057T105,Industrials,Pollution & Treatment Controls,Industrial - Pollution & Treatment Controls
+Stellantis N.V.,STLA,STLA US equity,BBB,Baa2,NL,1605484.0,NL00150001Q9,N82405106,Consumer Cyclical,Auto Manufacturers,Auto - Manufacturers
+,BBDC4,BBDC4 BZ Equity,BB-,Ba2,,,,,,,
+Blue Owl Capital Inc.,OWL,OWL US equity,BBB,,US,1823945.0,US09581B1035,09581B103,Financial Services,Asset Management,Asset Management
+Organon & Co.,OGN,OGN US equity,BB,B1,US,1821825.0,US68622V1061,68622V106,Healthcare,Drug Manufacturers—General,Drug Manufacturers - General
+KKR & Co. Inc.,KKR,KKR US equity,A,,US,1404912.0,US48251W1045,48251W104,Financial Services,Asset Management,Asset Management
+,PHIA,PHIA US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+Umpqua Holdings Corporation,UMPQ,UMPQ US equity,NR,,US,1077771.0,US9042141039,904214103,Financial Services,Banks—Regional,Banks - Regional
+Xperi Holding Corporation,XPER,XPER US equity,,,US,1803696.0,US98390M1036,98390M103,Technology,Semiconductor Equipment & Materials,Semiconductors
+,507685,507685 US equity,#N/A Invalid Security,#N/A Invalid Security,,,,,,,
+,ABI,ABI US equity,,,,,,,,,
+"ACI Worldwide, Inc.",ACIW,ACIW US equity,BB,B2,US,935036.0,US0044981019,004498101,Technology,Software—Infrastructure,Software - Infrastructure
+"Lantheus Holdings, Inc.",LNTH,LNTH US equity,NR,,US,1521036.0,US5165441032,516544103,Healthcare,Drug Manufacturers—Specialty & Generic,Drug Manufacturers - Specialty & Generic
+SITE Centers Corp.,SITC,SITC US equity,BBB-,Baa3,US,894315.0,US82981J1097,82981J109,Real Estate,REIT—Retail,REIT - Retail
+"BlackRock, Inc.",BLK,BLK US equity,AA-,Aa3,US,1364742.0,US09247X1019,09247X101,Financial Services,Asset Management,Asset Management
+,2628,2628 HK Equity,A+,,,,,,,,
+Western Digital Corporation,WDC,WDC US equity,BB,Baa3,US,106040.0,US9581021055,958102105,Technology,Computer Hardware,Computer Hardware
+Pinnacle West Capital Corporation,PNW,PNW US equity,BBB+,Baa1,US,764622.0,US7234841010,723484101,Utilities,Utilities—Regulated Electric,Regulated Electric
+,LLOY,LLOY LN Equity,BBB+,A3,,,,,,,
+,INGA,INGA US equity,,,,,,,,,
+Enstar Group Limited,ESGR,ESGR US equity,BBB,,BM,1363829.0,BMG3075P1014,G3075P101,Financial Services,Insurance—Diversified,Insurance - Diversified
+Visa Inc.,V,V US equity,AA-,Aa3,US,1403161.0,US92826C8394,92826C839,Financial Services,Credit Services,Financial - Credit Services
+"NetApp, Inc.",NTAP,NTAP US equity,BBB+,Baa2,US,1002047.0,US64110D1046,64110D104,Technology,Computer Hardware,Computer Hardware
+Edison International,EIX,EIX US equity,BBB,Baa2,US,827052.0,US2810201077,281020107,Utilities,Utilities—Regulated Electric,Regulated Electric
+Cvent Holding Corp.,CVT,CVT US equity,,,US,1827075.0,US1266771039,126677103,Technology,Software—Application,Software - Application
+"Sun Communities, Inc.",SUI,SUI US equity,BBB,,US,912593.0,US8666741041,866674104,Real Estate,REIT—Residential,REIT - Residential
+Skillsoft Corp.,SKIL,SKIL US equity,B-,,US,1774675.0,US83066P2002,83066P200,Consumer Defensive,Education & Training Services,Education & Training Services
