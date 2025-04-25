@@ -374,7 +374,7 @@ def avg_industry(vari, tck, period, data_annual, data_quarter, label):
 
 
     df_plot = pd.concat([df_industry_grouped, df_tck_grouped], axis=0)
-    #df_plot.reset_index(drop=True, inplace=True)
+    ##df_plot.reset_index(drop=True, inplace=True)
 
     fig_ind = px.line(df_plot, x='date_formated', y=vari, color='symbol',
                       labels={"date": ""}, height=600, markers=True)  # text=vari,
