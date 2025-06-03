@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login - CII Platform</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <div class="logo-container">
+        <img src="data:image/png;base64,{{ encoded_image }}" alt="Logo" />
+    </div>
+
+    <h1 class="headline">Welcome to the 1TCC CII platform</h1>
+
+    <form method="post" action="/sign-in">
+        <input type="text" name="username" placeholder="Username" class="form-input" value="{{ username }}" autofocus>
+        <input type="password" name="password" placeholder="Password" class="form-input" value="{{ password }}">
+        <button type="submit" class="submit-btn">Sign In</button>
+    </form>
+
+    {% if login_failed %}
+        <div class="error-message">Login failed. Please try again.</div>
+    {% endif %}
+</div>
+
+</body>
+</html>

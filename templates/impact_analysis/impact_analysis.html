@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Impact Analysis - CII Platform</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+</head>
+<body>
+    <header class="top-banner">
+        <div class="logo-title">
+            <img src="data:image/png;base64,{{ encoded_image }}" alt="Logo" class="logo" />
+            <span class="platform-title">CII Platform</span>
+        </div>
+        <nav class="nav-links">
+            <a href="/home">Home</a>
+            <a href="/cii">CII</a>
+            <a href="/impact_analysis">Impact Analysis</a>
+        </nav>
+    </header>
+
+    <div class="content-wrapper">
+        <h2 class="section-title">Run Impact Analysis</h2>
+        <div class="card-grid">
+            <div class="tool-card">
+                <h3>Company Ticker</h3>
+                <p>Use pre-populated data from public sources by entering a stock ticker.</p>
+                <a href="/impact_analysis/ticker" class="card-btn">Use Ticker</a>
+            </div>
+            <div class="tool-card">
+                <h3>Manual Input</h3>
+                <p>Provide all required details manually for private companies or custom scenarios.</p>
+                <a href="/impact_analysis/manual" class="card-btn">Manual Entry</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -13,8 +13,8 @@ import os
 from dotenv import load_dotenv
 
 #bundle import
-import gpt
-import da
+from CII import gpt
+from CII import da
 
 api_key_fmp_env=os.getenv('FMP_API_KEY')
 #'2723105eaade3c1ca8d66ca5c567b590'

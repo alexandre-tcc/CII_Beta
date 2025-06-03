@@ -68,10 +68,10 @@ import os
 from dotenv import load_dotenv
 
 #bundle import
-import gpt
-import graph
-import da
-import fmp
+from CII import gpt
+from CII import graph
+from CII import da
+from CII import fmp
 
 load_dotenv()
 
@@ -85,7 +85,7 @@ def create_dataframe_from_list(supplier_list):
 
 
 def credit_rating(ticker):
-    df_ = pd.read_csv('assets/TCC companies mapping 10142024.csv')
+    df_ = pd.read_csv('CII/assets/TCC companies mapping 10142024.csv')
     if ticker in df_['ticker'].to_list():
         return df_[df_['ticker'] == ticker]['S&P rating'].iloc[0], df_[df_['ticker'] == ticker]['Moody rating'].iloc[0]
     else:
@@ -192,7 +192,7 @@ def get_table_competition(ticker_):
     tickers = fmp.return_tickers_industry(ticker_)
     print(tickers)
     print(ticker_)
-    df_ = pd.read_csv('assets/TCC companies mapping 10142024.csv')
+    df_ = pd.read_csv('CII/assets/TCC companies mapping 10142024.csv')
     df_r = df_[df_['ticker'].isin(tickers)]
     return df_r[['name'] + ['ticker']]
 
@@ -283,7 +283,7 @@ enter_icon = html.I(className="fa-solid fa-right-to-bracket me-2")
 dl_icon = html.I(className="fa-solid fa-download me-2")
 exit_icon = html.I(className="fa-solid fa-circle-arrow-left")
 
-image_filename = 'assets/logo.png'
+image_filename = 'CII/assets/logo.png'
 encoded_image = base64.b64encode(open(image_filename, 'rb').read())
 
 # #### User Authentication
